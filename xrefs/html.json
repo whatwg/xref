@@ -3,18 +3,19 @@
   "url" : "http://www.whatwg.org/html/#",
   "definitions" :
     {
+      "active document" : "active-document",
       "attr-id" : "attr-id",
+      "browsing context" : "browsing-context",
       "collections" : "collections",
-      "represented by the collection" : "represented-by-the-collection",
+      "dom-document-defaultview" : "dom-document-defaultview",
+      "dom-element-innerhtml": "dom-innerhtml",
       "htmlcollection" : "htmlcollection",
       "htmldocument" : "htmldocument",
-      "browsing context" : "browsing-context",
-      "active document" : "active-document",
-      "html parser" : "html-parser",
       "html fragment parsing algorithm": "html-fragment-parsing-algorithm",
+      "html parser" : "html-parser",
+      "represented by the collection" : "represented-by-the-collection",
+      "window" : "window",
       "xml fragment parsing algorithm": "xml-fragment-parsing-algorithm",
-      "dom-element-innerhtml": "dom-innerhtml",
-      "dom-document-defaultview" : "dom-document-defaultview",
-      "window" : "window"
+      "xml parser" : "xml-parser"
     }
 }

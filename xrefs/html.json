@@ -1,0 +1,20 @@
+{
+  "name" : "html",
+  "url" : "http://www.whatwg.org/html/#",
+  "definitions" :
+    {
+      "attr-id" : "attr-id",
+      "collections" : "collections",
+      "represented by the collection" : "represented-by-the-collection",
+      "htmlcollection" : "htmlcollection",
+      "htmldocument" : "htmldocument",
+      "browsing context" : "browsing-context",
+      "active document" : "active-document",
+      "html parser" : "html-parser",
+      "html fragment parsing algorithm": "html-fragment-parsing-algorithm",
+      "xml fragment parsing algorithm": "xml-fragment-parsing-algorithm",
+      "dom-element-innerhtml": "dom-innerhtml",
+      "dom-document-defaultview" : "dom-document-defaultview",
+      "window" : "window"
+    }
+}

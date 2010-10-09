@@ -1,0 +1,10 @@
+{
+  "specs" :
+    [ "cssom-view"
+    , "domcore"
+    , "html"
+    , "webidl"
+    , "xml"
+    , "xmlns"
+    ]
+}

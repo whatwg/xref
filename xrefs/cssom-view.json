@@ -1,0 +1,9 @@
+{
+  "name" : "cssom-view",
+  "url" : "http://dev.w3.org/csswg/cssom-view/#",
+  "definitions" :
+    {
+      "clientrect" : "clientrect",
+      "clientrectlist" : "clientrectlist"
+    }
+}

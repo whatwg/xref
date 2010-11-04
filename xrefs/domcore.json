@@ -1,6 +1,6 @@
 {
   "name" : "domcore",
-  "url" : "http://localhost/web-dom-core.html#",
+  "url" : "http://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html#",
   "definitions" :
     {
       "affected by a base url change": "affected-by-a-base-url-change",

@@ -1,21 +1,19 @@
 {
-  "name" : "html",
-  "url" : "http://www.whatwg.org/html/#",
-  "definitions" :
+  "name": "html",
+  "url": "http://www.whatwg.org/html/#",
+  "definitions":
     {
-      "active document" : "active-document",
-      "attr-id" : "attr-id",
-      "browsing context" : "browsing-context",
-      "collections" : "collections",
-      "dom-document-defaultview" : "dom-document-defaultview",
-      "dom-element-innerhtml": "dom-innerhtml",
-      "htmlcollection" : "htmlcollection",
-      "htmldocument" : "htmldocument",
+      "active document": "active-document",
+      "attr-id": "attr-id",
+      "browsing context": "browsing-context",
+      "dom-document-defaultview": "dom-document-defaultview",
+      "htmldocument": "htmldocument",
       "html fragment parsing algorithm": "html-fragment-parsing-algorithm",
-      "html parser" : "html-parser",
-      "represented by the collection" : "represented-by-the-collection",
-      "window" : "window",
+      "html fragment serialization algorithm": "html-fragment-serialization-algorithm",
+      "html parser": "html-parser",
+      "window": "window",
       "xml fragment parsing algorithm": "xml-fragment-parsing-algorithm",
-      "xml parser" : "xml-parser"
+      "xml fragment serialization algorithm": "xml-fragment-serialization-algorithm",
+      "xml parser": "xml-parser"
     }
 }

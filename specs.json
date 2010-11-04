@@ -2,6 +2,7 @@
   "specs" :
     [ "cssom-view"
     , "domcore"
+    , "domrange"
     , "html"
     , "webidl"
     , "xml"

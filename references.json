@@ -14,6 +14,13 @@
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
+  "DOMRANGE" :
+  {
+    "href" : "http://html5.org/specs/dom-range.html",
+    "title" : "DOM Range",
+    "authors" : ["Ms2ger"],
+    "publisher" : "WHATWG"
+  },
   "HTML" :
   {
     "href" : "http://www.whatwg.org/specs/web-apps/current-work/multipage",

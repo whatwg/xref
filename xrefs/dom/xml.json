@@ -4,7 +4,7 @@
     {
       "char" : "NT-Char",
       "name" : "NT-Name",
-      "publidchar" : "NT-PubidChar",
+      "pubidchar" : "NT-PubidChar",
       "pitarget" : "NT-PITarget"
     }
 }

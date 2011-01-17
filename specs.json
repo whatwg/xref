@@ -1,6 +1,7 @@
 {
   "cssom-view": "css/cssom-view.json",
   "domcore": "dom/domcore.json",
+  "domps": "dom/domps.json",
   "domrange": "dom/domrange.json",
   "html": "dom/html.json",
   "webidl": "dom/webidl.json",

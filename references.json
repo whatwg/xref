@@ -14,6 +14,13 @@
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
+  "DOMPS" :
+  {
+    "href" : "http://html5.org/specs/dom-parsing.html",
+    "title" : "DOM Parsing and Serialization",
+    "authors" : ["Ms2ger"],
+    "publisher" : "WHATWG"
+  },
   "DOMRANGE" :
   {
     "href" : "http://html5.org/specs/dom-range.html",

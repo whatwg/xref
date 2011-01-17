@@ -1,8 +1,10 @@
 {
-  "url" : "http://dev.w3.org/csswg/cssom-view/#",
-  "definitions" :
+  "url": "http://dev.w3.org/csswg/cssom-view/#",
+  "definitions":
     {
-      "clientrect" : "clientrect",
-      "clientrectlist" : "clientrectlist"
+      "clientrect": "clientrect",
+      "clientrectlist": "clientrectlist",
+      "dom-range-getclientrects": "dom-range-getclientrects",
+      "dom-range-getboundingclientrect": "dom-range-getboundingclientrect"
     }
 }

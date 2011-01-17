@@ -1,0 +1,17 @@
+{
+  "url": "http://html5.org/specs/dom-parsing.html#",
+  "definitions":
+    {
+      "context object": "context-object",
+      "dom-domparser-parsefromstring": "dom-domparser-parsefromstring",
+      "dom-element-innerhtml": "dom-element-innerhtml",
+      "dom-element-insertadjacenthtml": "dom-element-insertadjacenthtml",
+      "dom-element-outerhtml": "dom-element-outerhtml",
+      "dom-range-createcontextualfragment": "dom-range-createcontextualfragment",
+      "dom-xmlserializer-serializetostring": "dom-xmlserializer-serializetostring",
+      "domparser": "domparser",
+      "other applicable specifications": "other-applicable-specifications",
+      "xmldocument": "xmldocument",
+      "xmlserializer": "xmlserializer"
+    }
+}

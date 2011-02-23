@@ -2,6 +2,7 @@
   "url": "http://www.whatwg.org/html/#",
   "definitions":
     {
+      "ascii case-insensitive": "ascii-case-insensitive",
       "active document": "active-document",
       "attr-id": "attr-id",
       "browsing context": "browsing-context",

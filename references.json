@@ -10,8 +10,8 @@
   {
     "href" : "http://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html",
     "oldhref" : "http://www.w3.org/TR/domcore/",
-    "title" : "Web DOM Core",
-    "authors" : ["A. van Kesteren"],
+    "title" : "DOM Core",
+    "authors" : ["A. van Kesteren", "Ms2ger"],
     "publisher" : "W3C"
   },
   "DOM3CORE" :

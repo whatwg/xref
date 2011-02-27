@@ -14,6 +14,14 @@
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
+  "DOM3CORE" :
+  {
+    "href" : "http://www.w3.org/TR/DOM-Level-3-Core/",
+    "title" : "Document Object Model (DOM) Level 3 Core Specification",
+    "authors" : ["A. Le Hors", "P. Le Hégaret", "L. Wood", "G. Nicol",
+                 "J. Robie", "M. Champion", "S. Byrne"],
+    "publisher" : "W3C"
+  },
   "DOMPS" :
   {
     "href" : "http://html5.org/specs/dom-parsing.html",

@@ -6,20 +6,27 @@
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
-  "DOMCORE" :
-  {
-    "href" : "http://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html",
-    "oldhref" : "http://www.w3.org/TR/domcore/",
-    "title" : "DOM Core",
-    "authors" : ["A. van Kesteren", "Ms2ger"],
-    "publisher" : "W3C"
-  },
   "DOM3CORE" :
   {
     "href" : "http://www.w3.org/TR/DOM-Level-3-Core/",
     "title" : "Document Object Model (DOM) Level 3 Core Specification",
     "authors" : ["A. Le Hors", "P. Le Hégaret", "L. Wood", "G. Nicol",
                  "J. Robie", "M. Champion", "S. Byrne"],
+    "publisher" : "W3C"
+  },
+  "DOM3EVENTS" :
+  {
+    "href" : "http://dev.w3.org/2006/webapi/DOM-Level-3-Events/html/DOM3-Events.html",
+    "title" : "Document Object Model (DOM) Level 3 Events Specification",
+    "authors" : ["D. Schepers"],
+    "publisher" : "W3C"
+  },
+  "DOMCORE" :
+  {
+    "href" : "http://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html",
+    "oldhref" : "http://www.w3.org/TR/domcore/",
+    "title" : "DOM Core",
+    "authors" : ["A. van Kesteren", "Ms2ger"],
     "publisher" : "W3C"
   },
   "DOMPS" :

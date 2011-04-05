@@ -81,6 +81,7 @@
     "other applicable specifications": "other-applicable-specifications",
     "partially contained": "partially-contained",
     "range": "range",
+    "range mutation rules": "range-mutation-rules",
     "rangeexception": "rangeexception",
     "selection": "selection"
   },

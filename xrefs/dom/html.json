@@ -4,6 +4,7 @@
     {
       "ascii case-insensitive": "ascii-case-insensitive",
       "active document": "active-document",
+      "attr-hyperlink-href": "attr-hyperlink-href",
       "attr-id": "attr-id",
       "browsing context": "browsing-context",
       "collections": "collections",
@@ -23,6 +24,7 @@
       "phrasing content": "phrasing-content",
       "presentational hints": "presentational-hints",
       "space character": "space-character",
+      "the a element": "the-a-element",
       "the b element": "the-b-element",
       "the br element": "the-br-element",
       "the directionality": "the-directionality",

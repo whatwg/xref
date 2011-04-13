@@ -26,6 +26,8 @@
       "phrasing content": "phrasing-content",
       "presentational hints": "presentational-hints",
       "rules for parsing non-negative integers": "rules-for-parsing-non-negative-integers",
+      "rules for serializing simple color values": "rules-for-serializing-simple-color-values",
+      "simple color": "simple-color",
       "space character": "space-character",
       "strip leading and trailing whitespace": "strip-leading-and-trailing-whitespace",
       "the a element": "the-a-element",

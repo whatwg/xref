@@ -54,9 +54,6 @@
     "dom-range-startoffset": "dom-range-startoffset",
     "dom-range-stringifier": "dom-range-stringifier",
     "dom-range-surroundcontents": "dom-range-surroundcontents",
-    "dom-rangeexception-bad_boundarypoints_err": "dom-rangeexception-bad_boundarypoints_err",
-    "dom-rangeexception-code": "dom-rangeexception-code",
-    "dom-rangeexception-invalid_node_type_err": "dom-rangeexception-invalid_node_type_err",
     "dom-selection-addrange": "dom-selection-addrange",
     "dom-selection-anchornode": "dom-selection-anchornode",
     "dom-selection-anchoroffset": "dom-selection-anchoroffset",
@@ -82,7 +79,6 @@
     "partially contained": "partially-contained",
     "range": "range",
     "range mutation rules": "range-mutation-rules",
-    "rangeexception": "rangeexception",
     "selection": "selection"
   },
   "url": "http://html5.org/specs/dom-range.html#"

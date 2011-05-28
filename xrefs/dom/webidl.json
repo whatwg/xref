@@ -4,10 +4,10 @@
     "float": "idl-float",
     "long": "idl-long",
     "object": "idl-object",
-    "read only array": "dfn-read-only-array"
+    "read only array": "dfn-read-only-array",
     "supported property indices": "dfn-supported-property-indices",
     "supported property names": "dfn-supported-property-names",
-    "support named properties": "dfn-support-named-properties",
+    "support named properties": "dfn-support-named-properties"
   },
   "url": "http://dev.w3.org/2006/webapi/WebIDL/#"
 }

@@ -1,7 +1,10 @@
 {
   "definitions": {
+    "dictionary member": "dfn-dictionary-member",
     "domstring": "idl-DOMString",
     "float": "idl-float",
+    "identifier": "dfn-identifier",
+    "interface": "dfn-interface",
     "long": "idl-long",
     "object": "idl-object",
     "read only array": "dfn-read-only-array",

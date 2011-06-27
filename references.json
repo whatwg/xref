@@ -50,6 +50,12 @@
     "authors" : ["I. Hickson"],
     "publisher" : "WHATWG"
   },
+  "IANACHARSET":
+  {
+    "href": "http://www.iana.org/assignments/character-sets",
+    "title": "Character Sets",
+    "publisher": "IANA"
+  },
   "MATHML" :
   {
     "href" : "http://www.w3.org/TR/MathML/",

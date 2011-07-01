@@ -4,6 +4,7 @@
   "domps": "dom/domps.json",
   "domrange": "dom/domrange.json",
   "html": "dom/html.json",
+  "progress-events": "dom/progress-events.json",
   "webidl": "dom/webidl.json",
   "xhr": "dom/xhr.json",
   "xml": "dom/xml.json",

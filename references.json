@@ -1,4 +1,11 @@
 {
+  "CORS" :
+  {
+    "href" : "http://dev.w3.org/2006/waf/access-control/",
+    "title" : "Cross-Origin Resource Sharing",
+    "authors" : ["A. van Kesteren"],
+    "publisher" : "W3C"
+  },
   "CSSOMVIEW" :
   {
     "href" : "http://dev.w3.org/csswg/cssom-view/",
@@ -50,6 +57,13 @@
     "authors" : ["I. Hickson"],
     "publisher" : "WHATWG"
   },
+  "HTTP" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc2616",
+    "title" : "Hypertext Transfer Protocol -- HTTP/1.1",
+    "authors" : ["R. Fielding", "J. Gettys", "J. Mogul", "H. Frystyk", "L. Masinter", "P. Leach", "T. Berners-Lee"],
+    "publisher" : "IETF"
+  },
   "IANACHARSET":
   {
     "href": "http://www.iana.org/assignments/character-sets",
@@ -86,6 +100,13 @@
     "href" : "http://dev.w3.org/2006/webapi/WebIDL/",
     "title" : "Web IDL",
     "authors" : ["C. McCormack"],
+    "publisher" : "W3C"
+  },
+  "XHR" :
+  {
+    "href" : "http://dev.w3.org/2006/webapi/XMLHttpRequest-2/",
+    "title" : "XMLHttpRequest Level 2",
+    "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
   "XML" :

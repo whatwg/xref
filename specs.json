@@ -5,6 +5,7 @@
   "domrange": "dom/domrange.json",
   "html": "dom/html.json",
   "webidl": "dom/webidl.json",
+  "xhr": "dom/xhr.json",
   "xml": "dom/xml.json",
   "xmlns": "dom/xmlns.json"
 }

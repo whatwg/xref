@@ -52,7 +52,7 @@
   },
   "HTML" :
   {
-    "href" : "http://www.whatwg.org/specs/web-apps/current-work/multipage",
+    "href" : "http://www.whatwg.org/html",
     "title" : "HTML",
     "authors" : ["I. Hickson"],
     "publisher" : "WHATWG"

@@ -24,6 +24,7 @@
       "dom-font-color": "dom-font-color",
       "dom-font-face": "dom-font-face",
       "dom-font-size": "dom-font-size",
+      "dom-innerhtml": "dom-innerhtml",
       "font": "font",
       "htmldocument": "htmldocument",
       "htmlelement": "htmlelement",

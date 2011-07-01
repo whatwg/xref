@@ -1,4 +1,11 @@
 {
+  "COOKIES" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc6265",
+    "title" : "HTTP State Management Mechanism",
+    "authors" : ["A. Barth"],
+    "publisher" : "IETF"
+  },
   "CORS" :
   {
     "href" : "http://dev.w3.org/2006/waf/access-control/",
@@ -50,6 +57,19 @@
     "authors" : ["Ms2ger"],
     "publisher" : "WHATWG"
   },
+  "ECMASCRIPT" :
+  {
+    "href" : "http://www.ecma-international.org/publications/standards/Ecma-262.htm",
+    "title" : "ECMAScript Language Specification",
+    "publisher" : "ECMA"
+  },
+  "FILEAPI" :
+  {
+     "href" : "http://dev.w3.org/2006/webapi/FileAPI/",
+     "title" : "File API",
+     "authors" : ["A. Ranganathan"],
+     "publisher" : "W3C"
+  },
   "HTML" :
   {
     "href" : "http://www.whatwg.org/html",
@@ -64,11 +84,41 @@
     "authors" : ["R. Fielding", "J. Gettys", "J. Mogul", "H. Frystyk", "L. Masinter", "P. Leach", "T. Berners-Lee"],
     "publisher" : "IETF"
   },
-  "IANACHARSET":
+  "HTTPAUTH" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc2617",
+    "title" : "HTTP Authentication: Basic and Digest Access Authentication",
+    "authors" : ["P. Hallam-Baker", "J. Hostetler", "S. Lawrence", "P. Leach", "A. Luotonen", "L. Stewart"],
+    "publisher" : "IETF"
+  },
+  "HTTPVERBSEC":
+  [{
+    "href": "http://www.kb.cert.org/vuls/id/867593",
+    "title": "Multiple vendors' web servers enable HTTP TRACE method by default",
+    "publisher": "US-CERT"
+  },
+  {
+    "href": "http://www.kb.cert.org/vuls/id/288308",
+    "title": "Microsoft Internet Information Server (IIS) vulnerable to cross-site scripting via HTTP TRACK method",
+    "publisher": "US-CERT"
+  },
+  {
+    "href": "http://www.kb.cert.org/vuls/id/150227",
+    "title": "HTTP proxy default configurations allow arbitrary TCP connections",
+    "publisher": "US-CERT"
+  }],
+  "IANACHARSET" :
   {
     "href": "http://www.iana.org/assignments/character-sets",
     "title": "Character Sets",
     "publisher": "IANA"
+  },
+  "IRI" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc3987",
+    "title" : "Internationalized Resource Identifiers (IRIs)",
+    "authors" : ["M. Duerst", "M. Suignard"],
+    "publisher" : "IETF"
   },
   "MATHML" :
   {
@@ -76,6 +126,20 @@
     "title" : "Mathematical Markup Language (MathML)",
     "authors" : ["D. Carlisle", "P. Ion", "R. Miner", "N. Poppelier"],
     "publisher" : "W3C"
+  },
+  "PROGRESSEVENTS" :
+  {
+    "href" : "http://dev.w3.org/2006/webapi/progress/",
+    "title" : "Progress Events",
+    "authors" : ["A. van Kesteren"],
+    "publisher" : "W3C"
+  },
+  "RFC2046" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc2046",
+    "title" : "Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types",
+    "authors" : ["N. Freed", "N. Borenstein"],
+    "publisher" : "IETF"
   },
   "RFC2119" :
   {
@@ -94,6 +158,20 @@
                  "C. Northway", "A. Quint", "N. Ramani", "D. Schepers",
                  "A. Shellshear"],
     "publisher" : "W3C"
+  },
+  "TYPEDARRAY" :
+  {
+    "href" : "http://www.khronos.org/registry/typedarray/specs/latest/",
+    "title" : "Typed Array",
+    "authors" : ["D. Herman", "K. Russell"],
+    "publisher" : "Khronos"
+  },
+  "URI" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc3986",
+    "title" : "Uniform Resource Identifier (URI): Generic Syntax",
+    "authors" : ["T. Berners-Lee", "R. Fielding", "L. Masinter"],
+    "publisher" : "IETF"
   },
   "WEBIDL" :
   {

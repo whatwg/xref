@@ -1,4 +1,5 @@
 {
+  "cors": "network/cors.json",
   "cssom-view": "css/cssom-view.json",
   "domcore": "dom/domcore.json",
   "domps": "dom/domps.json",
@@ -7,6 +8,7 @@
   "html": "dom/html.json",
   "http": "network/http.json",
   "progress-events": "dom/progress-events.json",
+  "typedarray": "dom/typedarray.json",
   "uri" : "network/uri.json",
   "webidl": "dom/webidl.json",
   "xhr": "dom/xhr.json",

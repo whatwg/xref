@@ -1,0 +1,7 @@
+{
+  "url": "http://dev.w3.org/2006/waf/access-control/#",
+  "definitions": {
+    "cross-origin request": "cross-origin-request",
+    "cross-origin request status": "cross-origin-request-status"
+  }
+}

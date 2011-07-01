@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "convert a domstring to a sequence of unicode characters" : "dfn-obtain-unicode",
     "dictionary member": "dfn-dictionary-member",
     "domstring": "idl-DOMString",
     "float": "idl-float",

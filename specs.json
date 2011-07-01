@@ -3,6 +3,7 @@
   "domcore": "dom/domcore.json",
   "domps": "dom/domps.json",
   "domrange": "dom/domrange.json",
+  "fileapi": "dom/fileapi.json",
   "html": "dom/html.json",
   "progress-events": "dom/progress-events.json",
   "webidl": "dom/webidl.json",

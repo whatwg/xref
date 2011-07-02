@@ -4,6 +4,7 @@
     {
       "absolute url": "absolute-url",
       "ascii case-insensitive": "ascii-case-insensitive",
+      "ascii serialization of an origin": "ascii-serialization-of-an-origin",
       "active document": "active-document",
       "attr-contenteditable": "attr-contenteditable",
       "attr-div-align": "attr-div-align",

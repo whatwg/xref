@@ -1,0 +1,9 @@
+{
+  "url": "http://tools.ietf.org/html/draft-ietf-websec-origin#",
+  "definitions": {
+    "ascii serialization of an origin" : "section-6.2",
+    "origin" : "section-4",
+    "origin-list-or-null" : "section-7.1",
+    "same origin" : "section-5"
+  }
+}

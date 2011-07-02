@@ -2,6 +2,7 @@
   "url": "http://www.whatwg.org/html/#",
   "definitions":
     {
+      "absolute url": "absolute-url",
       "ascii case-insensitive": "ascii-case-insensitive",
       "active document": "active-document",
       "attr-contenteditable": "attr-contenteditable",
@@ -13,10 +14,12 @@
       "attr-ol-start": "attr-ol-start",
       "attr-ol-type": "attr-ol-type",
       "browsing context": "browsing-context",
+      "case-sensitive": "case-sensitive",
       "center": "center",
       "classes": "classes",
       "collections": "collections",
       "content models": "content-models",
+      "content-type metadata": "content-type",
       "concept-frag-parse-context": "concept-frag-parse-context",
       "concept-task": "concept-task",
       "constructing the form data set": "constructing-form-data-set",

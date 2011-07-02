@@ -208,5 +208,12 @@
     "title" : "Namespaces in XML",
     "authors" : ["T. Bray", "D. Hollander", "A. Layman", "R. Tobin"],
     "publisher" : "W3C"
+  },
+  "XMLSS" :
+  {
+    "href" : "http://www.w3.org/TR/xml-stylesheet/",
+    "title" : "Associating Style Sheets with XML documents 1.0 (Second Edition)",
+    "authors" : ["J. Clark", "S. Pieters", "H. S. Thompson"],
+    "publisher" : "W3C"
   }
 }

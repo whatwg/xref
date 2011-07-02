@@ -5,6 +5,7 @@
       "cdata": "NT-CData",
       "char": "NT-Char",
       "comment": "NT-Comment",
+      "document type declaration": "dt-doctype",
       "name": "NT-Name",
       "pubidchar": "NT-PubidChar",
       "pitarget": "NT-PITarget"

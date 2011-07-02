@@ -13,5 +13,6 @@
   "webidl": "dom/webidl.json",
   "xhr": "dom/xhr.json",
   "xml": "dom/xml.json",
-  "xmlns": "dom/xmlns.json"
+  "xmlns": "dom/xmlns.json",
+  "xmlss": "dom/xmlss.json"
 }

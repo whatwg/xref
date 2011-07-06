@@ -17,6 +17,7 @@
       "browsing context": "browsing-context",
       "case-sensitive": "case-sensitive",
       "center": "center",
+      "child browsing context" : "child-browsing-context",
       "classes": "classes",
       "collections": "collections",
       "content models": "content-models",
@@ -47,6 +48,7 @@
       "multipart/form-data boundary string":
       "multipart/form-data-boundary-string",
       "multipart/form-data encoding algorithm": "multipart/form-data-encoding-algorithm",
+      "navigate" : "navigate",
       "non-conforming element": "non-conforming-element",
       "origin" : "origin",
       "phrasing content": "phrasing-content",
@@ -57,6 +59,7 @@
       "rules for serializing simple color values": "rules-for-serializing-simple-color-values",
       "same origin" : "same-origin",
       "simple color": "simple-color",
+      "source browsing context" : "source-browsing-context",
       "space character": "space-character",
       "storage mutex" : "storage-mutex",
       "strip leading and trailing whitespace": "strip-leading-and-trailing-whitespace",

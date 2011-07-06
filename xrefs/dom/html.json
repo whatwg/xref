@@ -42,6 +42,7 @@
       "htmldocument": "htmldocument",
       "htmlelement": "htmlelement",
       "htmlformelement": "htmlformelement",
+      "html elements": "html-elements",
       "html fragment parsing algorithm": "html-fragment-parsing-algorithm",
       "html fragment serialization algorithm": "html-fragment-serialization-algorithm",
       "html parser": "html-parser",
@@ -107,6 +108,7 @@
       "valid floating point number": "valid-floating-point-number",
       "valid mime type": "valid-mime-type",
       "window": "window",
+      "windowproxy": "windowproxy",
       "xml fragment parsing algorithm": "xml-fragment-parsing-algorithm",
       "xml fragment serialization algorithm": "xml-fragment-serialization-algorithm",
       "xml parser": "xml-parser"

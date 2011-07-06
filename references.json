@@ -13,6 +13,13 @@
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
+  "CSSOM" :
+  {
+    "href" : "http://dev.w3.org/csswg/cssom/",
+    "title" : "CSSOM",
+    "authors" : ["A. van Kesteren"],
+    "publisher" : "W3C"
+  },
   "CSSOMVIEW" :
   {
     "href" : "http://dev.w3.org/csswg/cssom-view/",

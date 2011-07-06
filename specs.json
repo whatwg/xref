@@ -5,6 +5,7 @@
   "domps": "dom/domps.json",
   "domrange": "dom/domrange.json",
   "fileapi": "dom/fileapi.json",
+  "from-origin": "network/from-origin.json",
   "html": "dom/html.json",
   "http": "network/http.json",
   "origin": "network/origin.json",

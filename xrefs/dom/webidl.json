@@ -11,7 +11,8 @@
     "read only array": "dfn-read-only-array",
     "supported property indices": "dfn-supported-property-indices",
     "supported property names": "dfn-supported-property-names",
-    "support named properties": "dfn-support-named-properties"
+    "support named properties": "dfn-support-named-properties",
+    "throw": "dfn-throw"
   },
   "url": "http://dev.w3.org/2006/webapi/WebIDL/#"
 }

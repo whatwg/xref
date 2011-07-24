@@ -26,6 +26,7 @@
     "concept-collection": "concept-collection",
     "concept-collection-live": "concept-collection-live",
     "concept-collection-static": "concept-collection-static",
+    "concept-doctype": "concept-doctype",
     "concept-doctype-name": "concept-doctype-name",
     "concept-doctype-publicid": "concept-doctype-publicid",
     "concept-doctype-systemid": "concept-doctype-systemid",

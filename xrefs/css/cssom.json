@@ -1,0 +1,8 @@
+{
+  "url": "http://dev.w3.org/csswg/cssom/#",
+  "definitions":
+    {
+      "parse a media query list": "parse-a-media-query-list",
+      "serialize a media query list": "serialize-a-media-query-list"
+    }
+}

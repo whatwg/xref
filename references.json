@@ -27,6 +27,12 @@
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
+  "DOM2TR" : {
+    "href" : "http://www.w3.org/TR/DOM-Level-2-Traversal-Range/",
+    "title" : "Document Object Model (DOM) Level 2 Traversal and Range Specification",
+    "authors" : ["J. Kesselman", "J. Robie", "M. Champion", "P. Sharpe", "V. Apparao", "L. Wood"],
+    "publisher" : "W3C"
+  },
   "DOM3CORE" :
   {
     "href" : "http://www.w3.org/TR/DOM-Level-3-Core/",
@@ -69,6 +75,12 @@
     "href" : "http://www.ecma-international.org/publications/standards/Ecma-262.htm",
     "title" : "ECMAScript Language Specification",
     "publisher" : "ECMA"
+  },
+  "ELEMENTTRAVERSAL" : {
+    "href" : "http://www.w3.org/TR/ElementTraversal/",
+    "title" : "Element Traversal Specification",
+    "authors" : ["D. Schepers"],
+    "publisher" : "W3C"
   },
   "EVENTSOURCE" :
   {

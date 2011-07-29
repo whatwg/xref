@@ -51,6 +51,8 @@
     "concept-node-clone": "concept-node-clone",
     "concept-node-clone-ext": "concept-node-clone-ext",
     "concept-node-filter": "concept-node-filter",
+    "concept-node-insert": "concept-node-insert",
+    "concept-node-replace": "concept-node-replace",
     "concept-nodeiterator-traverse": "concept-nodeiterator-traverse",
     "concept-pi-data": "concept-pi-data",
     "concept-pi-target": "concept-pi-target",
@@ -385,7 +387,6 @@
     "typeinfo": "typeinfo",
     "unordered set of unique space-separated tokens": "unordered-set-of-unique-space-separated-tokens",
     "userdatahandler": "userdatahandler",
-    "violate the node hierarchy": "violate-the-node-hierarchy",
     "xml document": "xml-document",
     "xml namespace": "xml-namespace",
     "xmlns namespace": "xmlns-namespace"

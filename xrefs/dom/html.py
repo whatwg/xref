@@ -1,5 +1,8 @@
 import urllib2
-import json
+try:
+    import json
+except ImportError:
+    import simplejson as json
 
 # HAHAHA HACK (Reads out the first line and makes it parseable as JSON)
 multipageData = json.loads(urllib2.urlopen("http://www.whatwg.org/specs/web-apps/current-work/multipage/fragment-links.js").readline()[21:-1].replace("','", '","').replace("' };", '"}').replace("':'", '":"').replace("\\'", "'").replace("{ '", '{"'))

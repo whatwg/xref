@@ -15,4 +15,4 @@ for term, identifier in localData["definitions"].items():
     localData["definitions"][term] = multipageData[identifier] + ".html#" + identifier
 
 handle = open("html-generated.json", "w")
-handle.write(json.dumps(localData))
+handle.write(json.dumps(localData, sort_keys=True, allow_nan=False, indent=2))

@@ -7,7 +7,7 @@
   "domrange": "dom/domrange.json",
   "fileapi": "dom/fileapi.json",
   "from-origin": "network/from-origin.json",
-  "html": "dom/html.json",
+  "html": "dom/html-generated.json",
   "http": "network/http.json",
   "origin": "network/origin.json",
   "progress-events": "dom/progress-events.json",

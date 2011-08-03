@@ -1,5 +1,5 @@
 {
-  "url": "http://www.whatwg.org/html/#",
+  "url": "http://www.whatwg.org/specs/web-apps/current-work/multipage/",
   "definitions":
     {
       "absolute url": "absolute-url",
@@ -9,7 +9,7 @@
       "attr-contenteditable": "attr-contenteditable",
       "attr-div-align": "attr-div-align",
       "attr-hyperlink-href": "attr-hyperlink-href",
-      "attr-id": "attr-id",
+      "attr-id": "the-id-attribute",
       "attr-li-value": "attr-li-value",
       "attr-ol-reversed": "attr-ol-reversed",
       "attr-ol-start": "attr-ol-start",
@@ -26,7 +26,7 @@
       "concept-task": "concept-task",
       "constructing the form data set": "constructing-form-data-set",
       "converted to ascii lowercase": "converted-to-ascii-lowercase",
-      "designmode": "designmode",
+      "designmode": "designMode",
       "document base url": "document-base-url",
       "dom-document-defaultview": "dom-document-defaultview",
       "dom-font-color": "dom-font-color",
@@ -50,7 +50,6 @@
       "multipart/form-data-boundary-string",
       "multipart/form-data encoding algorithm": "multipart/form-data-encoding-algorithm",
       "navigate" : "navigate",
-      "non-conforming element": "non-conforming-element",
       "origin" : "origin",
       "phrasing content": "phrasing-content",
       "presentational hints": "presentational-hints",
@@ -89,7 +88,7 @@
       "the progress element": "the-progress-element",
       "the s element": "the-s-element",
       "the span element": "the-span-element",
-      "the strike element": "the-strike-element",
+      "the strike element": "strike",
       "the strong element": "the-strong-element",
       "the style attribute": "the-style-attribute",
       "the sub and sup elements": "the-sub-and-sup-elements",

@@ -27,6 +27,23 @@
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
+  "CSSUI" : {
+    "href" : "http://dev.w3.org/csswg/css3-ui/",
+    "title" : "CSS Basic User Interface Module",
+    "authors" : ["Tantek Çelik"],
+    "publisher" : "W3C"
+  },
+  "DOCTYPE" : {
+    "href" : "http://hsivonen.iki.fi/doctype/",
+    "title" : "Activating Browser Modes with Doctype",
+    "authors" : ["Henri Sivonen"]
+  },
+  "DOM2HTML" : {
+    "href" : "http://www.w3.org/TR/DOM-Level-2-HTML/",
+    "title" : "Document Object Model (DOM) Level 2 HTML Specification",
+    "authors" : ["Johnny Stenback", "Philippe Le Hégaret", "Arnaud Le Hors"],
+    "publisher" : "W3C"
+  },
   "DOM2TR" : {
     "href" : "http://www.w3.org/TR/DOM-Level-2-Traversal-Range/",
     "title" : "Document Object Model (DOM) Level 2 Traversal and Range Specification",
@@ -103,6 +120,12 @@
     "authors" : ["I. Hickson"],
     "publisher" : "WHATWG"
   },
+  "HTML4" : {
+     "href" : "http://www.w3.org/TR/html4/",
+     "title" : "HTML 4.01 Specification",
+     "authors" : ["Dave Raggett", "Arnaud Le Hors", "Ian Jacobs"],
+     "publisher" : "W3C"
+  },
   "HTTP" :
   {
     "href" : "http://tools.ietf.org/html/rfc2616",
@@ -167,6 +190,11 @@
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
   },
+  "PSL" : {
+    "href" : "http://publicsuffix.org/",
+    "title" : "Public Suffix List",
+    "publisher" : "Mozilla Foundation"
+  },
   "RFC2046" :
   {
     "href" : "http://tools.ietf.org/html/rfc2046",
@@ -180,6 +208,12 @@
     "title" : "Key words for use in RFCs to Indicate Requirement Levels",
     "authors" : ["S. Bradner"],
     "publisher" : "IETF"
+  },
+  "SELECTORS" : {
+    "href" : "http://dev.w3.org/csswg/selectors3/",
+    "title" : "Selectors Level 3",
+    "authors" : ["Tantek Çelik", "Elika J. Etemad", "Daniel Glazman", "Ian Hickson"],
+    "publisher" : "W3C"
   },
   "SVG" :
   {
@@ -226,6 +260,11 @@
     "title" : "XMLHttpRequest Level 2",
     "authors" : ["A. van Kesteren"],
     "publisher" : "W3C"
+  },
+  "XHTML1" : {
+    "href" : "http://www.w3.org/TR/xhtml11",
+    "title" : "XHTML™ 1.1 - Module-based XHTML - Second Edition",
+    "authors" : ["Murray Altheim", "Shane McCarron"]
   },
   "XML" :
   {

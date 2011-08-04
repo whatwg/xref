@@ -3,28 +3,28 @@
   {
     "href" : "http://tools.ietf.org/html/rfc6265",
     "title" : "HTTP State Management Mechanism",
-    "authors" : ["A. Barth"],
+    "authors" : ["Adam Barth"],
     "publisher" : "IETF"
   },
   "CORS" :
   {
     "href" : "http://dev.w3.org/2006/waf/access-control/",
     "title" : "Cross-Origin Resource Sharing",
-    "authors" : ["A. van Kesteren"],
+    "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
   },
   "CSSOM" :
   {
     "href" : "http://dev.w3.org/csswg/cssom/",
     "title" : "CSSOM",
-    "authors" : ["A. van Kesteren"],
+    "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
   },
   "CSSOMVIEW" :
   {
     "href" : "http://dev.w3.org/csswg/cssom-view/",
     "title" : "CSSOM View",
-    "authors" : ["A. van Kesteren"],
+    "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
   },
   "CSSUI" : {
@@ -47,22 +47,21 @@
   "DOM2TR" : {
     "href" : "http://www.w3.org/TR/DOM-Level-2-Traversal-Range/",
     "title" : "Document Object Model (DOM) Level 2 Traversal and Range Specification",
-    "authors" : ["J. Kesselman", "J. Robie", "M. Champion", "P. Sharpe", "V. Apparao", "L. Wood"],
+    "authors" : ["Joe Kesselman", "Jonathan Robie", "Mike Champion", "Peter Sharpe", "Vidur Apparao", "Lauren Wood"],
     "publisher" : "W3C"
   },
   "DOM3CORE" :
   {
     "href" : "http://www.w3.org/TR/DOM-Level-3-Core/",
     "title" : "Document Object Model (DOM) Level 3 Core Specification",
-    "authors" : ["A. Le Hors", "P. Le Hégaret", "L. Wood", "G. Nicol",
-                 "J. Robie", "M. Champion", "S. Byrne"],
+    "authors" : ["Arnaud Le Hors", "Philippe Le Hégaret", "Lauren Wood", "Gavin Nicol", "Jonathan Robie", "Mike Champion", "Steve Byrne"],
     "publisher" : "W3C"
   },
   "DOM3EVENTS" :
   {
     "href" : "http://dev.w3.org/2006/webapi/DOM-Level-3-Events/html/DOM3-Events.html",
     "title" : "Document Object Model (DOM) Level 3 Events Specification",
-    "authors" : ["D. Schepers", "J. Rossi"],
+    "authors" : ["Doug Schepers", "Jacob Rossi"],
     "publisher" : "W3C"
   },
   "DOMCORE" :
@@ -70,7 +69,7 @@
     "href" : "http://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html",
     "oldhref" : "http://www.w3.org/TR/domcore/",
     "title" : "DOM Core",
-    "authors" : ["A. van Kesteren", "Ms2ger"],
+    "authors" : ["Anne van Kesteren", "Ms2ger"],
     "publisher" : "W3C"
   },
   "DOMPS" :
@@ -84,7 +83,7 @@
   {
     "href" : "http://html5.org/specs/dom-range.html",
     "title" : "DOM Range",
-    "authors" : ["Ms2ger"],
+    "authors" : ["Aryeh Gregor", "Ms2ger"],
     "publisher" : "WHATWG"
   },
   "ECMASCRIPT" :
@@ -96,28 +95,28 @@
   "ELEMENTTRAVERSAL" : {
     "href" : "http://www.w3.org/TR/ElementTraversal/",
     "title" : "Element Traversal Specification",
-    "authors" : ["D. Schepers"],
+    "authors" : ["Doug Schepers"],
     "publisher" : "W3C"
   },
   "EVENTSOURCE" :
   {
     "href" : "http://dev.w3.org/html5/eventsource/",
     "title" : "Server-Sent Events",
-    "authors" : ["I. Hickson"],
+    "authors" : ["Ian Hickson"],
     "publisher" : "W3C"
   },
   "FILEAPI" :
   {
      "href" : "http://dev.w3.org/2006/webapi/FileAPI/",
      "title" : "File API",
-     "authors" : ["A. Ranganathan"],
+     "authors" : ["Arun Ranganathan", "Jonas Sicking"],
      "publisher" : "W3C"
   },
   "HTML" :
   {
     "href" : "http://www.whatwg.org/html",
     "title" : "HTML",
-    "authors" : ["I. Hickson"],
+    "authors" : ["Ian Hickson"],
     "publisher" : "WHATWG"
   },
   "HTML4" : {
@@ -130,7 +129,7 @@
   {
     "href" : "http://tools.ietf.org/html/rfc2616",
     "title" : "Hypertext Transfer Protocol -- HTTP/1.1",
-    "authors" : ["R. Fielding", "J. Gettys", "J. Mogul", "H. Frystyk", "L. Masinter", "P. Leach", "T. Berners-Lee"],
+    "authors" : ["Roy Fielding", "J. Gettys", "J. Mogul", "Henrik Frystyk", "Larry Masinter", "P. Leach", "Tim Berners-Lee"],
     "publisher" : "IETF"
   },
   "HTTPAUTH" :
@@ -180,14 +179,14 @@
   {
     "href" : "http://tools.ietf.org/html/draft-ietf-websec-origin",
     "title" : "The Web Origin Concept",
-    "authors" : ["A. Barth"],
+    "authors" : ["Adam Barth"],
     "publisher" : "IETF"
   },
   "PROGRESSEVENTS" :
   {
     "href" : "http://dev.w3.org/2006/webapi/progress/",
     "title" : "Progress Events",
-    "authors" : ["A. van Kesteren"],
+    "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
   },
   "PSL" : {
@@ -204,9 +203,9 @@
   },
   "RFC2119" :
   {
-    "href" : "http://www.ietf.org/rfc/rfc2119.txt",
+    "href" : "http://tools.ietf.org/html/rfc2119",
     "title" : "Key words for use in RFCs to Indicate Requirement Levels",
-    "authors" : ["S. Bradner"],
+    "authors" : ["Scott Bradner"],
     "publisher" : "IETF"
   },
   "SELECTORS" : {
@@ -222,7 +221,7 @@
     "authors" : ["O. Andersson", "R. Berjon", "E. Dahlström", "A. Emmons",
                  "J. Ferraiolo", "A. Grasso", "V. Hardy", "S. Hayman",
                  "D. Jackson", "C. Lilley", "C. McCormack", "A. Neumann",
-                 "C. Northway", "A. Quint", "N. Ramani", "D. Schepers",
+                 "C. Northway", "A. Quint", "N. Ramani", "Doug Schepers",
                  "A. Shellshear"],
     "publisher" : "W3C"
   },
@@ -230,35 +229,35 @@
   {
     "href" : "http://www.khronos.org/registry/typedarray/specs/latest/",
     "title" : "Typed Array",
-    "authors" : ["D. Herman", "K. Russell"],
+    "authors" : ["David Herman", "Kenneth Russell"],
     "publisher" : "Khronos"
   },
   "URI" :
   {
     "href" : "http://tools.ietf.org/html/rfc3986",
     "title" : "Uniform Resource Identifier (URI): Generic Syntax",
-    "authors" : ["T. Berners-Lee", "R. Fielding", "L. Masinter"],
+    "authors" : ["Tim Berners-Lee", "Roy Fielding", "Larry Masinter"],
     "publisher" : "IETF"
   },
   "WEBIDL" :
   {
     "href" : "http://dev.w3.org/2006/webapi/WebIDL/",
     "title" : "Web IDL",
-    "authors" : ["C. McCormack"],
+    "authors" : ["Cameron McCormack"],
     "publisher" : "W3C"
   },
   "XBL" :
   {
     "href" : "http://dev.w3.org/2006/xbl2/",
     "title" : "XBL",
-    "authors" : ["I. Hickson"],
+    "authors" : ["Ian Hickson"],
     "publisher" : "W3C"
   },
   "XHR" :
   {
     "href" : "http://dev.w3.org/2006/webapi/XMLHttpRequest-2/",
     "title" : "XMLHttpRequest Level 2",
-    "authors" : ["A. van Kesteren"],
+    "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
   },
   "XHTML1" : {
@@ -270,29 +269,28 @@
   {
     "href" : "http://www.w3.org/TR/xml/",
     "title" : "Extensible Markup Language",
-    "authors" : ["T. Bray", "J. Paoli", "C. Sperberg-McQueen", "E. Maler",
-                 "F. Yergeau"],
+    "authors" : ["Tim Bray", "Jean Paoli", "C. M. Sperberg-McQueen", "Eve Maler", "François Yergeau"],
     "publisher" : "W3C"
   },
   "XMLID" :
   {
     "href" : "http://www.w3.org/TR/xml-id/",
     "title" : "xml:id",
-    "authors" : ["J. Marsh", "D. Veillard", "N. Walsh"],
+    "authors" : ["Jonathan Marsh", "Daniel Veillard", "Norman Walsh"],
     "publisher" : "W3C"
   },
   "XMLNS" :
   {
     "href" : "http://www.w3.org/TR/xml-names/",
     "title" : "Namespaces in XML",
-    "authors" : ["T. Bray", "D. Hollander", "A. Layman", "R. Tobin"],
+    "authors" : ["Tim Bray", "Dave Hollander", "Andrew Layman", "Richard  Tobin", "Henry S. Thompson"],
     "publisher" : "W3C"
   },
   "XMLSS" :
   {
     "href" : "http://www.w3.org/TR/xml-stylesheet/",
     "title" : "Associating Style Sheets with XML documents 1.0 (Second Edition)",
-    "authors" : ["J. Clark", "S. Pieters", "H. S. Thompson"],
+    "authors" : ["James Clark", "Simon Pieters", "Henry S. Thompson"],
     "publisher" : "W3C"
   }
 }

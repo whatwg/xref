@@ -12,7 +12,8 @@
     "supported property indices": "dfn-supported-property-indices",
     "supported property names": "dfn-supported-property-names",
     "support named properties": "dfn-support-named-properties",
-    "throw": "dfn-throw"
+    "throw": "dfn-throw",
+    "unsigned long": "idl-unsigned-long"
   },
   "url": "http://dev.w3.org/2006/webapi/WebIDL/#"
 }

@@ -129,14 +129,14 @@
   {
     "href" : "http://tools.ietf.org/html/rfc2616",
     "title" : "Hypertext Transfer Protocol -- HTTP/1.1",
-    "authors" : ["Roy Fielding", "J. Gettys", "J. Mogul", "Henrik Frystyk", "Larry Masinter", "P. Leach", "Tim Berners-Lee"],
+    "authors" : ["Roy Fielding", "James Gettys", "Jeffrey Mogul", "Henrik Frystyk", "Larry Masinter", "Paul Leach", "Tim Berners-Lee"],
     "publisher" : "IETF"
   },
   "HTTPAUTH" :
   {
     "href" : "http://tools.ietf.org/html/rfc2617",
     "title" : "HTTP Authentication: Basic and Digest Access Authentication",
-    "authors" : ["P. Hallam-Baker", "J. Hostetler", "S. Lawrence", "P. Leach", "A. Luotonen", "L. Stewart"],
+    "authors" : ["J. Franks", "Phillip Hallam-Baker", "J. Hostetler", "S. Lawrence", "Paul Leach", "A. Luotonen", "L. Stewart"],
     "publisher" : "IETF"
   },
   "HTTPVERBSEC":
@@ -165,14 +165,14 @@
   {
     "href" : "http://tools.ietf.org/html/rfc3987",
     "title" : "Internationalized Resource Identifiers (IRIs)",
-    "authors" : ["M. Duerst", "M. Suignard"],
+    "authors" : ["Martin Dürst", "Michel Suignard"],
     "publisher" : "IETF"
   },
   "MATHML" :
   {
     "href" : "http://www.w3.org/TR/MathML/",
     "title" : "Mathematical Markup Language (MathML)",
-    "authors" : ["D. Carlisle", "P. Ion", "R. Miner", "N. Poppelier"],
+    "authors" : ["David Carlisle", "Patrick Ion", "Robert Miner"],
     "publisher" : "W3C"
   },
   "ORIGIN" :
@@ -198,7 +198,7 @@
   {
     "href" : "http://tools.ietf.org/html/rfc2046",
     "title" : "Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types",
-    "authors" : ["N. Freed", "N. Borenstein"],
+    "authors" : ["Ned Freed", "Nathaniel Borenstein"],
     "publisher" : "IETF"
   },
   "RFC2119" :

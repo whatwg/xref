@@ -64,12 +64,12 @@
     "authors" : ["Doug Schepers", "Jacob Rossi"],
     "publisher" : "W3C"
   },
-  "DOMCORE" :
+  "DOM" :
   {
     "href" : "http://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html",
     "oldhref" : "http://www.w3.org/TR/domcore/",
-    "title" : "DOM Core",
-    "authors" : ["Anne van Kesteren", "Ms2ger"],
+    "title" : "DOM4",
+    "authors" : ["Anne van Kesteren", "Aryeh Gregor", "Ms2ger"],
     "publisher" : "W3C"
   },
   "DOMPS" :

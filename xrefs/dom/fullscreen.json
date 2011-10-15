@@ -14,5 +14,6 @@
     "fullscreen flag": "fullscreen-flag",
     "transition from fullscreen": "transition-from-fullscreen",
     "transition to fullscreen": "transition-to-fullscreen"
-  }
+  },
+  "url": "http://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html#"
 }

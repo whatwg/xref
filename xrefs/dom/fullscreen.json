@@ -1,0 +1,18 @@
+{
+  "definitions": {
+    "context object": "context-object",
+    "css-pc-fullscreen": "css-pc-fullscreen",
+    "css-pc-fullscreen-ancestor": "css-pc-fullscreen-ancestor",
+    "descendant browsing context": "descendant-browsing-context",
+    "dom-document-exitfullscreen": "dom-document-exitfullscreen",
+    "dom-document-fullscreen": "dom-document-fullscreen",
+    "dom-document-fullscreenelement": "dom-document-fullscreenelement",
+    "dom-document-fullscreenenabled": "dom-document-fullscreenenabled",
+    "dom-element-enterfullscreen": "dom-element-enterfullscreen",
+    "fullscreen element": "fullscreen-element",
+    "fullscreen enabled flag": "fullscreen-enabled-flag",
+    "fullscreen flag": "fullscreen-flag",
+    "transition from fullscreen": "transition-from-fullscreen",
+    "transition to fullscreen": "transition-to-fullscreen"
+  }
+}

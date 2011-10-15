@@ -13,6 +13,12 @@
     "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
   },
+  "CSS" : {
+    "href" : "http://www.w3.org/TR/CSS2/",
+    "title" : "CSS",
+    "authors" : ["Bert Bos", "Tantek Çelik", "Ian Hickson", "Håkon Wium Lie"],
+    "publisher" : "W3C"
+  },
   "CSSOM" :
   {
     "href" : "http://dev.w3.org/csswg/cssom/",

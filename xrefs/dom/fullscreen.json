@@ -5,15 +5,11 @@
     "css-pc-fullscreen-ancestor": "css-pc-fullscreen-ancestor",
     "descendant browsing context": "descendant-browsing-context",
     "dom-document-exitfullscreen": "dom-document-exitfullscreen",
-    "dom-document-fullscreen": "dom-document-fullscreen",
     "dom-document-fullscreenelement": "dom-document-fullscreenelement",
     "dom-document-fullscreenenabled": "dom-document-fullscreenenabled",
-    "dom-element-enterfullscreen": "dom-element-enterfullscreen",
+    "dom-element-requestfullscreen": "dom-element-requestfullscreen",
     "fullscreen element": "fullscreen-element",
-    "fullscreen enabled flag": "fullscreen-enabled-flag",
-    "fullscreen flag": "fullscreen-flag",
-    "transition from fullscreen": "transition-from-fullscreen",
-    "transition to fullscreen": "transition-to-fullscreen"
+    "fullscreen enabled flag": "fullscreen-enabled-flag"
   },
   "url": "http://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html#"
 }

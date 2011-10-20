@@ -2,6 +2,7 @@
   "definitions": {
     "absolute url": "urls.html#absolute-url", 
     "active document": "browsers.html#active-document", 
+    "allowed to show a pop-up": "browsers.html#allowed-to-show-a-pop-up", 
     "ancestor browsing context": "browsers.html#ancestor-browsing-context", 
     "article": "sections.html#the-article-element", 
     "ascii case-insensitive": "infrastructure.html#ascii-case-insensitive", 
@@ -151,6 +152,7 @@
     "url decomposition idl attributes": "urls.html#url-decomposition-idl-attributes", 
     "url-fragment": "urls.html#url-fragment", 
     "url-scheme": "urls.html#url-scheme", 
+    "user interaction task source": "webappapis.html#user-interaction-task-source", 
     "valid floating point number": "common-microsyntaxes.html#valid-floating-point-number", 
     "valid mime type": "infrastructure.html#valid-mime-type", 
     "video": "the-video-element.html#the-video-element", 

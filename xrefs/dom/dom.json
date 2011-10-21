@@ -473,6 +473,7 @@
     "wrongdocumenterror": "wrongdocumenterror",
     "xml document": "xml-document",
     "xml namespace": "xml-namespace",
+    "xmldocument": "xmldocument",
     "xmlns namespace": "xmlns-namespace"
   },
   "url": "http://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html#"

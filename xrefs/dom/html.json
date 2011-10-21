@@ -57,6 +57,7 @@
       "dom-font-color": "dom-font-color",
       "dom-font-face": "dom-font-face",
       "dom-font-size": "dom-font-size",
+      "dom-xmldocument-load" : "dom-xmldocument-load",
       "embed" : "the-embed-element",
       "event handler event type": "event-handler-event-type",
       "event handlers" : "event-handlers",

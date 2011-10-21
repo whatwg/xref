@@ -55,6 +55,7 @@
     "dom-font-color": "obsolete.html#dom-font-color", 
     "dom-font-face": "obsolete.html#dom-font-face", 
     "dom-font-size": "obsolete.html#dom-font-size", 
+    "dom-xmldocument-load": "dom.html#dom-xmldocument-load", 
     "embed": "the-iframe-element.html#the-embed-element", 
     "event handler event type": "webappapis.html#event-handler-event-type", 
     "event handlers": "webappapis.html#event-handlers", 

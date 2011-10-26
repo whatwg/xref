@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import urllib2
 try:
     import json

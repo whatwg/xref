@@ -53,6 +53,7 @@
       "designmode": "designMode",
       "details" : "the-details-element",
       "document base url": "document-base-url",
+      "dom-document-activeelement": "dom-document-activeelement",
       "dom-document-defaultview": "dom-document-defaultview",
       "dom-font-color": "dom-font-color",
       "dom-font-face": "dom-font-face",

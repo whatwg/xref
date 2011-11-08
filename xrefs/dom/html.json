@@ -82,6 +82,7 @@
       "input" : "the-input-element",
       "keygen" : "the-keygen-element",
       "mark" : "the-mark-element",
+      "math" : "math",
       "meter" : "the-meter-element",
       "multipart/form-data boundary string":
       "multipart/form-data-boundary-string",
@@ -113,6 +114,7 @@
       "storage mutex" : "storage-mutex",
       "strip leading and trailing whitespace": "strip-leading-and-trailing-whitespace",
       "summary" : "the-summary-element",
+      "svg" : "svg",
       "task source" : "task-source",
       "task queue": "task-queue",
       "the a element": "the-a-element",
@@ -152,7 +154,6 @@
       "the ul element": "the-ul-element",
       "top-level browsing context": "top-level-browsing-context",
       "track" : "the-track-element",
-      "time" : "the-time-element",
       "url": "url",
       "url decomposition idl attributes": "url-decomposition-idl-attributes",
       "url-fragment": "url-fragment",

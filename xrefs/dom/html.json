@@ -159,6 +159,7 @@
       "url-fragment": "url-fragment",
       "url-scheme": "url-scheme",
       "user interaction task source" : "user-interaction-task-source",
+      "valid e-mail address": "valid-e-mail-address",
       "valid floating point number": "valid-floating-point-number",
       "valid mime type": "valid-mime-type",
       "video" : "the-video-element",

@@ -6,6 +6,7 @@
   "domcore": "dom/dom.json",
   "domps": "dom/domps.json",
   "domrange": "dom/domrange.json",
+  "encoding": "network/encoding.json",
   "fileapi": "dom/fileapi.json",
   "from-origin": "network/from-origin.json",
   "html": "dom/html-generated.json",

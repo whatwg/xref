@@ -8,7 +8,7 @@
   },
   "CORS" :
   {
-    "href" : "http://dev.w3.org/2006/waf/access-control/",
+    "href" : "http://dvcs.w3.org/hg/cors/raw-file/tip/Overview.html",
     "title" : "Cross-Origin Resource Sharing",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
@@ -85,13 +85,6 @@
     "authors" : ["Ms2ger"],
     "publisher" : "WHATWG"
   },
-  "DOMRANGE" :
-  {
-    "href" : "http://html5.org/specs/dom-range.html",
-    "title" : "DOM Range",
-    "authors" : ["Aryeh Gregor", "Ms2ger"],
-    "publisher" : "WHATWG"
-  },
   "ECMASCRIPT" :
   {
     "href" : "http://www.ecma-international.org/publications/standards/Ecma-262.htm",
@@ -120,7 +113,7 @@
   },
   "HTML" :
   {
-    "href" : "http://www.whatwg.org/html",
+    "href" : "http://www.whatwg.org/C",
     "title" : "HTML",
     "authors" : ["Ian Hickson"],
     "publisher" : "WHATWG"
@@ -183,7 +176,7 @@
   },
   "ORIGIN" :
   {
-    "href" : "http://tools.ietf.org/html/draft-ietf-websec-origin",
+    "href" : "http://tools.ietf.org/html/rfc6454",
     "title" : "The Web Origin Concept",
     "authors" : ["Adam Barth"],
     "publisher" : "IETF"
@@ -261,8 +254,8 @@
   },
   "XHR" :
   {
-    "href" : "http://dev.w3.org/2006/webapi/XMLHttpRequest-2/",
-    "title" : "XMLHttpRequest Level 2",
+    "href" : "http://dvcs.w3.org/hg/xhr/raw-file/tip/Overview.html",
+    "title" : "XMLHttpRequest",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
   },

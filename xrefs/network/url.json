@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "collect the url parameters": "collect-the-url-parameters",
+    "dom-url": "dom-url",
+    "dom-url-appendparameter": "dom-url-appendparameter",
+    "dom-url-clearparameter": "dom-url-clearparameter",
+    "dom-url-filename": "dom-url-filename",
+    "dom-url-getparameter": "dom-url-getparameter",
+    "dom-url-getparameterall": "dom-url-getparameterall",
+    "dom-url-origin": "dom-url-origin",
+    "dom-url-parameternames": "dom-url-parameternames",
+    "query parameter canonicalization": "query-parameter-canonicalization",
+    "url": "url",
+    "url parameter serialization": "url-parameter-serialization-0"
+  },
+  "url": "http://dvcs.w3.org/hg/url/raw-file/tip/Overview.html#"
+}

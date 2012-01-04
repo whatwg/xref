@@ -1,4 +1,11 @@
 {
+  "ABOUT" :
+  {
+    "href" : "http://tools.ietf.org/html/draft-ietf-appsawg-about-uri-scheme",
+    "title" : "The 'about' URI scheme",
+    "authors" : ["Lachlan Hunt", "Mykyta Yevstifeyev"],
+    "publisher" : "IETF"
+  },
   "COOKIES" :
   {
     "href" : "http://tools.ietf.org/html/rfc6265",
@@ -205,6 +212,26 @@
     "href" : "http://tools.ietf.org/html/rfc2119",
     "title" : "Key words for use in RFCs to Indicate Requirement Levels",
     "authors" : ["Scott Bradner"],
+    "publisher" : "IETF"
+  },
+  "RFC2781": {
+    "title": "UTF-16, an encoding of ISO 10646",
+    "href": "http://tools.ietf.org/html/rfc2781",
+    "authors": ["Paul Hoffman", "Francois Yergeau"],
+    "publisher": "IETF"
+  },
+  "RFC3986" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc3986",
+    "title" : "Uniform Resource Identifier (URI): Generic Syntax",
+    "authors" : ["Tim Berners-Lee", "Roy Fielding", "Larry Masinter"],
+    "publisher" : "IETF"
+  },
+  "RFC3987" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc3987",
+    "title" : "Internationalized Resource Identifiers (IRIs)",
+    "authors" : ["Martin Dürst", "Michel Suignard"],
     "publisher" : "IETF"
   },
   "SELECTORS" : {

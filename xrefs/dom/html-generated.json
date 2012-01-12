@@ -53,6 +53,7 @@
     "document base url": "urls.html#document-base-url",
     "dom-document-activeelement": "editing.html#dom-document-activeelement",
     "dom-document-defaultview": "browsers.html#dom-document-defaultview",
+    "dom-document-open": "elements.html#dom-document-open",
     "dom-font-color": "obsolete.html#dom-font-color",
     "dom-font-face": "obsolete.html#dom-font-face",
     "dom-font-size": "obsolete.html#dom-font-size",

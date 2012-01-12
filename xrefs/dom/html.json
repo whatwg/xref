@@ -55,6 +55,7 @@
       "document base url": "document-base-url",
       "dom-document-activeelement": "dom-document-activeelement",
       "dom-document-defaultview": "dom-document-defaultview",
+      "dom-document-open": "dom-document-open",
       "dom-font-color": "dom-font-color",
       "dom-font-face": "dom-font-face",
       "dom-font-size": "dom-font-size",

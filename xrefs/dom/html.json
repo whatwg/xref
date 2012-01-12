@@ -53,6 +53,7 @@
       "designmode": "designMode",
       "details" : "the-details-element",
       "document base url": "document-base-url",
+      "dom-document-0" : "dom-document-0",
       "dom-document-activeelement": "dom-document-activeelement",
       "dom-document-defaultview": "dom-document-defaultview",
       "dom-document-open": "dom-document-open",

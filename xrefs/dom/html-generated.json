@@ -51,6 +51,7 @@
     "designmode": "editing.html#designMode",
     "details": "interactive-elements.html#the-details-element",
     "document base url": "urls.html#document-base-url",
+    "dom-document-0": "browsers.html#dom-document-0",
     "dom-document-activeelement": "editing.html#dom-document-activeelement",
     "dom-document-defaultview": "browsers.html#dom-document-defaultview",
     "dom-document-open": "elements.html#dom-document-open",

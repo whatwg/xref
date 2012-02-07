@@ -8,8 +8,9 @@
     "dom-document-fullscreenelement": "dom-document-fullscreenelement",
     "dom-document-fullscreenenabled": "dom-document-fullscreenenabled",
     "dom-element-requestfullscreen": "dom-element-requestfullscreen",
-    "fullscreen element": "fullscreen-element",
-    "fullscreen enabled flag": "fullscreen-enabled-flag"
+    "fullscreen element stack": "fullscreen-element-stack",
+    "fullscreen enabled flag": "fullscreen-enabled-flag",
+    "fully exit fullscreen": "fully-exit-fullscreen"
   },
   "url": "http://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html#"
 }

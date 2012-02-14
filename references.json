@@ -6,6 +6,11 @@
     "authors" : ["Lachlan Hunt", "Mykyta Yevstifeyev"],
     "publisher" : "IETF"
   },
+  "CONFUSED" : {
+    "href" : "http://www.cis.upenn.edu/~KeyKOS/ConfusedDeputy.html",
+    "title" : "The Confused Deputy",
+    "authors" : ["Norm Hardy"]
+  },
   "COOKIES" :
   {
     "href" : "http://tools.ietf.org/html/rfc6265",
@@ -19,6 +24,12 @@
     "title" : "Cross-Origin Resource Sharing",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
+  },
+  "CSRF" :
+  {
+    "href" : "http://marc.info/?l=bugtraq&m=99263135911884&w=2",
+    "title": "Cross-Site Request Forgeries",
+    "authors": ["Peter Watkins"]
   },
   "CSS" : {
     "href" : "http://www.w3.org/TR/CSS2/",
@@ -174,12 +185,23 @@
     "authors" : ["Martin Dürst", "Michel Suignard"],
     "publisher" : "IETF"
   },
+  "JSONP" : {
+    "href" : "http://bob.pythonmac.org/archives/2005/12/05/remote-json-jsonp/",
+    "title" : "JSONP",
+    "authors": ["Bob Ippolito"]
+  },
   "MATHML" :
   {
     "href" : "http://www.w3.org/TR/MathML/",
     "title" : "Mathematical Markup Language (MathML)",
     "authors" : ["David Carlisle", "Patrick Ion", "Robert Miner"],
     "publisher" : "W3C"
+  },
+  "OAUTH" : {
+    "href" : "http://tools.ietf.org/html/rfc5849",
+    "title" : "The OAuth 1.0 Protocol",
+    "authors" : ["Eran Hammer-Lahav"],
+    "publisher" : "IETF"
   },
   "ORIGIN" :
   {

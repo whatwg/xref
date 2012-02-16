@@ -100,6 +100,7 @@
       "parent browsing context" : "parent-browsing-context",
       "parse a url": "parse-a-url",
       "phrasing content": "phrasing-content",
+      "prescan a byte stream to determine its encoding" : "prescan-a-byte-stream-to-determine-its-encoding",
       "presentational hints": "presentational-hints",
       "progress" : "the-progress-element",
       "queue a task": "queue-a-task",

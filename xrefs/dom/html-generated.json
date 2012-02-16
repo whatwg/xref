@@ -97,6 +97,7 @@
     "parent browsing context": "browsers.html#parent-browsing-context",
     "parse a url": "urls.html#parse-a-url",
     "phrasing content": "elements.html#phrasing-content",
+    "prescan a byte stream to determine its encoding": "parsing.html#prescan-a-byte-stream-to-determine-its-encoding",
     "presentational hints": "rendering.html#presentational-hints",
     "progress": "the-button-element.html#the-progress-element",
     "queue a task": "webappapis.html#queue-a-task",

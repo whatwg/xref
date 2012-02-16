@@ -47,6 +47,7 @@
     "content models": "elements.html#content-models",
     "content-type metadata": "fetching-resources.html#content-type",
     "converted to ascii lowercase": "infrastructure.html#converted-to-ascii-lowercase",
+    "data-protocol": "infrastructure.html#data-protocol",
     "datalist": "the-button-element.html#the-datalist-element",
     "designmode": "editing.html#designMode",
     "details": "interactive-elements.html#the-details-element",

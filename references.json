@@ -41,14 +41,14 @@
   {
     "href" : "http://dev.w3.org/csswg/cssom/",
     "title" : "CSSOM",
-    "authors" : ["Anne van Kesteren"],
+    "authors" : ["Glenn Adams", "Shane Stephens", "Anne van Kesteren"],
     "publisher" : "W3C"
   },
   "CSSOMVIEW" :
   {
     "href" : "http://dev.w3.org/csswg/cssom-view/",
     "title" : "CSSOM View",
-    "authors" : ["Anne van Kesteren"],
+    "authors" : ["Glenn Adams", "Shane Stephens", "Anne van Kesteren"],
     "publisher" : "W3C"
   },
   "CSSUI" : {

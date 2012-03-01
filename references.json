@@ -137,10 +137,16 @@
     "publisher" : "WHATWG"
   },
   "HTML4" : {
-     "href" : "http://www.w3.org/TR/html4/",
-     "title" : "HTML 4.01 Specification",
-     "authors" : ["Dave Raggett", "Arnaud Le Hors", "Ian Jacobs"],
-     "publisher" : "W3C"
+    "href" : "http://www.w3.org/TR/html4/",
+    "title" : "HTML 4.01 Specification",
+    "authors" : ["Dave Raggett", "Arnaud Le Hors", "Ian Jacobs"],
+    "publisher" : "W3C"
+  },
+  "HTML5" : {
+    "href" : "http://dev.w3.org/html5/spec/",
+    "title" : "HTML5",
+    "authors" : ["Ian Hickson"],
+    "publisher" : "W3C"
   },
   "HTTP" :
   {

@@ -218,7 +218,7 @@
   },
   "PROGRESSEVENTS" :
   {
-    "href" : "http://dev.w3.org/2006/webapi/progress/",
+    "href" : "http://dvcs.w3.org/hg/progress/raw-file/tip/Overview.html",
     "title" : "Progress Events",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"

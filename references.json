@@ -68,6 +68,12 @@
     "authors" : ["Johnny Stenback", "Philippe Le Hégaret", "Arnaud Le Hors"],
     "publisher" : "W3C"
   },
+  "DOM2STYLE" : {
+    "href" : "http://www.w3.org/TR/DOM-Level-2-Style/",
+    "title" : "Document Object Model (DOM) Level 2 Style Specification",
+    "authors" : ["Chris Wilson", "Philippe Le Hégaret", "Vidur Apparao"],
+    "publisher" : "W3C"
+  },
   "DOM2TR" : {
     "href" : "http://www.w3.org/TR/DOM-Level-2-Traversal-Range/",
     "title" : "Document Object Model (DOM) Level 2 Traversal and Range Specification",

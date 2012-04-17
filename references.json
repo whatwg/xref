@@ -292,6 +292,11 @@
     "authors" : ["David Herman", "Kenneth Russell"],
     "publisher" : "Khronos"
   },
+  "UNICODE" : {
+    "href" : "http://www.unicode.org/versions/latest/",
+    "title" : "Unicode Standard",
+    "publisher" : "Unicode Consortium"
+  },
   "URI" :
   {
     "href" : "http://tools.ietf.org/html/rfc3986",

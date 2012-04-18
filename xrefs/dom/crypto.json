@@ -1,0 +1,9 @@
+{
+  "definitions": {
+    "concept-cryptographically-random-values": "concept-cryptographically-random-values",
+    "crypto": "crypto",
+    "dom-crypto-getrandomvalues": "dom-crypto-getrandomvalues",
+    "dom-window-crypto": "dom-window-crypto",
+    "other applicable specifications": "other-applicable-specifications"
+  }
+}

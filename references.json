@@ -37,6 +37,11 @@
     "authors" : ["Bert Bos", "Tantek Çelik", "Ian Hickson", "Håkon Wium Lie"],
     "publisher" : "W3C"
   },
+  "CSSINTRINSIC" : {
+    "href" : "http://dbaron.org/css/intrinsic/",
+    "title" : "More Precise Definitions of Intrinsic Widths and Table Layout (Proposal)",
+    "authors" : ["L. David Baron"]
+  },
   "CSSOM" :
   {
     "href" : "http://dev.w3.org/csswg/cssom/",

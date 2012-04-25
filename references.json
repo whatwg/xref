@@ -59,7 +59,7 @@
   "CSSSYNTAX" : {
     "href" : "http://dev.w3.org/csswg/css3-syntax/",
     "title" : "CSS Syntax Module Level 3",
-    "authors" : ["Tab Atkins Jr."],
+    "authors" : ["Tab Atkins Jr"],
     "publisher" : "W3C"
   },
   "CSSUI" : {

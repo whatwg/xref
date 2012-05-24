@@ -4,6 +4,7 @@
     "concept-serialize": "concept-serialize",
     "concept-serialize-html": "concept-serialize-html",
     "concept-serialize-xml": "concept-serialize-xml",
+    "concept-serialize-xml-attributes": "concept-serialize-xml-attributes",
     "context object": "context-object",
     "dom-domparser": "dom-domparser",
     "dom-domparser-parsefromstring": "dom-domparser-parsefromstring",

@@ -6,6 +6,13 @@
     "authors" : ["Lachlan Hunt", "Mykyta Yevstifeyev"],
     "publisher" : "IETF"
   },
+  "BIDI":
+  {
+    "href": "http://www.unicode.org/reports/tr9/",
+    "title": "Unicode Bidirectional Algorithm",
+    "authors": ["Mark Davis"],
+    "publisher" : "Unicode Consortium"
+  },
   "CONFUSED" : {
     "href" : "http://www.cis.upenn.edu/~KeyKOS/ConfusedDeputy.html",
     "title" : "The Confused Deputy",

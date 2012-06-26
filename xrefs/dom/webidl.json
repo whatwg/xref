@@ -10,13 +10,13 @@
     "interface": "dfn-interface",
     "long": "idl-long",
     "message": "dfn-exception-message",
+    "name": "dfn-exception-name",
     "object": "idl-object",
     "read only array": "dfn-read-only-array",
     "supported property indices": "dfn-supported-property-indices",
     "supported property names": "dfn-supported-property-names",
     "support named properties": "dfn-support-named-properties",
     "throw": "dfn-throw",
-    "type": "dfn-exception-type",
     "unsigned long": "idl-unsigned-long"
   },
   "url": "http://dev.w3.org/2006/webapi/WebIDL/#"

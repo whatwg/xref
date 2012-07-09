@@ -287,9 +287,9 @@
     "publisher" : "IETF"
   },
   "SELECTORS" : {
-    "href" : "http://dev.w3.org/csswg/selectors3/",
-    "title" : "Selectors Level 3",
-    "authors" : ["Tantek Çelik", "Elika J. Etemad", "Daniel Glazman", "Ian Hickson"],
+    "href" : "http://dev.w3.org/csswg/selectors4/",
+    "title" : "Selectors Level 4",
+    "authors" : ["Tantek Çelik", "Daniel Glazman", "Ian Hickson", "Peter Linss", "John Williams"],
     "publisher" : "W3C"
   },
   "SVG" :

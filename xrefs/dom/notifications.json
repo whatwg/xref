@@ -1,9 +1,9 @@
 {
   "definitions": {
     "body": "body",
-    "body direction": "body-direction",
     "close steps": "close-steps",
     "concept-notification": "concept-notification",
+    "direction": "direction",
     "display steps": "display-steps",
     "dom-notification": "dom-notification",
     "dom-notification-close": "dom-notification-close",
@@ -15,6 +15,7 @@
     "handler-onshow": "handler-onshow",
     "icon": "icon",
     "icon url": "icon-url",
+    "language": "language",
     "list of active notifications": "list-of-active-notifications",
     "list of pending notifications": "list-of-pending-notifications",
     "notification": "notification",
@@ -27,8 +28,7 @@
     "replace steps": "replace-steps",
     "show steps": "show-steps",
     "tag": "tag",
-    "title": "title",
-    "title direction": "title-direction"
+    "title": "title"
   },
   "url": "http://dvcs.w3.org/hg/notifications/raw-file/tip/Overview.html"
 }

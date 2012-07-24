@@ -220,6 +220,13 @@
     "title" : "JSONP",
     "authors": ["Bob Ippolito"]
   },
+  "LANG":
+  {
+    "href" : "http://tools.ietf.org/html/bcp47",
+    "title": "Tags for Identifying Languages; Matching of Language Tags",
+    "authors": ["Addison Phillips", "Mark Davis"],
+    "publisher": "IETF"
+  },
   "MATHML" :
   {
     "href" : "http://www.w3.org/TR/MathML/",

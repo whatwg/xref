@@ -155,7 +155,7 @@
   },
   "HTML" :
   {
-    "href" : "http://www.whatwg.org/C",
+    "href" : "http://www.whatwg.org/specs/web-apps/current-work/multipage/",
     "title" : "HTML",
     "authors" : ["Ian Hickson"],
     "publisher" : "WHATWG"
@@ -294,9 +294,9 @@
     "publisher" : "IETF"
   },
   "SELECTORS" : {
-    "href" : "http://dev.w3.org/csswg/selectors3/",
-    "title" : "Selectors Level 3",
-    "authors" : ["Tantek Çelik", "Elika J. Etemad", "Daniel Glazman", "Ian Hickson"],
+    "href" : "http://dev.w3.org/csswg/selectors4/",
+    "title" : "Selectors Level 4",
+    "authors" : ["Elika J. Etemad"],
     "publisher" : "W3C"
   },
   "SVG" :
@@ -351,7 +351,7 @@
     "publisher" : "W3C"
   },
   "XHTML1" : {
-    "href" : "http://www.w3.org/TR/xhtml11",
+    "href" : "http://www.w3.org/TR/xhtml11/",
     "title" : "XHTML™ 1.1 - Module-based XHTML - Second Edition",
     "authors" : ["Murray Altheim", "Shane McCarron"]
   },

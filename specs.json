@@ -5,6 +5,7 @@
   "dom": "dom/dom.json",
   "domcore": "dom/dom.json",
   "domps": "dom/domps.json",
+  "editing": "dom/editing.json",
   "encoding": "network/encoding.json",
   "fileapi": "dom/fileapi.json",
   "from-origin": "network/from-origin.json",

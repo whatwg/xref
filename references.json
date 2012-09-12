@@ -27,10 +27,10 @@
   },
   "CORS" :
   {
-    "href" : "http://dvcs.w3.org/hg/cors/raw-file/tip/Overview.html",
+    "href" : "http://fetch.spec.whatwg.org/",
     "title" : "Cross-Origin Resource Sharing",
     "authors" : ["Anne van Kesteren"],
-    "publisher" : "W3C"
+    "publisher" : "WHATWG"
   },
   "CSRF" :
   {
@@ -114,11 +114,11 @@
   },
   "DOM" :
   {
-    "href" : "http://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html",
+    "href" : "http://dom.spec.whatwg.org/",
     "oldhref" : "http://www.w3.org/TR/domcore/",
-    "title" : "DOM4",
+    "title" : "DOM",
     "authors" : ["Anne van Kesteren", "Aryeh Gregor", "Ms2ger"],
-    "publisher" : "W3C"
+    "publisher" : "WHATWG"
   },
   "DOMPS" :
   {
@@ -253,13 +253,6 @@
     "authors" : ["Adam Barth"],
     "publisher" : "IETF"
   },
-  "PROGRESSEVENTS" :
-  {
-    "href" : "http://dvcs.w3.org/hg/progress/raw-file/tip/Overview.html",
-    "title" : "Progress Events",
-    "authors" : ["Anne van Kesteren"],
-    "publisher" : "W3C"
-  },
   "PSL" : {
     "href" : "http://publicsuffix.org/",
     "title" : "Public Suffix List",
@@ -351,10 +344,10 @@
   },
   "XHR" :
   {
-    "href" : "http://dvcs.w3.org/hg/xhr/raw-file/tip/Overview.html",
+    "href" : "http://xhr.spec.whatwg.org/",
     "title" : "XMLHttpRequest",
     "authors" : ["Anne van Kesteren"],
-    "publisher" : "W3C"
+    "publisher" : "WHATWG"
   },
   "XHTML1" : {
     "href" : "http://www.w3.org/TR/xhtml11/",

@@ -344,6 +344,7 @@
     "dom-textarea/input-selectiondirection": "dom-textarea/input-selectiondirection",
     "dom-textarea/input-selectionend": "dom-textarea/input-selectionend",
     "dom-textarea/input-selectionstart": "dom-textarea/input-selectionstart",
+    "dom-textarea/input-setrangetext": "dom-textarea/input-setrangetext",
     "dom-textarea/input-setselectionrange": "dom-textarea/input-setselectionrange",
     "dom-translate": "dom-translate",
     "dom-window-postmessage": "dom-window-postmessage",

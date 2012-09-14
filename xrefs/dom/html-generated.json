@@ -344,6 +344,7 @@
     "dom-textarea/input-selectiondirection": "association-of-controls-and-forms.html#dom-textarea/input-selectiondirection",
     "dom-textarea/input-selectionend": "association-of-controls-and-forms.html#dom-textarea/input-selectionend",
     "dom-textarea/input-selectionstart": "association-of-controls-and-forms.html#dom-textarea/input-selectionstart",
+    "dom-textarea/input-setrangetext": "association-of-controls-and-forms.html#dom-textarea/input-setrangetext",
     "dom-textarea/input-setselectionrange": "association-of-controls-and-forms.html#dom-textarea/input-setselectionrange",
     "dom-translate": "elements.html#dom-translate",
     "dom-window-postmessage": "web-messaging.html#dom-window-postmessage",

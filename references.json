@@ -145,6 +145,12 @@
     "authors" : ["Doug Schepers"],
     "publisher" : "W3C"
   },
+  "ENCODING" : {
+    "href" : "http://encoding.spec.whatwg.org/",
+    "title" : "Encoding Standard",
+    "authors" : ["Anne van Kesteren"],
+    "publisher" : "WHATWG"
+  },
   "EVENTSOURCE" :
   {
     "href" : "http://dev.w3.org/html5/eventsource/",

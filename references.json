@@ -122,7 +122,7 @@
   },
   "DOMPS" :
   {
-    "href" : "http://html5.org/specs/dom-parsing.html",
+    "href" : "http://domparsing.spec.whatwg.org/",
     "title" : "DOM Parsing and Serialization",
     "authors" : ["Ms2ger"],
     "publisher" : "WHATWG"

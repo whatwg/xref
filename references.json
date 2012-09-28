@@ -334,6 +334,13 @@
     "authors" : ["Tim Berners-Lee", "Roy Fielding", "Larry Masinter"],
     "publisher" : "IETF"
   },
+  "URL" :
+  {
+    "href": "http://url.spec.whatwg.org/",
+    "title": "URL Standard",
+    "authors": ["Anne van Kesteren"],
+    "publisher": "WHATWG"
+  },
   "WEBIDL" :
   {
     "href" : "http://dev.w3.org/2006/webapi/WebIDL/",

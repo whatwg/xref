@@ -109,7 +109,7 @@
   {
     "href" : "http://dev.w3.org/2006/webapi/DOM-Level-3-Events/html/DOM3-Events.html",
     "title" : "Document Object Model (DOM) Level 3 Events Specification",
-    "authors" : ["Doug Schepers", "Jacob Rossi"],
+    "authors" : ["Travis Leithead"],
     "publisher" : "W3C"
   },
   "DOM" :

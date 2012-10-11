@@ -12,6 +12,7 @@
   "html": "dom/html-generated.json",
   "http": "network/http.json",
   "origin": "network/origin.json",
+  "streams": "dom/streams.json",
   "typedarray": "dom/typedarray.json",
   "uri" : "network/uri.json",
   "url" : "network/url.json",

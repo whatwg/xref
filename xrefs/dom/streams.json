@@ -1,0 +1,7 @@
+{
+  "definitions": {
+    "stream": "idl-def-Stream",
+    "type": "widl-Stream-type"
+  },
+  "url": "http://dvcs.w3.org/hg/streams-api/raw-file/tip/Overview.htm#"
+}

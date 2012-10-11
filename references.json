@@ -304,6 +304,12 @@
     "authors" : ["Elika J. Etemad"],
     "publisher" : "W3C"
   },
+  "STREAMS" : {
+    "href": "http://dvcs.w3.org/hg/streams-api/raw-file/tip/Overview.htm",
+    "title":"Streams API",
+    "authors":["Feras Moussa"],
+    "publisher":"W3C"
+  },
   "SVG" :
   {
     "href" : "http://www.w3.org/TR/SVG/",

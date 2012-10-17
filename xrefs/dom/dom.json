@@ -156,6 +156,7 @@
     "dom-comparehow-start_to_end": "dom-comparehow-start_to_end",
     "dom-comparehow-start_to_start": "dom-comparehow-start_to_start",
     "dom-customevent-detail": "dom-customevent-detail",
+    "dom-document": "dom-document",
     "dom-document-adoptnode": "dom-document-adoptnode",
     "dom-document-characterset": "dom-document-characterset",
     "dom-document-compatmode": "dom-document-compatmode",

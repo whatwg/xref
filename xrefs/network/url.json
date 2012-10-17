@@ -23,6 +23,7 @@
     "dom-url-pathname": "dom-url-pathname",
     "dom-url-port": "dom-url-port",
     "dom-url-protocol": "dom-url-protocol",
+    "dom-url-query": "dom-url-query",
     "dom-url-search": "dom-url-search",
     "dom-url-valid": "dom-url-valid",
     "eof code point": "eof-code-point",
@@ -33,6 +34,7 @@
     "percent escaped": "percent-escaped",
     "query percent escaped": "query-percent-escaped",
     "url": "url",
+    "urlquery": "urlquery",
     "urlutils": "urlutils"
   },
   "url": "http://url.spec.whatwg.org/#"

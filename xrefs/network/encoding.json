@@ -29,7 +29,6 @@
     "euc-kr decoder": "euc-kr-decoder",
     "euc-kr encoder": "euc-kr-encoder",
     "euc-kr lead": "euc-kr-lead",
-    "fallback code point": "fallback-code-point",
     "gb18030": "gb18030",
     "gb18030 decoder": "gb18030-decoder",
     "gb18030 encoder": "gb18030-encoder",
@@ -45,7 +44,6 @@
     "hz-gb-2312 encoder": "hz-gb-2312-encoder",
     "hz-gb-2312 flag": "hz-gb-2312-flag",
     "hz-gb-2312 lead": "hz-gb-2312-lead",
-    "ibm864": "ibm864",
     "ibm866": "ibm866",
     "index": "index",
     "index big5": "index-big5",
@@ -83,6 +81,7 @@
     "iso-8859-6": "iso-8859-6",
     "iso-8859-7": "iso-8859-7",
     "iso-8859-8": "iso-8859-8",
+    "iso-8859-8-i": "iso-8859-8-i",
     "koi8-r": "koi8-r",
     "koi8-u": "koi8-u",
     "label": "label",
@@ -123,7 +122,10 @@
     "windows-1257": "windows-1257",
     "windows-1258": "windows-1258",
     "windows-874": "windows-874",
-    "x-mac-cyrillic": "x-mac-cyrillic"
+    "x-mac-cyrillic": "x-mac-cyrillic",
+    "x-user-defined": "x-user-defined",
+    "x-user-defined decoder": "x-user-defined-decoder",
+    "x-user-defined encoder": "x-user-defined-encoder"
   },
   "url": "http://encoding.spec.whatwg.org/#"
 }

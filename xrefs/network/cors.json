@@ -43,6 +43,7 @@
     "preflight request": "preflight-request",
     "preflight result cache": "preflight-result-cache",
     "redirect steps": "redirect-steps",
+    "referrer source": "referrer-source",
     "request entity body": "request-entity-body",
     "request method": "request-method",
     "request url": "request-url",

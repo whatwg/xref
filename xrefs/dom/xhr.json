@@ -11,7 +11,6 @@
     "document response entity body": "document-response-entity-body",
     "dom-formdata": "dom-formdata",
     "dom-formdata-append": "dom-formdata-append",
-    "dom-formdata-form": "dom-formdata-form",
     "dom-progressevent-lengthcomputable": "dom-progressevent-lengthcomputable",
     "dom-progressevent-loaded": "dom-progressevent-loaded",
     "dom-progressevent-total": "dom-progressevent-total",

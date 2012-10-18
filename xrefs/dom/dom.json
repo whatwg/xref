@@ -437,6 +437,7 @@
     "domtokenlist": "domtokenlist",
     "domuserdata": "domuserdata",
     "element": "element",
+    "encodingerror": "encodingerror",
     "entity": "entity",
     "entityreference": "entityreference",
     "error names table": "error-names-table",

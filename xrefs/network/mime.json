@@ -1,0 +1,10 @@
+{
+  "definitions": {
+    "match the signature for mp4": "matches-the-signature-for-mp4",
+    "rules for distinguishing if a resource is text or binary": "rules-for-text-or-binary",
+    "rules for sniffing fonts specifically": "rules-for-sniffing-fonts-specifically",
+    "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",
+    "rules for sniffing videos specifically": "rules-for-sniffing-video-specifically"
+  },
+  "url": "http://mimesniff.spec.whatwg.org/#"
+}

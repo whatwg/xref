@@ -264,6 +264,12 @@
     "title" : "Public Suffix List",
     "publisher" : "Mozilla Foundation"
   },
+  "RFC959": {
+    "title": "File Transfer Protocol",
+    "href": "http://tools.ietf.org/html/rfc959",
+    "authors": ["J. Postel", "J. Reynolds"],
+    "publisher": "IETF"
+  },
   "RFC2046" :
   {
     "href" : "http://tools.ietf.org/html/rfc2046",
@@ -297,6 +303,11 @@
     "title" : "Internationalized Resource Identifiers (IRIs)",
     "authors" : ["Martin Dürst", "Michel Suignard"],
     "publisher" : "IETF"
+  },
+  "SECCONTSNIFF" : {
+    "href" : "http://www.adambarth.com/papers/2009/barth-caballero-song.pdf",
+    "title" : "Secure Content Sniffing for Web Browsers, or How to Stop Papers from Reviewing Themselves",
+    "authors" : ["Adam Barth", "Juan Caballero", "Dawn Song"]
   },
   "SELECTORS" : {
     "href" : "http://dev.w3.org/csswg/selectors4/",

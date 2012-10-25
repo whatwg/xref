@@ -165,6 +165,12 @@
      "authors" : ["Arun Ranganathan", "Jonas Sicking"],
      "publisher" : "W3C"
   },
+  "FTP": {
+    "title": "File Transfer Protocol",
+    "href": "http://tools.ietf.org/html/rfc959",
+    "authors": ["J. Postel", "J. Reynolds"],
+    "publisher": "IETF"
+  },
   "HTML" :
   {
     "href" : "http://www.whatwg.org/specs/web-apps/current-work/multipage/",
@@ -246,6 +252,13 @@
     "authors" : ["David Carlisle", "Patrick Ion", "Robert Miner"],
     "publisher" : "W3C"
   },
+  "MIMETYPE" :
+  {
+    "href" : "http://tools.ietf.org/html/rfc2046",
+    "title" : "Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types",
+    "authors" : ["Ned Freed", "Nathaniel Borenstein"],
+    "publisher" : "IETF"
+  },
   "OAUTH" : {
     "href" : "http://tools.ietf.org/html/rfc5849",
     "title" : "The OAuth 1.0 Protocol",
@@ -263,19 +276,6 @@
     "href" : "http://publicsuffix.org/",
     "title" : "Public Suffix List",
     "publisher" : "Mozilla Foundation"
-  },
-  "RFC959": {
-    "title": "File Transfer Protocol",
-    "href": "http://tools.ietf.org/html/rfc959",
-    "authors": ["J. Postel", "J. Reynolds"],
-    "publisher": "IETF"
-  },
-  "RFC2046" :
-  {
-    "href" : "http://tools.ietf.org/html/rfc2046",
-    "title" : "Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types",
-    "authors" : ["Ned Freed", "Nathaniel Borenstein"],
-    "publisher" : "IETF"
   },
   "RFC2119" :
   {

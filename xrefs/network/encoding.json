@@ -1,6 +1,7 @@
 {
   "definitions": {
     "ascii case-insensitive": "ascii-case-insensitive",
+    "ascii whitespace": "ascii-whitespace",
     "big5": "big5",
     "big5 decoder": "big5-decoder",
     "big5 encoder": "big5-encoder",
@@ -100,7 +101,7 @@
     "single-byte decoder": "single-byte-decoder",
     "single-byte encoder": "single-byte-encoder",
     "single-byte encoding": "single-byte-encoding",
-    "space characters": "space-characters",
+    "string": "string",
     "textdecodeoptions": "textdecodeoptions",
     "textdecoder": "textdecoder",
     "textdecoderoptions": "textdecoderoptions",

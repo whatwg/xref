@@ -1,6 +1,7 @@
 {
   "definitions": {
     "match the signature for mp4": "matches-the-signature-for-mp4",
+    "media type": "media-type",
     "media type portion": "media-type-portion",
     "official media type": "official-media-type",
     "official media type detection algorithm": "official-media-type-detection-algorithm",

@@ -1,14 +1,13 @@
 {
   "definitions": {
     "match the signature for mp4": "matches-the-signature-for-mp4",
-    "octet": "octet",
     "rules for distinguishing if a resource is text or binary": "rules-for-text-or-binary",
     "rules for sniffing fonts specifically": "rules-for-sniffing-fonts-specifically",
     "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",
     "rules for sniffing videos specifically": "rules-for-sniffing-video-specifically",
-    "tag-terminating octet": "tag-terminating-octet",
+    "tag-terminating byte": "tag-terminating-byte",
     "valid media type": "valid-media-type",
-    "whitespace octet": "whitespace-octet"
+    "whitespace byte": "whitespace-byte"
   },
   "url": "http://mimesniff.spec.whatwg.org/#"
 }

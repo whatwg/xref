@@ -1,10 +1,14 @@
 {
   "definitions": {
     "match the signature for mp4": "matches-the-signature-for-mp4",
+    "media type portion": "media-type-portion",
+    "official media type": "official-media-type",
+    "official media type detection algorithm": "official-media-type-detection-algorithm",
     "rules for distinguishing if a resource is text or binary": "rules-for-text-or-binary",
     "rules for sniffing fonts specifically": "rules-for-sniffing-fonts-specifically",
     "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",
     "rules for sniffing videos specifically": "rules-for-sniffing-video-specifically",
+    "sniffed media type": "sniffed-media-type",
     "tag-terminating byte": "tag-terminating-byte",
     "valid media type": "valid-media-type",
     "whitespace byte": "whitespace-byte"

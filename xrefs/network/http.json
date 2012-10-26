@@ -8,6 +8,7 @@
     "http-content-length" : "section-14.13",
     "media-type" : "section-3.7",
     "method" : "section-5.1.1",
+    "parameter" : "section-3.7",
     "subtype" : "section-3.7",
     "type" : "section-3.7"
   }

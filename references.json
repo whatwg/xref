@@ -6,6 +6,12 @@
     "authors" : ["Lachlan Hunt", "Mykyta Yevstifeyev"],
     "publisher" : "IETF"
   },
+  "ASCII": {
+    "title": "ASCII format for Network Interchange",
+    "href": "http://tools.ietf.org/html/rfc20",
+    "authors": ["Vint Cerf"],
+    "publisher": "IETF"
+  },
   "BIDI":
   {
     "href": "http://www.unicode.org/reports/tr9/",

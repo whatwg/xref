@@ -1,10 +1,13 @@
 {
   "definitions": {
     "actual media type": "actual-media-type",
+    "has-content-type flag": "has-content-type-flag",
     "match the signature for mp4": "matches-the-signature-for-mp4",
     "media type": "media-type",
     "media type portion": "media-type-portion",
     "media type sniffing algorithm": "media-type-sniffing-algorithm",
+    "read the resource header": "read-the-resource-header",
+    "resource header": "resource-header",
     "rules for distinguishing if a resource is text or binary": "rules-for-text-or-binary",
     "rules for sniffing fonts specifically": "rules-for-sniffing-fonts-specifically",
     "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",

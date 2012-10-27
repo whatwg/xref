@@ -252,6 +252,13 @@
     "authors" : ["David Carlisle", "Patrick Ion", "Robert Miner"],
     "publisher" : "W3C"
   },
+  "MIMESNIFF" :
+  {
+    "href": "http://mimesniff.spec.whatwg.org/",
+    "title": "MIME Sniffing",
+    "authors": ["Gordon P. Hemsley"],
+    "publisher": "WHATWG"
+  },
   "MIMETYPE" :
   {
     "href" : "http://tools.ietf.org/html/rfc2046",

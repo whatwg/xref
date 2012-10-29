@@ -1,6 +1,8 @@
 {
   "definitions": {
     "actual media type": "actual-media-type",
+    "binary data byte": "binary-data-byte",
+    "byte": "byte",
     "has-content-type flag": "has-content-type-flag",
     "match the signature for mp4": "matches-the-signature-for-mp4",
     "media type": "media-type",
@@ -12,6 +14,7 @@
     "rules for sniffing fonts specifically": "rules-for-sniffing-fonts-specifically",
     "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",
     "rules for sniffing videos specifically": "rules-for-sniffing-video-specifically",
+    "scriptable media type": "scriptable-media-type",
     "specified media type": "specified-media-type",
     "specified media type detection algorithm": "specified-media-type-detection-algorithm",
     "tag-terminating byte": "tag-terminating-byte",

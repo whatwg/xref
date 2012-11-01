@@ -1,6 +1,5 @@
 {
   "definitions": {
-    "actual media type": "actual-media-type",
     "audio type": "audio-type",
     "binary data byte": "binary-data-byte",
     "byte": "byte",
@@ -23,13 +22,15 @@
     "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",
     "rules for sniffing videos specifically": "rules-for-sniffing-video-specifically",
     "scriptable media type": "scriptable-media-type",
-    "specified media type": "specified-media-type",
-    "specified media type detection algorithm": "specified-media-type-detection-algorithm",
+    "sniffed media type": "sniffed-media-type",
+    "supplied media type": "supplied-media-type",
+    "supplied media type detection algorithm": "supplied-media-type-detection-algorithm",
     "supported by the user agent": "supported-by-the-user-agent",
     "tag-terminating byte": "tag-terminating-byte",
     "valid media type": "valid-media-type",
     "video type": "video-type",
-    "whitespace byte": "whitespace-byte"
+    "whitespace byte": "whitespace-byte",
+    "xml type": "xml-type"
   },
   "url": "http://mimesniff.spec.whatwg.org/#"
 }

@@ -303,6 +303,12 @@
     "authors": ["Paul Hoffman", "Francois Yergeau"],
     "publisher": "IETF"
   },
+  "RFC3023": {
+    "title": "XML Media Types",
+    "href": "http://tools.ietf.org/html/rfc3023",
+    "authors": ["M. Murata", "S. St. Laurent", "D. Kohn"],
+    "publisher": "IETF"
+  },
   "RFC3986" :
   {
     "href" : "http://tools.ietf.org/html/rfc3986",

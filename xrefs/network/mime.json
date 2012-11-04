@@ -1,5 +1,7 @@
 {
   "definitions": {
+    "archive type": "archive-type",
+    "archive type pattern matching algorithm": "archive-type-pattern-matching-algorithm",
     "audio type": "audio-type",
     "audio type pattern matching algorithm": "audio-type-pattern-matching-algorithm",
     "binary data byte": "binary-data-byte",
@@ -21,6 +23,7 @@
     "resource header": "resource-header",
     "rules for distinguishing if a resource is text or binary": "rules-for-text-or-binary",
     "rules for identifying an unknown media type": "rules-for-identifying-an-unknown-media-type",
+    "rules for sniffing archives specifically": "rules-for-sniffing-archives-specifically",
     "rules for sniffing audio specifically": "rules-for-sniffing-audio-specifically",
     "rules for sniffing fonts specifically": "rules-for-sniffing-fonts-specifically",
     "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",

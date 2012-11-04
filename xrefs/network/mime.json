@@ -21,6 +21,7 @@
     "pattern matching algorithm": "pattern-matching-algorithm",
     "read the resource header": "read-the-resource-header",
     "resource header": "resource-header",
+    "rules for distinguishing if a resource is a feed or html": "rules-for-distinguishing-if-a-resource-is-a-feed-or-html",
     "rules for distinguishing if a resource is text or binary": "rules-for-text-or-binary",
     "rules for identifying an unknown media type": "rules-for-identifying-an-unknown-media-type",
     "rules for sniffing archives specifically": "rules-for-sniffing-archives-specifically",

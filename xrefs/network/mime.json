@@ -30,6 +30,7 @@
     "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",
     "rules for sniffing video specifically": "rules-for-sniffing-video-specifically",
     "scriptable media type": "scriptable-media-type",
+    "sniff-scriptable flag": "sniff-scriptable-flag",
     "sniffed media type": "sniffed-media-type",
     "supplied media type": "supplied-media-type",
     "supplied media type detection algorithm": "supplied-media-type-detection-algorithm",

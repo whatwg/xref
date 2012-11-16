@@ -32,6 +32,7 @@
     "concept-url-serializer": "concept-url-serializer",
     "concept-url-serializer-without-fragment": "concept-url-serializer-without-fragment",
     "concept-url-userinfo": "concept-url-userinfo",
+    "default port": "default-port",
     "dom-url": "dom-url",
     "dom-url-hash": "dom-url-hash",
     "dom-url-host": "dom-url-host",

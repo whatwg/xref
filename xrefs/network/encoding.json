@@ -126,6 +126,7 @@
     "utf-8 decoder": "utf-8-decoder",
     "utf-8 encoder": "utf-8-encoder",
     "utf-8 lower boundary": "utf-8-lower-boundary",
+    "utf-8 upper boundary": "utf-8-upper-boundary",
     "windows-1250": "windows-1250",
     "windows-1251": "windows-1251",
     "windows-1252": "windows-1252",

@@ -232,6 +232,12 @@
     "title": "Character Sets",
     "publisher": "IANA"
   },
+  "IPV6": {
+    "title": "IP Version 6 Addressing Architecture",
+    "href": "http://tools.ietf.org/html/rfc4291",
+    "authors": ["R. Hinden", "Steve Deering"],
+    "publisher": "IETF"
+  },
   "IRI" :
   {
     "href" : "http://tools.ietf.org/html/rfc3987",

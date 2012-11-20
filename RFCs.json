@@ -20585,12 +20585,6 @@
     "authors": ["M. MacFaden", "D. Partain", "J. Saperia", "W. Tackabury"],
     "publisher": "IETF"
   },
-  "RFC3513": {
-    "title": "Internet Protocol Version 6 (IPv6) Addressing Architecture",
-    "href": "http://tools.ietf.org/html/rfc3513",
-    "authors": ["R. Hinden", "S. Deering"],
-    "publisher": "IETF"
-  },
   "RFC3514": {
     "title": "The Security Flag in the IPv4 Header",
     "href": "http://tools.ietf.org/html/rfc3514",

@@ -238,6 +238,12 @@
     "authors": ["R. Hinden", "Steve Deering"],
     "publisher": "IETF"
   },
+  "IPV6TEXT": {
+    "title": "A Recommendation for IPv6 Address Text Representation",
+    "href": "http://tools.ietf.org/html/rfc5952",
+    "authors": ["S. Kawamura", "M. Kawashima"],
+    "publisher": "IETF"
+  },
   "IRI" :
   {
     "href" : "http://tools.ietf.org/html/rfc3987",

@@ -321,20 +321,6 @@
     "authors": ["M. Murata", "S. St. Laurent", "D. Kohn"],
     "publisher": "IETF"
   },
-  "RFC3986" :
-  {
-    "href" : "http://tools.ietf.org/html/rfc3986",
-    "title" : "Uniform Resource Identifier (URI): Generic Syntax",
-    "authors" : ["Tim Berners-Lee", "Roy Fielding", "Larry Masinter"],
-    "publisher" : "IETF"
-  },
-  "RFC3987" :
-  {
-    "href" : "http://tools.ietf.org/html/rfc3987",
-    "title" : "Internationalized Resource Identifiers (IRIs)",
-    "authors" : ["Martin Dürst", "Michel Suignard"],
-    "publisher" : "IETF"
-  },
   "SECCONTSNIFF" : {
     "href" : "http://www.adambarth.com/papers/2009/barth-caballero-song.pdf",
     "title" : "Secure Content Sniffing for Web Browsers, or How to Stop Papers from Reviewing Themselves",

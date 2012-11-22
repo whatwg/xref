@@ -15,7 +15,6 @@
   "origin": "network/origin.json",
   "streams": "dom/streams.json",
   "typedarray": "dom/typedarray.json",
-  "uri" : "network/uri.json",
   "url" : "network/url.json",
   "webidl": "dom/webidl.json",
   "xhr": "dom/xhr.json",

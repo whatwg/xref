@@ -13,6 +13,7 @@
   "http": "network/http.json",
   "mime": "network/mime.json",
   "origin": "network/origin.json",
+  "selectors": "css/selectors.json",
   "streams": "dom/streams.json",
   "typedarray": "dom/typedarray.json",
   "url" : "network/url.json",

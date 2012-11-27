@@ -2,8 +2,8 @@
   "definitions": {
     "archive type": "archive-type",
     "archive type pattern matching algorithm": "archive-type-pattern-matching-algorithm",
-    "audio type": "audio-type",
-    "audio type pattern matching algorithm": "audio-type-pattern-matching-algorithm",
+    "audio or video type": "audio-or-video-type",
+    "audio or video type pattern matching algorithm": "audio-or-video-type-pattern-matching-algorithm",
     "binary data byte": "binary-data-byte",
     "byte": "byte",
     "byte pattern": "byte-pattern",
@@ -26,10 +26,9 @@
     "rules for distinguishing if a resource is a feed or html": "rules-for-distinguishing-if-a-resource-is-a-feed-or-html",
     "rules for distinguishing if a resource is text or binary": "rules-for-text-or-binary",
     "rules for identifying an unknown media type": "rules-for-identifying-an-unknown-media-type",
-    "rules for sniffing audio specifically": "rules-for-sniffing-audio-specifically",
+    "rules for sniffing audio and video specifically": "rules-for-sniffing-audio-and-video-specifically",
     "rules for sniffing fonts specifically": "rules-for-sniffing-fonts-specifically",
     "rules for sniffing images specifically": "rules-for-sniffing-images-specifically",
-    "rules for sniffing video specifically": "rules-for-sniffing-video-specifically",
     "scriptable media type": "scriptable-media-type",
     "sniff-scriptable flag": "sniff-scriptable-flag",
     "sniffed media type": "sniffed-media-type",
@@ -38,10 +37,9 @@
     "supported by the user agent": "supported-by-the-user-agent",
     "tag-terminating byte": "tag-terminating-byte",
     "valid media type": "valid-media-type",
-    "video type": "video-type",
-    "video type pattern matching algorithm": "video-type-pattern-matching-algorithm",
     "whitespace byte": "whitespace-byte",
-    "xml type": "xml-type"
+    "xml type": "xml-type",
+    "zip-based type": "zip-based-type"
   },
   "url": "http://mimesniff.spec.whatwg.org/#"
 }

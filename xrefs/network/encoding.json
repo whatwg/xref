@@ -124,6 +124,7 @@
     "utf-8 code point": "utf-8-code-point",
     "utf-8 decode": "utf-8-decode",
     "utf-8 decoder": "utf-8-decoder",
+    "utf-8 encode": "utf-8-encode",
     "utf-8 encoder": "utf-8-encoder",
     "utf-8 lower boundary": "utf-8-lower-boundary",
     "utf-8 upper boundary": "utf-8-upper-boundary",

@@ -356,6 +356,12 @@
     "authors" : ["David Herman", "Kenneth Russell"],
     "publisher" : "Khronos"
   },
+  "UIEVENTS" : {
+    "href" : "https://dvcs.w3.org/hg/d4e/raw-file/tip/source_respec.htm",
+    "title" : "UI Events",
+    "authors" : ["Gary Kacmarcik", "Travis Leithead"],
+    "publisher" : "W3C"
+  },
   "UNICODE" : {
     "href" : "http://www.unicode.org/versions/latest/",
     "title" : "Unicode Standard",

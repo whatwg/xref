@@ -25,3 +25,10 @@ if errors:
 handle = open("html-generated.json", "w")
 handle.write(json.dumps(localData, sort_keys=True, allow_nan=False, indent=2, separators=(',', ': ')))
 handle.write("\n")
+
+# Write a copy for W3C HTML
+localData["url"] = "http://www.w3.org/html/wg/drafts/html/master/"
+
+handle = open("w3c-html-generated.json", "w")
+handle.write(json.dumps(localData, sort_keys=True, allow_nan=False, indent=2, separators=(',', ': ')))
+handle.write("\n")

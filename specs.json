@@ -21,5 +21,6 @@
   "xhr": "dom/xhr.json",
   "xml": "dom/xml.json",
   "xmlns": "dom/xmlns.json",
-  "xmlss": "dom/xmlss.json"
+  "xmlss": "dom/xmlss.json",
+  "w3c-html": "dom/w3c-html-generated.json",
 }

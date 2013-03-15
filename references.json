@@ -191,7 +191,7 @@
     "publisher" : "W3C"
   },
   "HTML5" : {
-    "href" : "http://dev.w3.org/html5/spec/",
+    "href" : "http://www.w3.org/html/wg/drafts/html/master/",
     "title" : "HTML5",
     "authors" : ["Ian Hickson"],
     "publisher" : "W3C"

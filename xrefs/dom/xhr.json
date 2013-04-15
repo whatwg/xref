@@ -78,7 +78,6 @@
     "same-origin request steps": "same-origin-request-steps",
     "send() flag": "send-flag",
     "source origin": "source-origin",
-    "stream response entity body": "stream-response-entity-body",
     "switch to the done state": "switch-done",
     "switch to the headers_received state": "switch-headers-received",
     "switch to the loading state": "switch-loading",

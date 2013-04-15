@@ -56,5 +56,5 @@
     "supports credentials": "supports-credentials",
     "user credentials": "user-credentials"
   },
-  "url": "http://fetch.spec.whatwg.org/#"
+  "url": "http://www.w3.org/TR/2013/CR-cors-20130129/#"
 }

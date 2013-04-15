@@ -218,6 +218,7 @@
     "document": "dom.html#document",
     "document base url": "urls.html#document-base-url",
     "document environment": "webappapis.html#document-environment",
+    "dom manipulation task source": "webappapis.html#dom-manipulation-task-source",
     "dom-a-rellist": "text-level-semantics.html#dom-a-rellist",
     "dom-a-text": "text-level-semantics.html#dom-a-text",
     "dom-accesskey": "editing.html#dom-accesskey",

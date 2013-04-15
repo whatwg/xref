@@ -8,7 +8,6 @@
     "authority ignore slashes state": "authority-ignore-slashes-state",
     "authority second slash state": "authority-second-slash-state",
     "authority state": "authority-state",
-    "clear": "clear",
     "concept-absolute-path-relative-url": "concept-absolute-path-relative-url",
     "concept-absolute-url": "concept-absolute-url",
     "concept-base-url": "concept-base-url",

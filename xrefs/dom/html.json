@@ -218,6 +218,7 @@
     "document": "document",
     "document base url": "document-base-url",
     "document environment": "document-environment",
+    "dom manipulation task source": "dom-manipulation-task-source",
     "dom-a-rellist": "dom-a-rellist",
     "dom-a-text": "dom-a-text",
     "dom-accesskey": "dom-accesskey",

@@ -88,6 +88,12 @@
     "authors" : ["Tantek Çelik"],
     "publisher" : "W3C"
   },
+  "CSSVALUES" : {
+    "href" : "http://dev.w3.org/csswg/css-values/",
+    "title" : "CSS Values and Units Module Level 3",
+    "authors" : ["Håkon Wium Lie", "Tab Atkins", "Elika J. Etemad"],
+    "publisher" : "W3C"
+  },
   "DOCTYPE" : {
     "href" : "http://hsivonen.iki.fi/doctype/",
     "title" : "Activating Browser Modes with Doctype",

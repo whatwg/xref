@@ -204,9 +204,15 @@
     "publisher" : "W3C"
   },
   "HTML5" : {
-    "href" : "http://www.w3.org/html/wg/drafts/html/master/",
+    "href" : "http://www.w3.org/html/wg/drafts/html/CR/",
     "title" : "HTML5",
-    "authors" : ["Ian Hickson"],
+    "authors" : ["Robin Berjon", "Steve Faulkner", "Travis Leithead", "Erika Doyle Navara", "Edward O'Connor", "Silvia Pfeiffer"],
+    "publisher" : "W3C"
+  },
+  "HTML5NIGHTLY" : {
+    "href" : "http://www.w3.org/html/wg/drafts/html/master/",
+    "title" : "HTML 5.1 Nightly",
+    "authors" : ["Robin Berjon", "Steve Faulkner", "Travis Leithead", "Erika Doyle Navara", "Edward O'Connor", "Silvia Pfeiffer"],
     "publisher" : "W3C"
   },
   "HTTP" :

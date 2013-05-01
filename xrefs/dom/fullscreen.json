@@ -14,6 +14,8 @@
     "fullscreen element stack": "fullscreen-element-stack",
     "fullscreen enabled flag": "fullscreen-enabled-flag",
     "fully exit fullscreen": "fully-exit-fullscreen",
+    "handler-document-onfullscreenchange": "handler-document-onfullscreenchange",
+    "handler-document-onfullscreenerror": "handler-document-onfullscreenerror",
     "top layer": "top-layer"
   },
   "url": "http://fullscreen.spec.whatwg.org/#"

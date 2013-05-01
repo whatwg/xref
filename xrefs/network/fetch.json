@@ -30,6 +30,7 @@
     "concept-request-origin": "concept-request-origin",
     "concept-request-redirect-count": "concept-request-redirect-count",
     "concept-request-url": "concept-request-url",
+    "concept-request-use-url-credentials-flag": "concept-request-use-url-credentials-flag",
     "concept-response": "concept-response",
     "concept-response-body": "concept-response-body",
     "concept-response-headers": "concept-response-headers",

@@ -77,13 +77,13 @@
     "publisher" : "W3C"
   },
   "CSSSYNTAX" : {
-    "href" : "http://dev.w3.org/csswg/css3-syntax/",
+    "href" : "http://dev.w3.org/csswg/css-syntax/",
     "title" : "CSS Syntax Module Level 3",
     "authors" : ["Tab Atkins Jr"],
     "publisher" : "W3C"
   },
   "CSSUI" : {
-    "href" : "http://dev.w3.org/csswg/css3-ui/",
+    "href" : "http://dev.w3.org/csswg/css-ui/",
     "title" : "CSS Basic User Interface Module",
     "authors" : ["Tantek Çelik"],
     "publisher" : "W3C"

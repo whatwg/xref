@@ -319,7 +319,7 @@
   "PSL" : {
     "href" : "http://publicsuffix.org/",
     "title" : "Public Suffix List",
-    "publisher" : "Mozilla Foundation"
+    "publisher" : "Mozilla"
   },
   "RFC2119" :
   {

@@ -1,6 +1,5 @@
 {
   "definitions": {
-    "basic fetch": "basic-fetch-0",
     "byte string": "byte-string",
     "cache match": "cache-match",
     "cache-clear": "cache-clear",
@@ -11,6 +10,7 @@
     "cache-origin": "cache-origin",
     "cache-url": "cache-url",
     "case-insensitive byte string": "case-insensitive-byte-string",
+    "concept-basic-fetch": "concept-basic-fetch",
     "concept-fetch": "concept-fetch",
     "concept-header": "concept-header",
     "concept-header-name": "concept-header-name",
@@ -29,6 +29,7 @@
     "concept-request-omit-credentials-mode": "concept-request-omit-credentials-mode",
     "concept-request-origin": "concept-request-origin",
     "concept-request-redirect-count": "concept-request-redirect-count",
+    "concept-request-referrer": "concept-request-referrer",
     "concept-request-url": "concept-request-url",
     "concept-request-use-url-credentials-flag": "concept-request-use-url-credentials-flag",
     "concept-response": "concept-response",

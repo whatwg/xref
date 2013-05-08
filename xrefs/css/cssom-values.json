@@ -10,12 +10,9 @@
     "csspropertyvalue": "csspropertyvalue",
     "csspropertyvaluelist": "csspropertyvaluelist",
     "cssstringcomponentvalue": "cssstringcomponentvalue",
-    "cssurlcomponentvalue": "cssurlcomponentvalue",
-    "parse a css value": "parse-a-css-value",
-    "serialize a css component value": "serialize-a-css-value-component",
-    "serialize a css value": "serialize-a-css-value",
-    "supported styling language": "supported-styling-language",
-    "whitespace": "whitespace"
+    "cssstyledeclaration": "cssstyledeclaration",
+    "cssstyledeclarationvalue": "cssstyledeclarationvalue",
+    "cssurlcomponentvalue": "cssurlcomponentvalue"
   },
-  "url": "http://dvcs.w3.org/hg/csswg/raw-file/tip/cssom-values/Overview.html#"
+  "url": "http://dev.w3.org/hg/csswg/cssom-values/#"
 }

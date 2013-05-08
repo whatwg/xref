@@ -1,6 +1,7 @@
 {
   "cors": "network/cors.json",
   "cssom": "css/cssom.json",
+  "cssom-values": "css/cssom-values.json",
   "cssom-view": "css/cssom-view.json",
   "dom": "dom/dom.json",
   "domcore": "dom/dom.json",

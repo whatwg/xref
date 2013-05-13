@@ -126,6 +126,7 @@
     "attr-input-type-time": "time-state-(type=time)",
     "attr-input-type-url": "url-state-(type=url)",
     "attr-input-type-week": "week-state-(type=week)",
+    "attr-input-value": "attr-input-value",
     "attr-lang": "attr-lang",
     "attr-li-type": "attr-li-type",
     "attr-li-value": "attr-li-value",

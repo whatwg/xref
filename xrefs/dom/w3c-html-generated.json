@@ -206,6 +206,8 @@
     "colgroup": "tabular-data.html#the-colgroup-element",
     "collections": "infrastructure.html#collections",
     "concept-command": "commands.html#concept-command",
+    "concept-event-fire": "infrastructure.html#concept-event-fire",
+    "concept-events-trusted": "infrastructure.html#concept-events-trusted",
     "concept-frag-parse-context": "the-end.html#concept-frag-parse-context",
     "concept-origin-alias": "origin-0.html#concept-origin-alias",
     "concept-script": "webappapis.html#concept-script",

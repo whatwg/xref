@@ -206,6 +206,8 @@
     "colgroup": "the-colgroup-element",
     "collections": "collections",
     "concept-command": "concept-command",
+    "concept-event-fire": "concept-event-fire",
+    "concept-events-trusted": "concept-events-trusted",
     "concept-frag-parse-context": "concept-frag-parse-context",
     "concept-origin-alias": "concept-origin-alias",
     "concept-script": "concept-script",

@@ -464,6 +464,7 @@
     "object": "the-object-element",
     "ol": "the-ol-element",
     "option": "the-option-element",
+    "optgroup": "the-optgroup-element",
     "origin": "origin",
     "output": "the-output-element",
     "p": "the-p-element",

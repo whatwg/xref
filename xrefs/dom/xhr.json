@@ -6,6 +6,7 @@
     "author request headers": "author-request-headers",
     "blob response entity body": "blob-response-entity-body",
     "concept-event-fire-progress": "concept-event-fire-progress",
+    "concept-response-header": "concept-response-header",
     "concept-xmlhttprequest-document": "concept-xmlhttprequest-document",
     "cross-origin request event rules": "cross-origin-request-event-rules",
     "cross-origin request steps": "cross-origin-request-steps",

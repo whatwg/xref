@@ -34,7 +34,7 @@
   "CORS" :
   {
     "href" : "http://fetch.spec.whatwg.org/",
-    "title" : "Cross-Origin Resource Sharing",
+    "title" : "Fetch",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"
   },
@@ -166,7 +166,7 @@
   },
   "ENCODING" : {
     "href" : "http://encoding.spec.whatwg.org/",
-    "title" : "Encoding Standard",
+    "title" : "Encoding",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"
   },
@@ -396,7 +396,7 @@
   "URL" :
   {
     "href": "http://url.spec.whatwg.org/",
-    "title": "URL Standard",
+    "title": "URL",
     "authors": ["Anne van Kesteren"],
     "publisher": "WHATWG"
   },

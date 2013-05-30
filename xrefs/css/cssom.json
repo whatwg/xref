@@ -1,8 +1,8 @@
 {
   "definitions": {
     "add a css style sheet": "add-a-css-style-sheet",
+    "associated css style sheet": "associated-css-style-sheet",
     "associated document": "associated-document",
-    "associated style sheet": "associated-style-sheet",
     "change the preferred css style sheet set name": "change-the-preferred-css-style-sheet-set-name",
     "clear": "clear",
     "collection of media queries": "collection-of-media-queries",

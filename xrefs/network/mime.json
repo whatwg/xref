@@ -11,6 +11,7 @@
     "check-for-apache-bug flag": "check-for-apache-bug-flag",
     "context": "context",
     "context-specific sniffing algorithm": "context-specific-sniffing-algorithm",
+    "converted to ascii lowercase": "converted-to-ascii-lowercase",
     "font type": "font-type",
     "font type pattern matching algorithm": "font-type-pattern-matching-algorithm",
     "image type": "image-type",

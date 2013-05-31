@@ -94,6 +94,13 @@
     "authors" : ["Håkon Wium Lie", "Tab Atkins", "Elika J. Etemad"],
     "publisher" : "W3C"
   },
+  "CSSWRITINGMODES" :
+  {
+    "href" : "http://dev.w3.org/csswg/css-writing-modes/",
+    "title" : "CSS Writing Modes Module",
+    "authors" : ["Elika J. Etemad", "Koji Ishii"],
+    "publisher" : "W3C"
+  },
   "DOCTYPE" : {
     "href" : "http://hsivonen.iki.fi/doctype/",
     "title" : "Activating Browser Modes with Doctype",

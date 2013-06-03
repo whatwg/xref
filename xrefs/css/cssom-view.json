@@ -1,5 +1,7 @@
 {
   "definitions": {
+    "beginning of the document": "beginning-of-the-document",
+    "block flow direction": "block-flow-direction",
     "border edge": "border-edge",
     "canvas": "canvas",
     "caret node": "caret-node",
@@ -83,12 +85,14 @@
     "dom-window-scrollx": "dom-window-scrollx",
     "dom-window-scrolly": "dom-window-scrolly",
     "initial containing block": "initial-containing-block",
+    "inline base direction": "inline-base-direction",
     "list of media query list listeners": "list-of-media-query-list-listeners",
     "margin edge": "margin-edge",
     "mediaquerylist": "mediaquerylist",
     "mediaquerylistlistener": "mediaquerylistlistener",
     "mouseevent": "mouseevent",
     "mouseeventinit": "mouseeventinit",
+    "overflow directions": "overflow-directions",
     "padding edge": "padding-edge",
     "perform a scroll": "perform-a-scroll",
     "screen": "screen",

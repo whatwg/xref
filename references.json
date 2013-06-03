@@ -55,6 +55,13 @@
     "title" : "More Precise Definitions of Intrinsic Widths and Table Layout (Proposal)",
     "authors" : ["L. David Baron"]
   },
+  "CSSNAMESPACES" :
+  {
+    "href" : "http://dev.w3.org/csswg/css-namespaces/",
+    "title" : "CSS Namespaces Module",
+    "authors" : ["Elika J. Etemad", "Anne van Kesteren"],
+    "publisher" : "W3C"
+  },
   "CSSOM" :
   {
     "href" : "http://dev.w3.org/csswg/cssom/",

@@ -83,6 +83,13 @@
     "authors" : ["Glenn Adams", "Simon Pieters"],
     "publisher" : "W3C"
   },
+  "CSSPAGE" :
+  {
+    "href" : "http://dev.w3.org/csswg/css-page/",
+    "title" : "CSS Paged Media Module",
+    "authors" : ["Melinda Grant", "Håkon Wium Lie", "Elika J. Etemad", "Simon Sapin"],
+    "publisher" : "W3C"
+  },
   "CSSSYNTAX" : {
     "href" : "http://dev.w3.org/csswg/css-syntax/",
     "title" : "CSS Syntax Module Level 3",

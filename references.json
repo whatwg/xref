@@ -66,21 +66,21 @@
   {
     "href" : "http://dev.w3.org/csswg/cssom/",
     "title" : "CSS Object Model (CSSOM)",
-    "authors" : ["Glenn Adams", "Simon Pieters"],
+    "authors" : ["Simon Pieters", "Glenn Adams"],
     "publisher" : "W3C"
   },
   "CSSOMVIEW" :
   {
     "href" : "http://dev.w3.org/csswg/cssom-view/",
     "title" : "CSSOM View Module",
-    "authors" : ["Glenn Adams", "Simon Pieters"],
+    "authors" : ["Simon Pieters", "Glenn Adams"],
     "publisher" : "W3C"
   },
   "CSSOMVALUES" :
   {
     "href" : "http://dev.w3.org/csswg/cssom-values/",
     "title" : "CSSOM Values Module",
-    "authors" : ["Glenn Adams", "Simon Pieters"],
+    "authors" : ["Simon Pieters", "Glenn Adams"],
     "publisher" : "W3C"
   },
   "CSSPAGE" :

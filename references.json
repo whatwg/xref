@@ -31,7 +31,7 @@
     "authors" : ["Adam Barth"],
     "publisher" : "IETF"
   },
-  "CORS" :
+  "FETCH" :
   {
     "href" : "http://fetch.spec.whatwg.org/",
     "title" : "Fetch",

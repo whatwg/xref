@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "beginning edges": "beginning-edges",
     "beginning of the document": "beginning-of-the-document",
     "block flow direction": "block-flow-direction",
     "border edge": "border-edge",
@@ -83,6 +84,7 @@
     "dom-window-scrollto": "dom-window-scrollto",
     "dom-window-scrollx": "dom-window-scrollx",
     "dom-window-scrolly": "dom-window-scrolly",
+    "ending edges": "ending-edges",
     "initial containing block": "initial-containing-block",
     "inline base direction": "inline-base-direction",
     "list of media query list listeners": "list-of-media-query-list-listeners",

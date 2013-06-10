@@ -12,7 +12,25 @@
     "cssstringcomponentvalue": "cssstringcomponentvalue",
     "cssstyledeclaration": "cssstyledeclaration",
     "cssstyledeclarationvalue": "cssstyledeclarationvalue",
-    "cssurlcomponentvalue": "cssurlcomponentvalue"
+    "cssurlcomponentvalue": "cssurlcomponentvalue",
+    "cssvalue": "cssvalue",
+    "dom-csscolorcomponentvalue-alpha": "dom-csscolorcomponentvalue-alpha",
+    "dom-csscolorcomponentvalue-blue": "dom-csscolorcomponentvalue-blue",
+    "dom-csscolorcomponentvalue-green": "dom-csscolorcomponentvalue-green",
+    "dom-csscolorcomponentvalue-red": "dom-csscolorcomponentvalue-red",
+    "dom-csscomponentvalue-type": "dom-csscomponentvalue-type",
+    "dom-csscomponentvalue-value": "dom-csscomponentvalue-value",
+    "dom-csslengthcomponentvalue-em": "dom-csslengthcomponentvalue-em",
+    "dom-csslengthcomponentvalue-ex": "dom-csslengthcomponentvalue-ex",
+    "dom-csslengthcomponentvalue-px": "dom-csslengthcomponentvalue-px",
+    "dom-csspercentagecomponentvalue-percent": "dom-csspercentagecomponentvalue-percent",
+    "dom-csspropertyvalue-csstext": "dom-csspropertyvalue-csstext",
+    "dom-csspropertyvalue-list": "dom-csspropertyvalue-list",
+    "dom-cssstringcomponentvalue-identifier": "dom-cssstringcomponentvalue-identifier",
+    "dom-cssstringcomponentvalue-keyword": "dom-cssstringcomponentvalue-keyword",
+    "dom-cssstringcomponentvalue-string": "dom-cssstringcomponentvalue-string",
+    "dom-cssstyledeclaration-values": "dom-cssstyledeclaration-values",
+    "dom-cssurlcomponentvalue-url": "dom-cssurlcomponentvalue-url"
   },
   "url": "http://dev.w3.org/csswg/cssom-values/#"
 }

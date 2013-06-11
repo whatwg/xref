@@ -4,7 +4,7 @@
     "parse a list of component values": "parse-a-list-of-component-values0",
     "parse a list of declarations": "parse-a-list-of-declarations0",
     "parse a rule": "parse-a-rule0",
-    "parse a stylesheet": "parse-a-stylesheet0"
+    "parse a stylesheet": "parse-a-stylesheet0",
     "serializing <an+b>": "serializing-anb"
   },
   "url": "http://dev.w3.org/csswg/css-syntax/#"

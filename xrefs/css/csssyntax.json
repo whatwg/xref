@@ -1,0 +1,10 @@
+{
+  "definitions": {
+    "parse a component value": "parse-a-component-value0",
+    "parse a list of component values": "parse-a-list-of-component-values0",
+    "parse a list of declarations": "parse-a-list-of-declarations0",
+    "parse a rule": "parse-a-rule0",
+    "parse a stylesheet": "parse-a-stylesheet0"
+  },
+  "url": "http://dev.w3.org/csswg/css-syntax/#"
+}

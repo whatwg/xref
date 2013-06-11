@@ -39,6 +39,7 @@
     "rules for sniffing in a script context": "rules-for-sniffing-in-a-script-context",
     "rules for sniffing in a style context": "rules-for-sniffing-in-a-style-context",
     "scriptable mime type": "scriptable-mime-type",
+    "serialize a mime type": "serialize-a-mime-type",
     "sniff-scriptable flag": "sniff-scriptable-flag",
     "sniffed mime type": "sniffed-mime-type",
     "subtype": "subtype",

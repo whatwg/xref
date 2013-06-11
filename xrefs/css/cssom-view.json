@@ -1,7 +1,6 @@
 {
   "definitions": {
     "beginning edges": "beginning-edges",
-    "beginning of the document": "beginning-of-the-document",
     "block flow direction": "block-flow-direction",
     "border edge": "border-edge",
     "canvas": "canvas",
@@ -99,6 +98,7 @@
     "screen": "screen",
     "scroll an element": "scroll-an-element",
     "scroll an element into view": "scroll-an-element-into-view",
+    "scroll to the beginning of the document": "scroll-to-the-beginning-of-the-document",
     "scroll-behavior": "scroll-behavior",
     "scroll-behavior-instant": "scroll-behavior-instant",
     "scroll-behavior-smooth": "scroll-behavior-smooth",

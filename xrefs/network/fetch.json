@@ -1,6 +1,5 @@
 {
   "definitions": {
-    "byte string": "byte-string",
     "cache match": "cache-match",
     "cache-clear": "cache-clear",
     "cache-credentials": "cache-credentials",
@@ -9,7 +8,7 @@
     "cache-method": "cache-method",
     "cache-origin": "cache-origin",
     "cache-url": "cache-url",
-    "case-insensitive byte string": "case-insensitive-byte-string",
+    "case-insensitive byte sequence": "case-insensitive-byte-sequence",
     "concept-basic-fetch": "concept-basic-fetch",
     "concept-fetch": "concept-fetch",
     "concept-header": "concept-header",

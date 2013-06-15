@@ -1,0 +1,15 @@
+{
+  "informative": [
+    "ASCII",
+    "FTP",
+    "MIMETYPE",
+    "RFC3023",
+    "SECCONTSNIFF"
+  ],
+  "normative": [
+    "ENCODING",
+    "HTML",
+    "HTTP",
+    "RFC2119"
+  ]
+}

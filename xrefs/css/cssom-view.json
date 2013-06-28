@@ -30,6 +30,7 @@
     "dom-clientrectlist-length": "dom-clientrectlist-length",
     "dom-document-caretpositionfrompoint": "dom-document-caretpositionfrompoint",
     "dom-document-elementfrompoint": "dom-document-elementfrompoint",
+    "dom-document-elementsfrompoint": "dom-document-elementsfrompoint",
     "dom-element-clientheight": "dom-element-clientheight",
     "dom-element-clientleft": "dom-element-clientleft",
     "dom-element-clienttop": "dom-element-clienttop",
@@ -86,6 +87,7 @@
     "ending edges": "ending-edges",
     "initial containing block": "initial-containing-block",
     "inline base direction": "inline-base-direction",
+    "layout box": "layout-box",
     "list of media query list listeners": "list-of-media-query-list-listeners",
     "margin edge": "margin-edge",
     "mediaquerylist": "mediaquerylist",
@@ -105,6 +107,7 @@
     "scrollbehavior": "scrollbehavior",
     "scrolling area": "scrolling-area",
     "scrolloptions": "scrolloptions",
+    "svg layout box": "svg-layout-box",
     "the html body element": "the-html-body-element",
     "viewport": "viewport"
   },

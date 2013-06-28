@@ -108,6 +108,12 @@
     "authors" : ["Håkon Wium Lie", "Tab Atkins", "Elika J. Etemad"],
     "publisher" : "W3C"
   },
+  "CSSVARIABLES" : {
+    "href" : "http://dev.w3.org/csswg/css-variables/",
+    "title" : "CSS Custom Properties for Cascading Variables Module",
+    "authors" : ["Tab Atkins Jr."],
+    "publisher" : "W3C"
+  },
   "CSSWRITINGMODES" :
   {
     "href" : "http://dev.w3.org/csswg/css-writing-modes/",

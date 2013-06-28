@@ -92,8 +92,8 @@
   },
   "CSSSYNTAX" : {
     "href" : "http://dev.w3.org/csswg/css-syntax/",
-    "title" : "CSS Syntax Module Level 3",
-    "authors" : ["Tab Atkins Jr"],
+    "title" : "CSS Syntax Module",
+    "authors" : ["Tab Atkins Jr."],
     "publisher" : "W3C"
   },
   "CSSUI" : {
@@ -104,8 +104,8 @@
   },
   "CSSVALUES" : {
     "href" : "http://dev.w3.org/csswg/css-values/",
-    "title" : "CSS Values and Units Module Level 3",
-    "authors" : ["Håkon Wium Lie", "Tab Atkins", "Elika J. Etemad"],
+    "title" : "CSS Values and Units Module",
+    "authors" : ["Håkon Wium Lie", "Tab Atkins Jr.", "Elika J. Etemad"],
     "publisher" : "W3C"
   },
   "CSSVARIABLES" : {
@@ -374,7 +374,7 @@
   },
   "SELECTORS" : {
     "href" : "http://dev.w3.org/csswg/selectors4/",
-    "title" : "Selectors Level 4",
+    "title" : "Selectors",
     "authors" : ["Elika J. Etemad"],
     "publisher" : "W3C"
   },

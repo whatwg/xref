@@ -31,6 +31,12 @@
     "authors" : ["Adam Barth"],
     "publisher" : "IETF"
   },
+  "CORS" : {
+    "href" : "http://www.w3.org/TR/cors/",
+    "title" : "CORS (obsolete)",
+    "authors" : ["Anne van Kesteren"],
+    "publisher" : "W3C"
+  },
   "FETCH" :
   {
     "href" : "http://fetch.spec.whatwg.org/",

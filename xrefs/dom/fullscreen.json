@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "characteristics": "characteristics",
     "concept-fullscreen-add": "concept-fullscreen-add",
     "concept-fullscreen-empty": "concept-fullscreen-empty",
     "concept-fullscreen-remove": "concept-fullscreen-remove",

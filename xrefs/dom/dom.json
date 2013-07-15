@@ -448,6 +448,7 @@
     "dom-range-startoffset": "dom-range-startoffset",
     "dom-range-stringifier": "dom-range-stringifier",
     "dom-range-surroundcontents": "dom-range-surroundcontents",
+    "dom-range-tostring": "dom-range-tostring",
     "dom-text": "dom-text",
     "dom-text-iselementcontentwhitespace": "dom-text-iselementcontentwhitespace",
     "dom-text-replacewholetext": "dom-text-replacewholetext",

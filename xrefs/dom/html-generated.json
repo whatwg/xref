@@ -372,6 +372,7 @@
     "event-media-play": "the-video-element.html#event-media-play",
     "eventhandler": "webappapis.html#eventhandler",
     "eventsource": "comms.html#eventsource",
+    "exposed to javascript": "infrastructure.html#exposed-to-javascript",
     "fetch": "fetching-resources.html#fetch",
     "fieldset": "forms.html#the-fieldset-element",
     "figcaption": "grouping-content.html#the-figcaption-element",

@@ -1,6 +1,7 @@
 {
   "definitions": {
     "a": "the-a-element",
+    "a known definite encoding": "a-known-definite-encoding",
     "abbr": "the-abbr-element",
     "absolute url": "absolute-url",
     "acronym": "acronym",

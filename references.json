@@ -56,6 +56,11 @@
     "authors" : ["Bert Bos", "Tantek Çelik", "Ian Hickson", "Håkon Wium Lie"],
     "publisher" : "W3C"
   },
+  "CSSCASCADE" : {
+    "href" : "http://dev.w3.org/csswg/css-cascade/",
+    "title" : "CSS Cascading and Inheritance",
+    "authors" : ["Håkon Wium Lie", "fantasai", "Tab Atkins Jr."]
+  },
   "CSSINTRINSIC" : {
     "href" : "http://dbaron.org/css/intrinsic/",
     "title" : "More Precise Definitions of Intrinsic Widths and Table Layout (Proposal)",

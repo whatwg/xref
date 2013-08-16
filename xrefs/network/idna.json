@@ -1,0 +1,7 @@
+{
+  "url": "http://tools.ietf.org/html/rfc3490#",
+  "definitions": {
+    "toascii" : "section-4.1",
+    "tounicode" : "section-4.2"
+  }
+}

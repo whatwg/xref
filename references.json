@@ -289,6 +289,12 @@
     "title": "Character Sets",
     "publisher": "IANA"
   },
+  "IDNA": {
+    "title": "Internationalizing Domain Names in Applications (IDNA)",
+    "href": "http://tools.ietf.org/html/rfc3490",
+    "publisher":"IETF",
+    "authors": ["P. Faltstrom", "Paul Hoffman", "A. Costello"]
+  },
   "IPV6": {
     "title": "IP Version 6 Addressing Architecture",
     "href": "http://tools.ietf.org/html/rfc4291",

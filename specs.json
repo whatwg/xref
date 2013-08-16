@@ -14,6 +14,7 @@
   "from-origin": "network/from-origin.json",
   "html": "dom/html-generated.json",
   "http": "network/http.json",
+  "idna": "network/idna.json",
   "mime": "network/mime.json",
   "origin": "network/origin.json",
   "selectors": "css/selectors.json",

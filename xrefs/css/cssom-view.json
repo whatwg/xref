@@ -107,6 +107,8 @@
     "scrollbehavior": "scrollbehavior",
     "scrolling area": "scrolling-area",
     "scrolloptions": "scrolloptions",
+    "scrolloptionshorizontal": "scrolloptionshorizontal",
+    "scrolloptionsvertical": "scrolloptionsvertical",
     "svg layout box": "svg-layout-box",
     "the html body element": "the-html-body-element",
     "viewport": "viewport"

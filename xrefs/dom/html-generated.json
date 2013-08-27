@@ -2,6 +2,7 @@
   "definitions": {
     "a": "text-level-semantics.html#the-a-element",
     "a known definite encoding": "parsing.html#a-known-definite-encoding",
+    "a style sheet that is blocking scripts": "semantics.html#a-style-sheet-that-is-blocking-scripts",
     "abbr": "text-level-semantics.html#the-abbr-element",
     "absolute url": "infrastructure.html#absolute-url",
     "acronym": "obsolete.html#acronym",
@@ -370,6 +371,7 @@
     "entry script": "webappapis.html#entry-script",
     "event handler event type": "webappapis.html#event-handler-event-type",
     "event handlers": "webappapis.html#event-handlers",
+    "event loop": "webappapis.html#event-loop",
     "event-media-play": "the-video-element.html#event-media-play",
     "eventhandler": "webappapis.html#eventhandler",
     "eventsource": "comms.html#eventsource",
@@ -512,6 +514,7 @@
     "strip leading and trailing whitespace": "common-microsyntaxes.html#strip-leading-and-trailing-whitespace",
     "strong": "text-level-semantics.html#the-strong-element",
     "style": "semantics.html#the-style-element",
+    "style sheet ready": "semantics.html#style-sheet-ready",
     "summary": "interactive-elements.html#the-summary-element",
     "svg": "the-map-element.html#svg",
     "table": "tabular-data.html#the-table-element",

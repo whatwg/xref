@@ -40,6 +40,14 @@
     "concept-response-status": "concept-response-status",
     "concept-response-status-message": "concept-response-status-message",
     "concept-response-type": "concept-response-type",
+    "concept-zip-archive": "concept-zip-archive",
+    "concept-zip-parser": "concept-zip-parser",
+    "concept-zip-path": "concept-zip-path",
+    "concept-zip-resource": "concept-zip-resource",
+    "concept-zip-resource-name": "concept-zip-resource-name",
+    "concept-zip-resource-string-name": "concept-zip-resource-string-name",
+    "concept-zip-resource-type": "concept-zip-resource-type",
+    "concept-ziparchive-done-flag": "concept-ziparchive-done-flag",
     "cors check": "cors-check-0",
     "cors fetch with preflight": "cors-fetch-with-preflight-0",
     "cors preflight cache": "cors-preflight-cache-0",
@@ -50,6 +58,11 @@
     "cors-cross-origin": "cors-cross-origin",
     "cors-same-origin": "cors-same-origin",
     "determine referrer": "determine-referrer",
+    "dom-ziparchive": "dom-ziparchive",
+    "dom-ziparchive-get": "dom-ziparchive-get",
+    "dom-ziparchive-getpaths": "dom-ziparchive-getpaths",
+    "dom-ziparchive-getrawpaths": "dom-ziparchive-getrawpaths",
+    "dom-ziparchive-has": "dom-ziparchive-has",
     "force origin header flag": "force-origin-header-flag",
     "force preflight flag": "force-preflight-flag",
     "header name cache match": "header-name-cache-match",
@@ -65,7 +78,9 @@
     "method cache match": "method-cache-match",
     "simple header": "simple-header",
     "simple method": "simple-method",
-    "synchronous flag": "synchronous-flag"
+    "synchronous flag": "synchronous-flag",
+    "ziparchive": "ziparchive",
+    "zippath": "zippath"
   },
   "url": "http://fetch.spec.whatwg.org/#"
 }

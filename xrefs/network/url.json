@@ -61,6 +61,8 @@
     "default encode set": "default-encode-set",
     "default port": "default-port",
     "dom-url": "dom-url",
+    "dom-url-domaintoascii": "dom-url-domaintoascii",
+    "dom-url-domaintounicode": "dom-url-domaintounicode",
     "dom-url-hash": "dom-url-hash",
     "dom-url-host": "dom-url-host",
     "dom-url-hostname": "dom-url-hostname",

@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "allowed to resize and move": "allowed-to-resize-and-move",
     "beginning edges": "beginning-edges",
     "block flow direction": "block-flow-direction",
     "border edge": "border-edge",
@@ -72,10 +73,14 @@
     "dom-window-innerheight": "dom-window-innerheight",
     "dom-window-innerwidth": "dom-window-innerwidth",
     "dom-window-matchmedia": "dom-window-matchmedia",
+    "dom-window-moveby": "dom-window-moveby",
+    "dom-window-moveto": "dom-window-moveto",
     "dom-window-outerheight": "dom-window-outerheight",
     "dom-window-outerwidth": "dom-window-outerwidth",
     "dom-window-pagexoffset": "dom-window-pagexoffset",
     "dom-window-pageyoffset": "dom-window-pageyoffset",
+    "dom-window-resizeby": "dom-window-resizeby",
+    "dom-window-resizeto": "dom-window-resizeto",
     "dom-window-screen": "dom-window-screen",
     "dom-window-screenx": "dom-window-screenx",
     "dom-window-screeny": "dom-window-screeny",

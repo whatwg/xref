@@ -390,9 +390,15 @@
     "authors" : ["Adam Barth", "Juan Caballero", "Dawn Song"]
   },
   "SELECTORS" : {
-    "href" : "http://dev.w3.org/csswg/selectors4/",
+    "href" : "http://dev.w3.org/csswg/selectors/",
     "title" : "Selectors",
-    "authors" : ["Elika J. Etemad"],
+    "authors" : ["Elika J. Etemad", "Tab Atkins Jr."],
+    "publisher" : "W3C"
+  },
+  "SELECTORSAPI" : {
+    "href" : "http://dev.w3.org/2006/webapi/selectors-api2/",
+    "title" : "Selectors API Level 2",
+    "authors" : ["Lachlan Hunt"],
     "publisher" : "W3C"
   },
   "STREAMS" : {

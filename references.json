@@ -56,6 +56,12 @@
     "authors" : ["Bert Bos", "Tantek Çelik", "Ian Hickson", "Håkon Wium Lie"],
     "publisher" : "W3C"
   },
+  "CSSBOX" : {
+    "href" : "http://dev.w3.org/csswg/css-box/",
+    "title" : "CSS basic box model",
+    "authors" : ["Bert Bos", "Anton Prowse"],
+    "publisher" : "W3C"
+  },
   "CSSCASCADE" : {
     "href" : "http://dev.w3.org/csswg/css-cascade/",
     "title" : "CSS Cascading and Inheritance",

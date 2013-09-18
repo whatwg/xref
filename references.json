@@ -113,6 +113,12 @@
     "authors" : ["Tab Atkins Jr."],
     "publisher" : "W3C"
   },
+  "CSSTRANSFORMS" : {
+    "href" : "http://dev.w3.org/csswg/css-transforms/",
+    "title" : "CSS Transforms",
+    "authors" : ["Simon Fraser", "Dean Jackson", "Edward O'Connor", "Dirk Schulze", "Aryeh Gregor"],
+    "publisher" : "W3C"
+  },
   "CSSUI" : {
     "href" : "http://dev.w3.org/csswg/css-ui/",
     "title" : "CSS Basic User Interface Module",

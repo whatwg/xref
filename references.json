@@ -113,6 +113,12 @@
     "authors" : ["Tab Atkins Jr."],
     "publisher" : "W3C"
   },
+  "CSSLIST" : {
+    "href" : "http://dev.w3.org/csswg/css-lists/",
+    "title" : "CSS Lists and Counters Module",
+    "authors" : ["Tab Atkins Jr."],
+    "publisher" : "W3C"
+  },
   "CSSTRANSFORMS" : {
     "href" : "http://dev.w3.org/csswg/css-transforms/",
     "title" : "CSS Transforms",

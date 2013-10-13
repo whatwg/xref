@@ -105,6 +105,13 @@
     "authors" : ["Simon Pieters", "Glenn Adams"],
     "publisher" : "W3C"
   },
+  "CSSBGB" :
+  {
+    "href" : "http://dev.w3.org/csswg/cssom-values/",
+    "title" : "CSS Backgrounds and Borders Module",
+    "authors" : ["Bert Bos", "Elika J. Etemad", "Brad Kemper"],
+    "publisher" : "W3C"
+  },
   "CSSPAGE" :
   {
     "href" : "http://dev.w3.org/csswg/css-page/",

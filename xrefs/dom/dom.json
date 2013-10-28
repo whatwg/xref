@@ -205,6 +205,7 @@
     "dom-document-importnode": "dom-document-importnode",
     "dom-document-inputencoding": "dom-document-inputencoding",
     "dom-document-normalizedocument": "dom-document-normalizedocument",
+    "dom-document-origin": "dom-document-origin",
     "dom-document-renamenode": "dom-document-renamenode",
     "dom-document-stricterrorchecking": "dom-document-stricterrorchecking",
     "dom-document-url": "dom-document-url",

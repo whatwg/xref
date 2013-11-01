@@ -263,6 +263,12 @@
     "authors": ["J. Postel", "J. Reynolds"],
     "publisher": "IETF"
   },
+  "GEOMETRY": {
+    "title": "Geometry Interfaces Module",
+    "href": "http://dev.w3.org/fxtf/geometry/",
+    "authors": ["Simon Pieters", "Dirk Schulze", "Rik Cabanier"],
+    "publisher": "W3C"
+  },
   "HTML" :
   {
     "href" : "http://www.whatwg.org/specs/web-apps/current-work/multipage/",

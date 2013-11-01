@@ -1,6 +1,5 @@
 {
   "definitions": {
-    "anonymous flag": "anonymous-flag",
     "arraybuffer response entity body": "arraybuffer-response-entity-body",
     "author request headers": "author-request-headers",
     "blob response entity body": "blob-response-entity-body",
@@ -89,7 +88,6 @@
     "user credentials": "user-credentials",
     "xmlhttprequest": "xmlhttprequest",
     "xmlhttprequesteventtarget": "xmlhttprequesteventtarget",
-    "xmlhttprequestoptions": "xmlhttprequestoptions",
     "xmlhttprequestresponsetype": "xmlhttprequestresponsetype",
     "xmlhttprequestupload": "xmlhttprequestupload"
   },

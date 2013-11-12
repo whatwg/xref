@@ -269,6 +269,12 @@
     "authors": ["Simon Pieters", "Dirk Schulze", "Rik Cabanier"],
     "publisher": "W3C"
   },
+  "HSTS" : {
+    "title" : "HTTP Strict Transport Security",
+    "href" : "http://tools.ietf.org/html/rfc6797",
+    "authors" : ["Jeff Hodges", "Collin Jackson", "Adam Barth"],
+    "publisher" : "IETF"
+  },
   "HTML" :
   {
     "href" : "http://www.whatwg.org/specs/web-apps/current-work/multipage/",

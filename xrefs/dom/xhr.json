@@ -4,6 +4,7 @@
     "author request headers": "author-request-headers",
     "blob response entity body": "blob-response-entity-body",
     "concept-event-fire-progress": "concept-event-fire-progress",
+    "concept-event-fire-upload-progress": "concept-event-fire-upload-progress",
     "concept-formdata-entry": "concept-formdata-entry",
     "concept-formdata-entry-name": "concept-formdata-entry-name",
     "concept-formdata-entry-value": "concept-formdata-entry-value",

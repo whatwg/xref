@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "byte case-insensitive": "byte-case-insensitive",
     "cache match": "cache-match",
     "cache-clear": "cache-clear",
     "cache-credentials": "cache-credentials",
@@ -16,6 +17,8 @@
     "concept-filtered-response-basic": "concept-filtered-response-basic",
     "concept-filtered-response-cors": "concept-filtered-response-cors",
     "concept-filtered-response-opaque": "concept-filtered-response-opaque",
+    "concept-forbidden-author-header-names": "concept-forbidden-author-header-names",
+    "concept-forbidden-methods": "concept-forbidden-methods",
     "concept-header": "concept-header",
     "concept-header-name": "concept-header-name",
     "concept-header-parse": "concept-header-parse",

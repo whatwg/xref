@@ -21,7 +21,7 @@
     "handler-onclose": "handler-onclose",
     "handler-onerror": "handler-onerror",
     "handler-onshow": "handler-onshow",
-    "icon": "icon",
+    "icon image": "icon-image",
     "icon url": "icon-url",
     "language": "language",
     "list of active notifications": "list-of-active-notifications",

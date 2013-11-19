@@ -366,6 +366,7 @@
     "dom-textarea/input-setselectionrange": "association-of-controls-and-forms.html#dom-textarea/input-setselectionrange",
     "dom-th-sort": "tabular-data.html#dom-th-sort",
     "dom-translate": "elements.html#dom-translate",
+    "dom-window-focus": "editing.html#dom-window-focus",
     "dom-window-postmessage": "web-messaging.html#dom-window-postmessage",
     "dom-windowbase64-atob": "webappapis.html#dom-windowbase64-atob",
     "dom-windowbase64-btoa": "webappapis.html#dom-windowbase64-btoa",

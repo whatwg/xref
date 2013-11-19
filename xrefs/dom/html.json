@@ -366,6 +366,7 @@
     "dom-textarea/input-setselectionrange": "dom-textarea/input-setselectionrange",
     "dom-th-sort": "dom-th-sort",
     "dom-translate": "dom-translate",
+    "dom-window-focus": "dom-window-focus",
     "dom-window-postmessage": "dom-window-postmessage",
     "dom-windowbase64-atob": "dom-windowbase64-atob",
     "dom-windowbase64-btoa": "dom-windowbase64-btoa",

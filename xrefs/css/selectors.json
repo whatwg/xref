@@ -53,7 +53,7 @@
     "combinator": "combinator",
     "complex selector": "complex",
     "compound selector": "compound",
-    "contextual reference element set": "contextual-reference-element-set",
+    "reference element set": "reference-element-set",
     "declared": "nsdecl",
     "descendant combinator": "descendant-combinator",
     "following-sibling combinator": "following-sibling-combinator",
@@ -62,8 +62,11 @@
     "interpreter": "interpreter",
     "language": "language",
     "language identifier": "language-identifier",
+    "match a selector" : "match-a-selector",
     "next-sibling combinator": "next-sibling-combinator",
     "originating element": "originating-element",
+    "parse a relative selector":"parse-a-relative-selector",
+    "parse a selector": "parse-a-selector",
     "pseudo-class": "pseudo-class",
     "pseudo-elements": "pseudo-elements0",
     "reference combinator": "reference-combinator",
@@ -71,6 +74,7 @@
     "scope-contained": "scope-contained",
     "scope-filtered": "scope-filtered",
     "scoping element": "scoping-element",
+    "scoping root" : "scoping-root",
     "selector": "selector",
     "selector instance!!as conformance class": "selector-instance",
     "selector list": "selector-list",
@@ -81,5 +85,5 @@
     "universal selector": "universal-selector0",
     "white space": "whitespace"
   },
-  "url": "http://dev.w3.org/csswg/selectors4/#"
+  "url": "http://dev.w3.org/csswg/selectors/#"
 }

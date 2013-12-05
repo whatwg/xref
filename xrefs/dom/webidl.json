@@ -20,5 +20,5 @@
     "throw": "dfn-throw",
     "unsigned long": "idl-unsigned-long"
   },
-  "url": "http://dev.w3.org/2006/webapi/WebIDL/#"
+  "url": "http://heycam.github.io/webidl/#"
 }

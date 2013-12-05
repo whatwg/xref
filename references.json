@@ -499,7 +499,7 @@
   },
   "WEBIDL" :
   {
-    "href" : "http://dev.w3.org/2006/webapi/WebIDL/",
+    "href" : "http://heycam.github.io/webidl/",
     "title" : "Web IDL",
     "authors" : ["Cameron McCormack"],
     "publisher" : "W3C"

@@ -46,7 +46,6 @@
     "concept-response": "concept-response",
     "concept-response-body": "concept-response-body",
     "concept-response-headers": "concept-response-headers",
-    "concept-response-location": "concept-response-location",
     "concept-response-status": "concept-response-status",
     "concept-response-status-message": "concept-response-status-message",
     "concept-response-termination-reason": "concept-response-termination-reason",

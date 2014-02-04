@@ -2,6 +2,7 @@
   "url": "http://dev.w3.org/2006/webapi/FileAPI/#",
   "definitions": {
     "blob" : "blob",
+    "blob url store" : "BlobURLStore",
     "dom-blob-type" : "dfn-type",
     "dom-file-name" : "dfn-name",
     "file" : "file"

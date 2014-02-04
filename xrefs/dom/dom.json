@@ -459,6 +459,7 @@
     "domobject": "domobject",
     "domsettabletokenlist": "domsettabletokenlist",
     "domstring": "domstring",
+    "domstringlist": "domstringlist",
     "domtimestamp": "domtimestamp",
     "domtokenlist": "domtokenlist",
     "domuserdata": "domuserdata",

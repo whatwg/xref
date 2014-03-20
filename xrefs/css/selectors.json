@@ -71,7 +71,7 @@
     "pseudo-elements": "pseudo-elements0",
     "reference combinator": "reference-combinator",
     "scope": "scope",
-    "scope-contained": "scope-contained",
+    "scope-contained selectors": "scope-contained-selectors",
     "scope-filtered": "scope-filtered",
     "scoping element": "scoping-element",
     "scoping root" : "scoping-root",

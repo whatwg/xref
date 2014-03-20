@@ -18,6 +18,7 @@
     "supported property names": "dfn-supported-property-names",
     "support named properties": "dfn-support-named-properties",
     "throw": "dfn-throw",
+    "unenumerable": "dfn-unenumerable",
     "unsigned long": "idl-unsigned-long"
   },
   "url": "http://heycam.github.io/webidl/#"

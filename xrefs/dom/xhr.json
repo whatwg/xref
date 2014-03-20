@@ -35,6 +35,7 @@
     "dom-xmlhttprequest-response": "dom-xmlhttprequest-response",
     "dom-xmlhttprequest-responsetext": "dom-xmlhttprequest-responsetext",
     "dom-xmlhttprequest-responsetype": "dom-xmlhttprequest-responsetype",
+    "dom-xmlhttprequest-responseurl": "dom-xmlhttprequest-responseurl",
     "dom-xmlhttprequest-responsexml": "dom-xmlhttprequest-responsexml",
     "dom-xmlhttprequest-send": "dom-xmlhttprequest-send",
     "dom-xmlhttprequest-setrequestheader": "dom-xmlhttprequest-setrequestheader",

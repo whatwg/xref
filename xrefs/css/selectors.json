@@ -72,7 +72,7 @@
     "reference combinator": "reference-combinator",
     "scope": "scope",
     "scope-contained selectors": "scope-contained-selectors",
-    "scope-filtered": "scope-filtered",
+    "scope-filtered selectors": "scope-filtered-selectors",
     "scoping element": "scoping-element",
     "scoping root" : "scoping-root",
     "selector": "selector",

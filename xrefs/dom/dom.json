@@ -518,6 +518,7 @@
     "notation": "notation",
     "notfounderror": "notfounderror",
     "notify mutation observers": "notify-mutation-observers",
+    "notreadableerror": "notreadableerror",
     "notsupportederror": "notsupportederror",
     "other applicable specifications": "other-applicable-specifications",
     "parent element": "parent-element",

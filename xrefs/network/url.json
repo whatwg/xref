@@ -15,9 +15,6 @@
     "concept-base-url": "concept-base-url",
     "concept-basic-url-parser": "concept-basic-url-parser",
     "concept-domain": "concept-domain",
-    "concept-domain-label": "concept-domain-label",
-    "concept-domain-label-to-ascii": "concept-domain-label-to-ascii",
-    "concept-domain-label-to-unicode": "concept-domain-label-to-unicode",
     "concept-domain-to-ascii": "concept-domain-to-ascii",
     "concept-domain-to-unicode": "concept-domain-to-unicode",
     "concept-host": "concept-host",
@@ -86,7 +83,6 @@
     "dom-urlsearchparams-has": "dom-urlsearchparams-has",
     "dom-urlsearchparams-set": "dom-urlsearchparams-set",
     "dom-urlsearchparams-stringifier": "dom-urlsearchparams-stringifier",
-    "domain label separators": "domain-label-separators",
     "eof code point": "eof-code-point",
     "file host state": "file-host-state",
     "fragment state": "fragment-state",
@@ -121,7 +117,8 @@
     "urlutils": "urlutils",
     "urlutilsreadonly": "urlutilsreadonly",
     "username encode set": "username-encode-set",
-    "utf-8 percent encode": "utf-8-percent-encode"
+    "utf-8 percent encode": "utf-8-percent-encode",
+    "valid domain": "valid-domain"
   },
   "url": "http://url.spec.whatwg.org/#"
 }

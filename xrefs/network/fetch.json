@@ -62,7 +62,6 @@
     "cors request": "cors-request",
     "determine referrer": "determine-referrer",
     "force origin header flag": "force-origin-header-flag",
-    "force preflight flag": "force-preflight-flag",
     "http-access-control-allow-credentials": "http-access-control-allow-credentials",
     "http-access-control-allow-headers": "http-access-control-allow-headers",
     "http-access-control-allow-methods": "http-access-control-allow-methods",

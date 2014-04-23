@@ -1,7 +1,7 @@
 {
-  "url": "http://tools.ietf.org/html/rfc3490#",
+  "url": "http://www.unicode.org/reports/tr46/proposed.html#",
   "definitions": {
-    "toascii" : "section-4.1",
-    "tounicode" : "section-4.2"
+    "toascii" : "ToASCII",
+    "tounicode" : "ToUnicode"
   }
 }

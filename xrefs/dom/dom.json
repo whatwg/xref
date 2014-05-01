@@ -77,6 +77,7 @@
     "concept-node-clone-ext": "concept-node-clone-ext",
     "concept-node-document": "concept-node-document",
     "concept-node-empty": "concept-node-empty",
+    "concept-node-ensure-pre-insertion-validity": "concept-node-ensure-pre-insertion-validity",
     "concept-node-equals": "concept-node-equals",
     "concept-node-filter": "concept-node-filter",
     "concept-node-insert": "concept-node-insert",

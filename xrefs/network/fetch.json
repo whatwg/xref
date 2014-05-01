@@ -27,6 +27,7 @@
     "concept-header-name": "concept-header-name",
     "concept-header-parse": "concept-header-parse",
     "concept-header-value": "concept-header-value",
+    "concept-http-fetch": "concept-http-fetch",
     "concept-internal-response": "concept-internal-response",
     "concept-legacy-fetch": "concept-legacy-fetch",
     "concept-legacy-potentially-cors-enabled-fetch": "concept-legacy-potentially-cors-enabled-fetch",

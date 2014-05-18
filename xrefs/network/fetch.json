@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "authentication flag": "authentication-flag",
     "byte case-insensitive": "byte-case-insensitive",
     "case-insensitive byte sequence": "case-insensitive-byte-sequence",
     "client request": "client-request",

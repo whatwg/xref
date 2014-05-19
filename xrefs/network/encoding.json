@@ -100,6 +100,7 @@
     "replacement encoder": "replacement-encoder",
     "replacement error returned flag": "replacement-error-returned-flag",
     "scalar value": "scalar-value",
+    "scalarvaluestring": "scalarvaluestring",
     "shared utf-16 decoder": "shared-utf-16-decoder",
     "shared utf-16 encoder": "shared-utf-16-encoder",
     "shift_jis": "shift_jis",

@@ -26,6 +26,8 @@
     "dom-textdecoder": "dom-textdecoder",
     "dom-textdecoder-decode": "dom-textdecoder-decode",
     "dom-textdecoder-encoding": "dom-textdecoder-encoding",
+    "dom-textdecoder-fatal": "dom-textdecoder-fatal",
+    "dom-textdecoder-ignorebom": "dom-textdecoder-ignorebom",
     "dom-textencoder": "dom-textencoder",
     "dom-textencoder-encode": "dom-textencoder-encode",
     "dom-textencoder-encoding": "dom-textencoder-encoding",

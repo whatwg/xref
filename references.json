@@ -167,6 +167,11 @@
     "authors" : ["Elika J. Etemad", "Koji Ishii"],
     "publisher" : "W3C"
   },
+  "DATAURL" : {
+    "href" : "http://simonsapin.github.io/data-urls/",
+    "title" : "The data URL scheme",
+    "authors" : ["Simon Sapin"]
+  },
   "DOCTYPE" : {
     "href" : "http://hsivonen.iki.fi/doctype/",
     "title" : "Activating Browser Modes with Doctype",

@@ -22,8 +22,6 @@
     "concept-filtered-response-basic": "concept-filtered-response-basic",
     "concept-filtered-response-cors": "concept-filtered-response-cors",
     "concept-filtered-response-opaque": "concept-filtered-response-opaque",
-    "concept-forbidden-author-header-names": "concept-forbidden-author-header-names",
-    "concept-forbidden-methods": "concept-forbidden-methods",
     "concept-header": "concept-header",
     "concept-header-name": "concept-header-name",
     "concept-header-parse": "concept-header-parse",
@@ -68,8 +66,12 @@
     "determine referrer": "determine-referrer",
     "dom-global-fetch": "dom-global-fetch",
     "dom-request": "dom-request",
+    "dom-request-method": "dom-request-method",
+    "forbidden author header name": "forbidden-author-header-name",
+    "forbidden method": "forbidden-method",
     "force origin header flag": "force-origin-header-flag",
     "globalfetch": "globalfetch",
+    "headermap": "headermap",
     "http-access-control-allow-credentials": "http-access-control-allow-credentials",
     "http-access-control-allow-headers": "http-access-control-allow-headers",
     "http-access-control-allow-methods": "http-access-control-allow-methods",
@@ -96,7 +98,8 @@
     "restricted copy": "restricted-copy",
     "simple header": "simple-header",
     "simple method": "simple-method",
-    "synchronous flag": "synchronous-flag"
+    "synchronous flag": "synchronous-flag",
+    "useful method": "useful-method"
   },
   "url": "http://fetch.spec.whatwg.org/#"
 }

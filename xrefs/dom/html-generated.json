@@ -395,6 +395,7 @@
     "frame": "obsolete.html#frame",
     "frameset": "obsolete.html#frameset",
     "fully active": "browsers.html#fully-active",
+    "global object": "webappapis.html#global-object",
     "h1": "sections.html#the-h1-element",
     "h2": "sections.html#the-h2-element",
     "h3": "sections.html#the-h3-element",
@@ -604,6 +605,7 @@
     "windowproxy": "browsers.html#windowproxy",
     "worker": "workers.html#worker",
     "worker environment": "webappapis.html#worker-environment",
+    "workerglobalscope": "workers.html#workerglobalscope",
     "xml fragment parsing algorithm": "the-xhtml-syntax.html#xml-fragment-parsing-algorithm",
     "xml fragment serialization algorithm": "the-xhtml-syntax.html#xml-fragment-serialization-algorithm",
     "xml parser": "the-xhtml-syntax.html#xml-parser"

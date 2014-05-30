@@ -260,6 +260,7 @@
     "dom-element-attributes": "dom-element-attributes",
     "dom-element-classlist": "dom-element-classlist",
     "dom-element-classname": "dom-element-classname",
+    "dom-element-closest": "dom-element-closest",
     "dom-element-getattribute": "dom-element-getattribute",
     "dom-element-getattributenode": "dom-element-getattributenode",
     "dom-element-getattributenodens": "dom-element-getattributenodens",

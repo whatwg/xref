@@ -395,6 +395,7 @@
     "frame": "frame",
     "frameset": "frameset",
     "fully active": "fully-active",
+    "global object": "global-object",
     "h1": "the-h1-element",
     "h2": "the-h2-element",
     "h3": "the-h3-element",
@@ -604,6 +605,7 @@
     "windowproxy": "windowproxy",
     "worker": "worker",
     "worker environment": "worker-environment",
+    "workerglobalscope": "workerglobalscope",
     "xml fragment parsing algorithm": "xml-fragment-parsing-algorithm",
     "xml fragment serialization algorithm": "xml-fragment-serialization-algorithm",
     "xml parser": "xml-parser"

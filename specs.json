@@ -18,7 +18,7 @@
   "mime": "network/mime.json",
   "origin": "network/origin.json",
   "selectors": "css/selectors.json",
-  "streams": "dom/streams.json",
+  "serviceworkers": "dom/serviceworkers.json",
   "typedarray": "dom/typedarray.json",
   "url" : "network/url.json",
   "webidl": "dom/webidl.json",

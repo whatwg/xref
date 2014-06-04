@@ -1,0 +1,6 @@
+{
+  "definitions": {
+    "handle a fetch": "handle-a-fetch"
+  },
+  "url": "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/#"
+}

@@ -453,11 +453,11 @@
     "authors" : ["Lachlan Hunt"],
     "publisher" : "W3C"
   },
-  "STREAMS" : {
-    "href": "http://dvcs.w3.org/hg/streams-api/raw-file/tip/Overview.htm",
-    "title":"Streams API",
-    "authors":["Feras Moussa"],
-    "publisher":"W3C"
+  "SERVICEWORKERS" : {
+    "href" : "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/",
+    "title" : "Service Workers",
+    "authors" : ["Alex Russell", "Jungkee Song"],
+    "publisher" : "W3C"
   },
   "SVG" :
   {

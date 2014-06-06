@@ -377,6 +377,7 @@
     "embed": "the-iframe-element.html#the-embed-element",
     "entry settings object": "webappapis.html#entry-settings-object",
     "event handler event type": "webappapis.html#event-handler-event-type",
+    "event handler idl attributes": "webappapis.html#event-handler-idl-attributes",
     "event handlers": "webappapis.html#event-handlers",
     "event loop": "webappapis.html#event-loop",
     "event-media-play": "the-video-element.html#event-media-play",

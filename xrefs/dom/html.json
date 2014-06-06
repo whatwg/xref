@@ -377,6 +377,7 @@
     "embed": "the-embed-element",
     "entry settings object": "entry-settings-object",
     "event handler event type": "event-handler-event-type",
+    "event handler idl attributes": "event-handler-idl-attributes",
     "event handlers": "event-handlers",
     "event loop": "event-loop",
     "event-media-play": "event-media-play",

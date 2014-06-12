@@ -44,6 +44,12 @@
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"
   },
+  "CSP" : {
+    "href" : "https://w3c.github.io/webappsec/specs/content-security-policy/",
+    "title" : "Content Security Policy",
+    "authors": ["Mike West", "Adam Barth", "Dan Veditz"],
+    "publisher" : "W3C"
+  },
   "CSRF" :
   {
     "href" : "http://marc.info/?l=bugtraq&m=99263135911884&w=2",
@@ -399,6 +405,12 @@
     "authors" : ["Ned Freed", "Nathaniel Borenstein"],
     "publisher" : "IETF"
   },
+  "MIX" : {
+    "href" : "https://w3c.github.io/webappsec/specs/mixedcontent/",
+    "title" : "Mixed Content",
+    "authors" : ["Mike West"],
+    "publisher" : "W3C"
+  },
   "OAUTH" : {
     "href" : "http://tools.ietf.org/html/rfc5849",
     "title" : "The OAuth 1.0 Protocol",
@@ -416,6 +428,12 @@
     "href" : "http://publicsuffix.org/",
     "title" : "Public Suffix List",
     "publisher" : "Mozilla"
+  },
+  "REFERRER" : {
+    "href" : "https://w3c.github.io/webappsec/specs/referrer-policy/",
+    "title" : "Referrer Policy",
+    "authors" : ["Jochen Eisinger", "Mike West"],
+    "publisher" : "W3C"
   },
   "RFC2119" :
   {
@@ -453,7 +471,7 @@
     "authors" : ["Lachlan Hunt"],
     "publisher" : "W3C"
   },
-  "SERVICEWORKERS" : {
+  "SW" : {
     "href" : "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/",
     "title" : "Service Workers",
     "authors" : ["Alex Russell", "Jungkee Song"],

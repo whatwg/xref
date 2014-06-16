@@ -5,6 +5,7 @@
     "convert a domstring to a sequence of unicode characters" : "dfn-obtain-unicode",
     "dictionary member": "dfn-dictionary-member",
     "domstring": "idl-DOMString",
+    "es-bytestring" : "es-bytestring",
     "float": "idl-float",
     "identifier": "dfn-identifier",
     "interface": "dfn-interface",

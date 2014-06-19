@@ -91,7 +91,8 @@
   "CSSMULTICOL" : {
     "href" : "http://dev.w3.org/csswg/css-multicol/",
     "title" : "CSS Multi-column Layout Module",
-    "authors" : ["Håkon Wium Lie"]
+    "authors" : ["Håkon Wium Lie"],
+    "publisher" : "W3C"
   },
   "CSSNAMESPACES" :
   {

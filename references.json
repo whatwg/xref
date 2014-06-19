@@ -88,6 +88,11 @@
     "title" : "More Precise Definitions of Intrinsic Widths and Table Layout (Proposal)",
     "authors" : ["L. David Baron"]
   },
+  "CSSMULTICOL" : {
+    "href" : "http://dev.w3.org/csswg/css-multicol/",
+    "title" : "CSS Multi-column Layout Module",
+    "authors" : ["Håkon Wium Lie"]
+  },
   "CSSNAMESPACES" :
   {
     "href" : "http://dev.w3.org/csswg/css-namespaces/",

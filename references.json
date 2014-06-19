@@ -62,6 +62,13 @@
     "authors" : ["Bert Bos", "Tantek Çelik", "Ian Hickson", "Håkon Wium Lie"],
     "publisher" : "W3C"
   },
+  "CSSBGB" :
+  {
+    "href" : "http://dev.w3.org/csswg/css-backgrounds/",
+    "title" : "CSS Backgrounds and Borders Module",
+    "authors" : ["Bert Bos", "Elika J. Etemad", "Brad Kemper"],
+    "publisher" : "W3C"
+  },
   "CSSBOX" : {
     "href" : "http://dev.w3.org/csswg/css-box/",
     "title" : "CSS basic box model",
@@ -122,11 +129,11 @@
     "authors" : ["Simon Pieters", "Glenn Adams"],
     "publisher" : "W3C"
   },
-  "CSSBGB" :
+  "CSSOVERFLOW" :
   {
-    "href" : "http://dev.w3.org/csswg/cssom-values/",
-    "title" : "CSS Backgrounds and Borders Module",
-    "authors" : ["Bert Bos", "Elika J. Etemad", "Brad Kemper"],
+    "href" : "http://dev.w3.org/csswg/css-overflow/",
+    "title" : "CSS Overflow Module",
+    "authors" : ["L. David Baron"]
     "publisher" : "W3C"
   },
   "CSSPAGE" :

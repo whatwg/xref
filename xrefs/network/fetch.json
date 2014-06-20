@@ -106,6 +106,7 @@
     "fetchbodystream": "fetchbodystream",
     "forbidden header name": "forbidden-header-name",
     "forbidden method": "forbidden-method",
+    "forbidden response header name": "forbidden-response-header-name",
     "force origin header flag": "force-origin-header-flag",
     "globalfetch": "globalfetch",
     "headers": "headers",

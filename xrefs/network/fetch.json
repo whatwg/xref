@@ -29,6 +29,7 @@
     "concept-header-extract-mime-type": "concept-header-extract-mime-type",
     "concept-header-list": "concept-header-list",
     "concept-header-list-append": "concept-header-list-append",
+    "concept-header-list-combine": "concept-header-list-combine",
     "concept-header-list-set": "concept-header-list-set",
     "concept-header-name": "concept-header-name",
     "concept-header-parse": "concept-header-parse",

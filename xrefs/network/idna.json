@@ -1,5 +1,5 @@
 {
-  "url": "http://www.unicode.org/reports/tr46/proposed.html#",
+  "url": "http://www.unicode.org/reports/tr46/#",
   "definitions": {
     "toascii" : "ToASCII",
     "tounicode" : "ToUnicode"

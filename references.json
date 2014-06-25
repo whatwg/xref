@@ -361,8 +361,8 @@
     "publisher": "IANA"
   },
   "IDNA": {
-    "title": "Unicode IDNA Compatibility Processing (Proposed Update)",
-    "href": "http://www.unicode.org/reports/tr46/proposed.html",
+    "title": "Unicode IDNA Compatibility Processing",
+    "href": "http://www.unicode.org/reports/tr46/",
     "publisher":"Unicode Consortium",
     "authors": ["Mark Davis", "Michel Suignard"]
   },

@@ -590,6 +590,7 @@
     "tt": "obsolete.html#tt",
     "u": "text-level-semantics.html#the-u-element",
     "ul": "grouping-content.html#the-ul-element",
+    "unicode serialization of an origin": "origin-0.html#unicode-serialization-of-an-origin",
     "unit of related similar-origin browsing contexts": "browsers.html#unit-of-related-similar-origin-browsing-contexts",
     "unloading document cleanup steps": "history.html#unloading-document-cleanup-steps",
     "url": "infrastructure.html#url",

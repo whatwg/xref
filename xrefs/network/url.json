@@ -37,6 +37,7 @@
     "concept-url-fragment": "concept-url-fragment",
     "concept-url-host": "concept-url-host",
     "concept-url-object": "concept-url-object",
+    "concept-url-origin": "concept-url-origin",
     "concept-url-parser": "concept-url-parser",
     "concept-url-password": "concept-url-password",
     "concept-url-path": "concept-url-path",

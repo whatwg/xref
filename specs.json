@@ -1,5 +1,4 @@
 {
-  "cors": "network/cors.json",
   "cssom": "css/cssom.json",
   "cssom-values": "css/cssom-values.json",
   "cssom-view": "css/cssom-view.json",
@@ -10,12 +9,10 @@
   "encoding": "network/encoding.json",
   "fetch": "network/fetch.json",
   "fileapi": "dom/fileapi.json",
-  "from-origin": "network/from-origin.json",
   "html": "dom/html-generated.json",
   "http": "network/http.json",
   "idna": "network/idna.json",
   "mime": "network/mime.json",
-  "origin": "network/origin.json",
   "selectors": "css/selectors.json",
   "sw": "dom/serviceworkers.json",
   "typedarray": "dom/typedarray.json",

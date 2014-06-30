@@ -15,7 +15,6 @@
   "mime": "network/mime.json",
   "selectors": "css/selectors.json",
   "sw": "dom/serviceworkers.json",
-  "typedarray": "dom/typedarray.json",
   "url" : "network/url.json",
   "webidl": "dom/webidl.json",
   "xhr": "dom/xhr.json",

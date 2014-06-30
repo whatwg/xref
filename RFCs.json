@@ -13889,12 +13889,6 @@
     "authors": ["E. Levinson"],
     "publisher": "IETF"
   },
-  "RFC2388": {
-    "title": "Returning Values from Forms: multipart/form-data",
-    "href": "http://tools.ietf.org/html/rfc2388",
-    "authors": ["L. Masinter"],
-    "publisher": "IETF"
-  },
   "RFC2389": {
     "title": "Feature negotiation mechanism for the File Transfer Protocol",
     "href": "http://tools.ietf.org/html/rfc2389",

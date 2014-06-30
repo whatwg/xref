@@ -461,6 +461,12 @@
     "authors": ["Paul Hoffman", "Francois Yergeau"],
     "publisher": "IETF"
   },
+  "RFC2388": {
+    "title": "Returning Values from Forms: multipart/form-data",
+    "href": "http://tools.ietf.org/html/rfc2388",
+    "authors": ["L. Masinter"],
+    "publisher": "IETF"
+  },
   "RFC3023": {
     "title": "XML Media Types",
     "href": "http://tools.ietf.org/html/rfc3023",
@@ -500,13 +506,6 @@
                  "C. Northway", "A. Quint", "N. Ramani", "Doug Schepers",
                  "A. Shellshear"],
     "publisher" : "W3C"
-  },
-  "TYPEDARRAY" :
-  {
-    "href" : "http://www.khronos.org/registry/typedarray/specs/latest/",
-    "title" : "Typed Array",
-    "authors" : ["David Herman", "Kenneth Russell"],
-    "publisher" : "Khronos"
   },
   "UIEVENTS" : {
     "href" : "https://dvcs.w3.org/hg/d4e/raw-file/tip/source_respec.htm",

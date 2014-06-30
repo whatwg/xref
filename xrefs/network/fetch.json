@@ -80,6 +80,7 @@
     "cors request": "cors-request",
     "dom-fetchbodystream-asarraybuffer": "dom-fetchbodystream-asarraybuffer",
     "dom-fetchbodystream-asblob": "dom-fetchbodystream-asblob",
+    "dom-fetchbodystream-asformdata": "dom-fetchbodystream-asformdata",
     "dom-fetchbodystream-asjson": "dom-fetchbodystream-asjson",
     "dom-fetchbodystream-astext": "dom-fetchbodystream-astext",
     "dom-global-fetch": "dom-global-fetch",

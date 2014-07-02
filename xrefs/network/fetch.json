@@ -2,6 +2,7 @@
   "definitions": {
     "authentication flag": "authentication-flag",
     "byte case-insensitive": "byte-case-insensitive",
+    "byte lowercase": "byte-lowercase",
     "case-insensitive byte sequence": "case-insensitive-byte-sequence",
     "concept-basic-fetch": "concept-basic-fetch",
     "concept-body": "concept-body",

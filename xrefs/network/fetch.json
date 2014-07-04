@@ -53,6 +53,7 @@
     "concept-request-body": "concept-request-body",
     "concept-request-client": "concept-request-client",
     "concept-request-context": "concept-request-context",
+    "concept-request-context-frame-type": "concept-request-context-frame-type",
     "concept-request-credentials-mode": "concept-request-credentials-mode",
     "concept-request-header-list": "concept-request-header-list",
     "concept-request-manual-redirect-flag": "concept-request-manual-redirect-flag",

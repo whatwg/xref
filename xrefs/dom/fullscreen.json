@@ -15,6 +15,7 @@
     "fullscreen element ready check": "fullscreen-element-ready-check",
     "fullscreen element stack": "fullscreen-element-stack",
     "fullscreen enabled flag": "fullscreen-enabled-flag",
+    "fullscreen is supported": "fullscreen-is-supported",
     "fully exit fullscreen": "fully-exit-fullscreen",
     "handler-document-onfullscreenchange": "handler-document-onfullscreenchange",
     "handler-document-onfullscreenerror": "handler-document-onfullscreenerror",

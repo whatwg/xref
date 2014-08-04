@@ -119,6 +119,7 @@
     "handle content codings": "handle-content-codings",
     "headers": "headers",
     "headersinit": "headersinit",
+    "http header layer division": "http-header-layer-division",
     "http-access-control-allow-credentials": "http-access-control-allow-credentials",
     "http-access-control-allow-headers": "http-access-control-allow-headers",
     "http-access-control-allow-methods": "http-access-control-allow-methods",

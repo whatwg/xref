@@ -145,6 +145,7 @@
     "responsetype": "responsetype",
     "restricted copy": "restricted-copy",
     "same-origin data url flag": "same-origin-data-url-flag",
+    "sandboxed storage area urls flag": "sandboxed-storage-area-urls-flag",
     "simple header": "simple-header",
     "simple method": "simple-method",
     "skip service worker flag": "skip-service-worker-flag",

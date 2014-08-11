@@ -63,6 +63,7 @@
     "language": "language",
     "language identifier": "language-identifier",
     "evaluate a selector" : "evaluate-a-selector",
+    "match a selector against an element" : "match-a-selector-against-an-element",
     "next-sibling combinator": "next-sibling-combinator",
     "originating element": "originating-element",
     "parse a relative selector":"parse-a-relative-selector",

@@ -192,7 +192,7 @@
     "authors" : ["Simon Sapin"]
   },
   "DOCTYPE" : {
-    "href" : "http://hsivonen.iki.fi/doctype/",
+    "href" : "https://hsivonen.fi/doctype/",
     "title" : "Activating Browser Modes with Doctype",
     "authors" : ["Henri Sivonen"]
   },

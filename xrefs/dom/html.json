@@ -312,6 +312,7 @@
     "dom-forcespellcheck": "dom-forcespellcheck",
     "dom-form-checkvalidity": "dom-form-checkvalidity",
     "dom-form-reportvalidity": "dom-form-reportvalidity",
+    "dom-form-requestautocomplete": "dom-form-requestautocomplete",
     "dom-form-elements": "dom-form-elements",
     "dom-form-length": "dom-form-length",
     "dom-hidden": "dom-hidden",

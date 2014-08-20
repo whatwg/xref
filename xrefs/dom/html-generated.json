@@ -314,6 +314,7 @@
     "dom-form-elements": "forms.html#dom-form-elements",
     "dom-form-length": "forms.html#dom-form-length",
     "dom-form-reportvalidity": "forms.html#dom-form-reportvalidity",
+    "dom-form-requestautocomplete": "forms.html#dom-form-requestautocomplete",
     "dom-hidden": "interaction.html#dom-hidden",
     "dom-htmloptionscollection-add": "infrastructure.html#dom-htmloptionscollection-add",
     "dom-htmloptionscollection-remove": "infrastructure.html#dom-htmloptionscollection-remove",

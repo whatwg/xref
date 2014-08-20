@@ -549,6 +549,7 @@
     "task source": "webappapis.html#task-source",
     "tbody": "tables.html#the-tbody-element",
     "td": "tables.html#the-td-element",
+    "template": "scripting.html#the-template-element",
     "textarea": "forms.html#the-textarea-element",
     "tfoot": "tables.html#the-tfoot-element",
     "th": "tables.html#the-th-element",

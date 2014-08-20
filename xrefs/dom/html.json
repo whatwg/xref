@@ -549,6 +549,7 @@
     "task source": "task-source",
     "tbody": "the-tbody-element",
     "td": "the-td-element",
+    "template": "the-template-element",
     "textarea": "the-textarea-element",
     "tfoot": "the-tfoot-element",
     "th": "the-th-element",

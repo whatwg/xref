@@ -201,6 +201,7 @@
     "basefont": "basefont",
     "bdi": "the-bdi-element",
     "big": "big",
+    "blockquote": "the-blockquote-element",
     "body": "the-body-element",
     "br": "the-br-element",
     "broadcastchannel": "broadcastchannel",

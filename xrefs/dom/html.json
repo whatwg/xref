@@ -98,6 +98,7 @@
     "attr-iframe-scrolling": "attr-iframe-scrolling",
     "attr-iframe-seamless": "attr-iframe-seamless",
     "attr-iframe-srcdoc": "attr-iframe-srcdoc",
+    "attr-img-alt": "attr-img-alt",
     "attr-img-border": "attr-img-border",
     "attr-img-crossorigin": "attr-img-crossorigin",
     "attr-img-hspace": "attr-img-hspace",

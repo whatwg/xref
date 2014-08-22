@@ -98,6 +98,7 @@
     "attr-iframe-scrolling": "obsolete.html#attr-iframe-scrolling",
     "attr-iframe-seamless": "embedded-content.html#attr-iframe-seamless",
     "attr-iframe-srcdoc": "embedded-content.html#attr-iframe-srcdoc",
+    "attr-img-alt": "embedded-content.html#attr-img-alt",
     "attr-img-border": "obsolete.html#attr-img-border",
     "attr-img-crossorigin": "embedded-content.html#attr-img-crossorigin",
     "attr-img-hspace": "obsolete.html#attr-img-hspace",

@@ -624,7 +624,8 @@
     "workerglobalscope": "workers.html#workerglobalscope",
     "xml fragment parsing algorithm": "xhtml.html#xml-fragment-parsing-algorithm",
     "xml fragment serialization algorithm": "xhtml.html#xml-fragment-serialisation-algorithm",
-    "xml parser": "xhtml.html#xml-parser"
+    "xml parser": "xhtml.html#xml-parser",
+    "xml scripting support disabled": "xhtml.html#xml-scripting-support-disabled"
   },
   "url": "http://www.whatwg.org/specs/web-apps/current-work/multipage/"
 }

@@ -1,6 +1,7 @@
 {
   "definitions": {
     "characteristics": "characteristics",
+    "collect ancestors": "collect-ancestors",
     "concept-fullscreen-add": "concept-fullscreen-add",
     "concept-fullscreen-empty": "concept-fullscreen-empty",
     "concept-fullscreen-remove": "concept-fullscreen-remove",

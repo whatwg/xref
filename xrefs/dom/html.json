@@ -314,10 +314,10 @@
     "dom-font-size": "dom-font-size",
     "dom-forcespellcheck": "dom-forcespellcheck",
     "dom-form-checkvalidity": "dom-form-checkvalidity",
-    "dom-form-reportvalidity": "dom-form-reportvalidity",
-    "dom-form-requestautocomplete": "dom-form-requestautocomplete",
     "dom-form-elements": "dom-form-elements",
     "dom-form-length": "dom-form-length",
+    "dom-form-reportvalidity": "dom-form-reportvalidity",
+    "dom-form-requestautocomplete": "dom-form-requestautocomplete",
     "dom-hidden": "dom-hidden",
     "dom-htmloptionscollection-add": "dom-htmloptionscollection-add",
     "dom-htmloptionscollection-remove": "dom-htmloptionscollection-remove",
@@ -624,7 +624,8 @@
     "workerglobalscope": "workerglobalscope",
     "xml fragment parsing algorithm": "xml-fragment-parsing-algorithm",
     "xml fragment serialization algorithm": "xml-fragment-serialisation-algorithm",
-    "xml parser": "xml-parser"
+    "xml parser": "xml-parser",
+    "xml scripting support disabled": "xml-scripting-support-disabled"
   },
   "url": "http://www.whatwg.org/specs/web-apps/current-work/multipage/"
 }

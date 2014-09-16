@@ -517,7 +517,6 @@
     "locate a namespace": "locate-a-namespace",
     "locate a namespace prefix": "locate-a-namespace-prefix",
     "match a relative selectors string": "match-a-relative-selectors-string",
-    "match a selectors string": "match-a-selectors-string",
     "mutation method macro": "mutation-method-macro",
     "mutation observer compound microtask queued flag": "mutation-observer-compound-microtask-queued-flag",
     "mutationcallback": "mutationcallback",

@@ -39,7 +39,7 @@
   },
   "FETCH" :
   {
-    "href" : "http://fetch.spec.whatwg.org/",
+    "href" : "https://fetch.spec.whatwg.org/",
     "title" : "Fetch",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"
@@ -230,7 +230,7 @@
   },
   "DOM" :
   {
-    "href" : "http://dom.spec.whatwg.org/",
+    "href" : "https://dom.spec.whatwg.org/",
     "oldhref" : "http://www.w3.org/TR/domcore/",
     "title" : "DOM",
     "authors" : ["Anne van Kesteren", "Aryeh Gregor", "Ms2ger"],
@@ -238,7 +238,7 @@
   },
   "DOMPS" :
   {
-    "href" : "http://domparsing.spec.whatwg.org/",
+    "href" : "https://domparsing.spec.whatwg.org/",
     "title" : "DOM Parsing and Serialization",
     "authors" : ["Ms2ger"],
     "publisher" : "WHATWG"
@@ -262,7 +262,7 @@
     "publisher" : "W3C"
   },
   "ENCODING" : {
-    "href" : "http://encoding.spec.whatwg.org/",
+    "href" : "https://encoding.spec.whatwg.org/",
     "title" : "Encoding",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"
@@ -301,7 +301,7 @@
   },
   "HTML" :
   {
-    "href" : "http://www.whatwg.org/specs/web-apps/current-work/multipage/",
+    "href" : "https://html.spec.whatwg.org/multipage/",
     "title" : "HTML",
     "authors" : ["Ian Hickson"],
     "publisher" : "WHATWG"
@@ -406,7 +406,7 @@
   },
   "MIMESNIFF" :
   {
-    "href": "http://mimesniff.spec.whatwg.org/",
+    "href": "https://mimesniff.spec.whatwg.org/",
     "title": "MIME Sniffing",
     "authors": ["Gordon P. Hemsley"],
     "publisher": "WHATWG"
@@ -527,7 +527,7 @@
   },
   "URL" :
   {
-    "href": "http://url.spec.whatwg.org/",
+    "href": "https://url.spec.whatwg.org/",
     "title": "URL",
     "authors": ["Anne van Kesteren"],
     "publisher": "WHATWG"
@@ -548,7 +548,7 @@
   },
   "XHR" :
   {
-    "href" : "http://xhr.spec.whatwg.org/",
+    "href" : "https://xhr.spec.whatwg.org/",
     "title" : "XMLHttpRequest",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"

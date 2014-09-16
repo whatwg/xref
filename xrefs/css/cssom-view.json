@@ -117,6 +117,7 @@
     "mediaquerylisteventinit": "mediaquerylisteventinit",
     "mouseevent": "mouseevent",
     "mouseeventinit": "mouseeventinit",
+    "normalize non-finite values": "normalize-non-finite-values",
     "overflow directions": "overflow-directions",
     "padding edge": "padding-edge",
     "page zoom": "page-zoom",

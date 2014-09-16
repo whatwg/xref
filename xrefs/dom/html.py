@@ -9,7 +9,7 @@ except ImportError:
 
 to = - (len(",};var fragid = window.location.hash.substr(1);if (!fragid) {var m = window.location.pathname.match(/\/(?:section-)?([\w\-]+)\.html/);if (m) fragid = m[1];}var page = fragment_links[fragid];if (page) {window.location.replace(page+'.html#'+fragid);}") + 1)
 
-multipageData = json.loads(urllib2.urlopen("http://www.whatwg.org/specs/web-apps/current-work/multipage/fragment-links.js").readline()[21:to] + "}")
+multipageData = json.loads(urllib2.urlopen("https://html.spec.whatwg.org/multipage/fragment-links.js").readline()[21:to] + "}")
 
 localData = json.loads(open("html.json", "r").read())
 

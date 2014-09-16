@@ -155,5 +155,5 @@
     "synchronous flag": "synchronous-flag",
     "unsafe request flag": "unsafe-request-flag"
   },
-  "url": "http://fetch.spec.whatwg.org/#"
+  "url": "https://fetch.spec.whatwg.org/#"
 }

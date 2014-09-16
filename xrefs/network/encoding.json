@@ -151,5 +151,5 @@
     "x-user-defined decoder": "x-user-defined-decoder",
     "x-user-defined encoder": "x-user-defined-encoder"
   },
-  "url": "http://encoding.spec.whatwg.org/#"
+  "url": "https://encoding.spec.whatwg.org/#"
 }

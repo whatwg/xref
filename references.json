@@ -238,10 +238,10 @@
   },
   "DOMPS" :
   {
-    "href" : "https://domparsing.spec.whatwg.org/",
+    "href" : "https://dvcs.w3.org/hg/innerhtml/raw-file/tip/index.html",
     "title" : "DOM Parsing and Serialization",
-    "authors" : ["Ms2ger"],
-    "publisher" : "WHATWG"
+    "authors" : ["Travis Leithead"],
+    "publisher" : "W3C"
   },
   "ECMASCRIPT" :
   {

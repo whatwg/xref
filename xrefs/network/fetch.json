@@ -56,6 +56,7 @@
     "concept-network-error": "concept-network-error",
     "concept-request": "concept-request",
     "concept-request-body": "concept-request-body",
+    "concept-request-cache-mode": "concept-request-cache-mode",
     "concept-request-client": "concept-request-client",
     "concept-request-context": "concept-request-context",
     "concept-request-context-frame-type": "concept-request-context-frame-type",

@@ -7,6 +7,7 @@
     "domstring": "idl-DOMString",
     "es-bytestring" : "es-bytestring",
     "float": "idl-float",
+    "get a copy of the bytes held by the buffer source" : "dfn-get-buffer-source-copy",
     "identifier": "dfn-identifier",
     "interface": "dfn-interface",
     "long": "idl-long",
@@ -20,7 +21,9 @@
     "support named properties": "dfn-support-named-properties",
     "throw": "dfn-throw",
     "unenumerable": "dfn-unenumerable",
-    "unsigned long": "idl-unsigned-long"
+    "unsigned long": "idl-unsigned-long",
+    "value pairs to iterate over" : "dfn-value-pairs-to-iterate-over",
+    "values to iterate over" : "dfn-values-to-iterate-over"
   },
   "url": "http://heycam.github.io/webidl/#"
 }

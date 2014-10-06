@@ -1,6 +1,7 @@
 {
   "definitions": {
-    "handle a fetch": "handle-a-fetch"
+    "handle a fetch": "handle-a-fetch",
+    "serviceworkerregistration": "service-worker-registration-interface"
   },
   "url": "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/#"
 }

@@ -1,6 +1,10 @@
 {
   "definitions": {
+    "active worker" : "dfn-active-worker",
     "handle a fetch": "handle-a-fetch",
+    "handle functional event" : "handle-functional-event-algorithm",
+    "service worker" : "dfn-service-worker",
+    "serviceworkerglobalscope" : "service-worker-global-scope-interface",
     "serviceworkerregistration": "service-worker-registration-interface"
   },
   "url": "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/#"

@@ -100,6 +100,7 @@
     "dom-headers-has": "dom-headers-has",
     "dom-headers-set": "dom-headers-set",
     "dom-request": "dom-request",
+    "dom-request-clone": "dom-request-clone",
     "dom-request-context": "dom-request-context",
     "dom-request-credentials": "dom-request-credentials",
     "dom-request-headers": "dom-request-headers",

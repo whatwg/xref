@@ -1,6 +1,8 @@
 {
   "definitions": {
     "active worker" : "dfn-active-worker",
+    "extendableevent" : "extendable-event-interface",
+    "extendableeventinit" : "extendable-event-init-dictionary",
     "handle a fetch": "handle-a-fetch",
     "handle functional event" : "handle-functional-event-algorithm",
     "service worker" : "dfn-service-worker",

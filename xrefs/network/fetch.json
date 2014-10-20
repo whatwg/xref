@@ -143,6 +143,7 @@
     "process response": "process-response",
     "process response body": "process-response-body",
     "process response end-of-file": "process-response-end-of-file",
+    "queue a fetch task": "queue-a-fetch-task",
     "request": "request",
     "requestcache": "requestcache",
     "requestcontext": "requestcontext",

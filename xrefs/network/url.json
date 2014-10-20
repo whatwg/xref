@@ -112,6 +112,8 @@
     "scheme data state": "scheme-data-state",
     "scheme start state": "scheme-start-state",
     "scheme state": "scheme-state",
+    "set the password": "set-the-password",
+    "set the username": "set-the-username",
     "simple encode set": "simple-encode-set",
     "url": "url",
     "url code points": "url-code-points",

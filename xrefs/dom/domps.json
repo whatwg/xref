@@ -11,7 +11,7 @@
     "dom-element-innerhtml": "dom-element-innerhtml",
     "dom-element-insertadjacenthtml": "dom-element-insertadjacenthtml",
     "dom-element-outerhtml": "dom-element-outerhtml",
-    "dom-range-createcontextualfragment": "dom-range-createcontextualfragment",
+    "createcontextualfragment": "widl-Range-createContextualFragment-DocumentFragment-DOMString-fragment",
     "dom-text-serializeascdata": "dom-text-serializeascdata",
     "dom-xmlserializer": "dom-xmlserializer",
     "dom-xmlserializer-serializetostring": "dom-xmlserializer-serializetostring",

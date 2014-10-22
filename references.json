@@ -223,9 +223,9 @@
   },
   "DOM3EVENTS" :
   {
-    "href" : "http://dev.w3.org/2006/webapi/DOM-Level-3-Events/html/DOM3-Events.html",
+    "href" : "https://dvcs.w3.org/hg/dom3events/raw-file/tip/html/DOM3-Events.html",
     "title" : "Document Object Model (DOM) Level 3 Events Specification",
-    "authors" : ["Travis Leithead"],
+    "authors" : ["Gary Kacmarcik", "Travis Leithead"],
     "publisher" : "W3C"
   },
   "DOM" :

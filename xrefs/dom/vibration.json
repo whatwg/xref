@@ -1,0 +1,8 @@
+{
+  "url": "http://dev.w3.org/2009/dap/vibration/#",
+  "definitions": {
+    "vibratepattern" : "idl-def-VibratePattern",
+    "validate and normalize" : "dfn-validate-and-normalize",
+    "perform vibration" : "dfn-perform-vibration"
+  }
+}

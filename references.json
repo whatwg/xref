@@ -507,6 +507,12 @@
                  "A. Shellshear"],
     "publisher" : "W3C"
   },
+  "TLS": {
+    "title": "The Transport Layer Security (TLS) Protocol Version 1.2",
+    "href": "http://tools.ietf.org/html/rfc5246",
+    "authors": ["T. Dierks", "E. Rescorla"],
+    "publisher": "IETF"
+  },
   "UIEVENTS" : {
     "href" : "https://dvcs.w3.org/hg/d4e/raw-file/tip/source_respec.htm",
     "title" : "UI Events",
@@ -531,6 +537,13 @@
     "title": "URL",
     "authors": ["Anne van Kesteren"],
     "publisher": "WHATWG"
+  },
+  "VIBRATION" :
+  {
+    "href": "http://dev.w3.org/2009/dap/vibration/",
+    "title" : "Vibration API",
+    "authors" : ["Anssi Kostiainen"],
+    "publisher" : "W3C"
   },
   "WEBIDL" :
   {

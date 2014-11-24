@@ -16,6 +16,7 @@
   "selectors": "css/selectors.json",
   "sw": "dom/serviceworkers.json",
   "url" : "network/url.json",
+  "vibration" : "dom/vibration.json",
   "webidl": "dom/webidl.json",
   "xhr": "dom/xhr.json",
   "xml": "dom/xml.json",

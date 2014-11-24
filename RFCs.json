@@ -30719,12 +30719,6 @@
     "authors": ["H. Schulzrinne", "T. Taylor"],
     "publisher": "IETF"
   },
-  "RFC5246": {
-    "title": "The Transport Layer Security (TLS) Protocol Version 1.2",
-    "href": "http://tools.ietf.org/html/rfc5246",
-    "authors": ["T. Dierks", "E. Rescorla"],
-    "publisher": "IETF"
-  },
   "RFC5247": {
     "title": "Extensible Authentication Protocol (EAP) Key Management Framework",
     "href": "http://tools.ietf.org/html/rfc5247",

@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "authentication entry": "authentication-entry",
     "authentication flag": "authentication-flag",
     "body": "body",
     "bodyinit": "bodyinit",
@@ -80,6 +81,7 @@
     "concept-response-status": "concept-response-status",
     "concept-response-status-message": "concept-response-status-message",
     "concept-response-termination-reason": "concept-response-termination-reason",
+    "concept-response-tls-state": "concept-response-tls-state",
     "concept-response-type": "concept-response-type",
     "concept-response-url": "concept-response-url",
     "cors preflight fetch": "cors-preflight-fetch-0",
@@ -143,6 +145,7 @@
     "process response": "process-response",
     "process response body": "process-response-body",
     "process response end-of-file": "process-response-end-of-file",
+    "proxy authentication entry": "proxy-authentication-entry",
     "queue a fetch task": "queue-a-fetch-task",
     "request": "request",
     "requestcache": "requestcache",

@@ -160,6 +160,7 @@
     "dom-attr-localname": "dom-attr-localname",
     "dom-attr-name": "dom-attr-name",
     "dom-attr-namespaceuri": "dom-attr-namespaceuri",
+    "dom-attr-nodevalue": "dom-attr-nodevalue",
     "dom-attr-ownerelement": "dom-attr-ownerelement",
     "dom-attr-prefix": "dom-attr-prefix",
     "dom-attr-specified": "dom-attr-specified",

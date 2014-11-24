@@ -12,6 +12,7 @@
     "concept-body": "concept-body",
     "concept-body-body": "concept-body-body",
     "concept-body-consume-body": "concept-body-consume-body",
+    "concept-body-error-flag": "concept-body-error-flag",
     "concept-body-length": "concept-body-length",
     "concept-body-mime-type": "concept-body-mime-type",
     "concept-body-transmitted": "concept-body-transmitted",

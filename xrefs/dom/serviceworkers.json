@@ -3,7 +3,7 @@
     "active worker" : "dfn-active-worker",
     "extendableevent" : "extendable-event-interface",
     "extendableeventinit" : "extendable-event-init-dictionary",
-    "handle a fetch": "handle-a-fetch",
+    "handle fetch": "on-fetch-request-algorithm",
     "handle functional event" : "handle-functional-event-algorithm",
     "service worker" : "dfn-service-worker",
     "serviceworkerglobalscope" : "service-worker-global-scope-interface",

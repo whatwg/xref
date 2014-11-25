@@ -6,6 +6,7 @@
     "dom-blob-type" : "dfn-type",
     "dom-blob-size" : "dfn-size",
     "dom-file-name" : "dfn-name",
-    "file" : "file"
+    "file" : "file",
+    "read operation" : "readOperation"
   }
 }

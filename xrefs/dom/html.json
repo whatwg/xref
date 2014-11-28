@@ -222,6 +222,7 @@
     "collections": "collections",
     "compound microtask": "compound-microtask",
     "concept-command": "concept-command",
+    "concept-document-window": "concept-document-window",
     "concept-event-fire": "concept-event-fire",
     "concept-events-trusted": "concept-events-trusted",
     "concept-frag-parse-context": "concept-frag-parse-context",

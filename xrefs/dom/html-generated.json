@@ -222,6 +222,7 @@
     "collections": "infrastructure.html#collections",
     "compound microtask": "webappapis.html#compound-microtask",
     "concept-command": "forms.html#concept-command",
+    "concept-document-window": "browsers.html#concept-document-window",
     "concept-event-fire": "infrastructure.html#concept-event-fire",
     "concept-events-trusted": "infrastructure.html#concept-events-trusted",
     "concept-frag-parse-context": "syntax.html#concept-frag-parse-context",

@@ -5,7 +5,7 @@
     "convert a domstring to a sequence of unicode characters" : "dfn-obtain-unicode",
     "dictionary member": "dfn-dictionary-member",
     "domstring": "idl-DOMString",
-    "es-bytestring" : "es-bytestring",
+    "es-bytestring" : "es-ByteString",
     "float": "idl-float",
     "get a copy of the bytes held by the buffer source" : "dfn-get-buffer-source-copy",
     "identifier": "dfn-identifier",

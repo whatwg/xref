@@ -34,7 +34,6 @@
     "handler-onclick": "handler-onclick",
     "handler-onerror": "handler-onerror",
     "handler-serviceworkerglobalscope-onnotificationclick": "handler-serviceworkerglobalscope-onnotificationclick",
-    "handler-serviceworkerglobalscope-onnotificationerror": "handler-serviceworkerglobalscope-onnotificationerror",
     "icon resource": "icon-resource",
     "icon url": "icon-url",
     "list of notifications": "list-of-notifications",

@@ -176,7 +176,7 @@
     "dom-childnode-after": "dom-childnode-after",
     "dom-childnode-before": "dom-childnode-before",
     "dom-childnode-remove": "dom-childnode-remove",
-    "dom-childnode-replace": "dom-childnode-replace",
+    "dom-childnode-replacewith": "dom-childnode-replacewith",
     "dom-comment": "dom-comment",
     "dom-comparehow-end_to_end": "dom-comparehow-end_to_end",
     "dom-comparehow-end_to_start": "dom-comparehow-end_to_start",

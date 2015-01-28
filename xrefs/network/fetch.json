@@ -145,6 +145,7 @@
     "http-access-control-request-method": "http-access-control-request-method",
     "http-origin": "http-origin",
     "json": "json",
+    "local urls only flag": "local-urls-only-flag",
     "potential client request": "potential-client-request",
     "process request body": "process-request-body",
     "process request end-of-file": "process-request-end-of-file",

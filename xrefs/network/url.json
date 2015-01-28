@@ -91,6 +91,7 @@
     "host state": "host-state",
     "hostname state": "hostname-state",
     "include credentials": "include-credentials",
+    "is local": "is-local",
     "no scheme state": "no-scheme-state",
     "parse error": "parse-error",
     "password encode set": "password-encode-set",

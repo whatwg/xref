@@ -524,6 +524,12 @@
     "title" : "Unicode Standard",
     "publisher" : "Unicode Consortium"
   },
+  "UPGRADE" : {
+    "href" : "https://w3c.github.io/webappsec/specs/upgrade/",
+    "title" : "Upgrade Insecure Requests",
+    "authors" : ["Mike West"],
+    "publisher" : "W3C"
+  },
   "URI" :
   {
     "href" : "http://tools.ietf.org/html/rfc3986",

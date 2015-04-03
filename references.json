@@ -1,14 +1,14 @@
 {
   "ABOUT" :
   {
-    "href" : "http://tools.ietf.org/html/draft-ietf-appsawg-about-uri-scheme",
+    "href" : "https://tools.ietf.org/html/draft-ietf-appsawg-about-uri-scheme",
     "title" : "The 'about' URI scheme",
     "authors" : ["Lachlan Hunt", "Mykyta Yevstifeyev"],
     "publisher" : "IETF"
   },
   "ASCII": {
     "title": "ASCII format for Network Interchange",
-    "href": "http://tools.ietf.org/html/rfc20",
+    "href": "https://tools.ietf.org/html/rfc20",
     "authors": ["Vint Cerf"],
     "publisher": "IETF"
   },
@@ -26,7 +26,7 @@
   },
   "COOKIES" :
   {
-    "href" : "http://tools.ietf.org/html/rfc6265",
+    "href" : "https://tools.ietf.org/html/rfc6265",
     "title" : "HTTP State Management Mechanism",
     "authors" : ["Adam Barth"],
     "publisher" : "IETF"
@@ -187,7 +187,7 @@
     "publisher" : "W3C"
   },
   "DATAURL" : {
-    "href" : "http://simonsapin.github.io/data-urls/",
+    "href" : "https://simonsapin.github.io/data-urls/",
     "title" : "The data URL scheme",
     "authors" : ["Simon Sapin"]
   },
@@ -231,7 +231,6 @@
   "DOM" :
   {
     "href" : "https://dom.spec.whatwg.org/",
-    "oldhref" : "http://www.w3.org/TR/domcore/",
     "title" : "DOM",
     "authors" : ["Anne van Kesteren", "Aryeh Gregor", "Ms2ger"],
     "publisher" : "WHATWG"
@@ -267,13 +266,6 @@
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"
   },
-  "EVENTSOURCE" :
-  {
-    "href" : "http://dev.w3.org/html5/eventsource/",
-    "title" : "Server-Sent Events",
-    "authors" : ["Ian Hickson"],
-    "publisher" : "W3C"
-  },
   "FILEAPI" :
   {
      "href" : "http://dev.w3.org/2006/webapi/FileAPI/",
@@ -283,7 +275,7 @@
   },
   "FTP": {
     "title": "File Transfer Protocol",
-    "href": "http://tools.ietf.org/html/rfc959",
+    "href": "https://tools.ietf.org/html/rfc959",
     "authors": ["J. Postel", "J. Reynolds"],
     "publisher": "IETF"
   },
@@ -295,7 +287,7 @@
   },
   "HSTS" : {
     "title" : "HTTP Strict Transport Security",
-    "href" : "http://tools.ietf.org/html/rfc6797",
+    "href" : "https://tools.ietf.org/html/rfc6797",
     "authors" : ["Jeff Hodges", "Collin Jackson", "Adam Barth"],
     "publisher" : "IETF"
   },
@@ -326,14 +318,14 @@
   },
   "HTTP" :
   {
-    "href" : "http://tools.ietf.org/html/rfc2616",
+    "href" : "https://tools.ietf.org/html/rfc2616",
     "title" : "Hypertext Transfer Protocol -- HTTP/1.1",
     "authors" : ["Roy Fielding", "James Gettys", "Jeffrey Mogul", "Henrik Frystyk", "Larry Masinter", "Paul Leach", "Tim Berners-Lee"],
     "publisher" : "IETF"
   },
   "HTTPAUTH" :
   {
-    "href" : "http://tools.ietf.org/html/rfc2617",
+    "href" : "https://tools.ietf.org/html/rfc2617",
     "title" : "HTTP Authentication: Basic and Digest Access Authentication",
     "authors" : ["J. Franks", "Phillip Hallam-Baker", "J. Hostetler", "S. Lawrence", "Paul Leach", "A. Luotonen", "L. Stewart"],
     "publisher" : "IETF"
@@ -356,7 +348,7 @@
   }],
   "IANACHARSET" :
   {
-    "href": "http://www.iana.org/assignments/character-sets",
+    "href": "https://www.iana.org/assignments/character-sets/character-sets.xhtml",
     "title": "Character Sets",
     "publisher": "IANA"
   },
@@ -368,19 +360,19 @@
   },
   "IPV6": {
     "title": "IP Version 6 Addressing Architecture",
-    "href": "http://tools.ietf.org/html/rfc4291",
+    "href": "https://tools.ietf.org/html/rfc4291",
     "authors": ["R. Hinden", "Steve Deering"],
     "publisher": "IETF"
   },
   "IPV6TEXT": {
     "title": "A Recommendation for IPv6 Address Text Representation",
-    "href": "http://tools.ietf.org/html/rfc5952",
+    "href": "https://tools.ietf.org/html/rfc5952",
     "authors": ["S. Kawamura", "M. Kawashima"],
     "publisher": "IETF"
   },
   "IRI" :
   {
-    "href" : "http://tools.ietf.org/html/rfc3987",
+    "href" : "https://tools.ietf.org/html/rfc3987",
     "title" : "Internationalized Resource Identifiers (IRIs)",
     "authors" : ["Martin Dürst", "Michel Suignard"],
     "publisher" : "IETF"
@@ -392,7 +384,7 @@
   },
   "LANG":
   {
-    "href" : "http://tools.ietf.org/html/bcp47",
+    "href" : "https://tools.ietf.org/html/bcp47",
     "title": "Tags for Identifying Languages; Matching of Language Tags",
     "authors": ["Addison Phillips", "Mark Davis"],
     "publisher": "IETF"
@@ -413,7 +405,7 @@
   },
   "MIMETYPE" :
   {
-    "href" : "http://tools.ietf.org/html/rfc2046",
+    "href" : "https://tools.ietf.org/html/rfc2046",
     "title" : "Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types",
     "authors" : ["Ned Freed", "Nathaniel Borenstein"],
     "publisher" : "IETF"
@@ -425,20 +417,20 @@
     "publisher" : "W3C"
   },
   "OAUTH" : {
-    "href" : "http://tools.ietf.org/html/rfc5849",
+    "href" : "https://tools.ietf.org/html/rfc5849",
     "title" : "The OAuth 1.0 Protocol",
     "authors" : ["Eran Hammer-Lahav"],
     "publisher" : "IETF"
   },
   "ORIGIN" :
   {
-    "href" : "http://tools.ietf.org/html/rfc6454",
+    "href" : "https://tools.ietf.org/html/rfc6454",
     "title" : "The Web Origin Concept",
     "authors" : ["Adam Barth"],
     "publisher" : "IETF"
   },
   "PSL" : {
-    "href" : "http://publicsuffix.org/",
+    "href" : "https://publicsuffix.org/",
     "title" : "Public Suffix List",
     "publisher" : "Mozilla"
   },
@@ -450,26 +442,26 @@
   },
   "RFC2119" :
   {
-    "href" : "http://tools.ietf.org/html/rfc2119",
+    "href" : "https://tools.ietf.org/html/rfc2119",
     "title" : "Key words for use in RFCs to Indicate Requirement Levels",
     "authors" : ["Scott Bradner"],
     "publisher" : "IETF"
   },
   "RFC2781": {
     "title": "UTF-16, an encoding of ISO 10646",
-    "href": "http://tools.ietf.org/html/rfc2781",
+    "href": "https://tools.ietf.org/html/rfc2781",
     "authors": ["Paul Hoffman", "Francois Yergeau"],
     "publisher": "IETF"
   },
   "RFC2388": {
     "title": "Returning Values from Forms: multipart/form-data",
-    "href": "http://tools.ietf.org/html/rfc2388",
+    "href": "https://tools.ietf.org/html/rfc2388",
     "authors": ["L. Masinter"],
     "publisher": "IETF"
   },
   "RFC3023": {
     "title": "XML Media Types",
-    "href": "http://tools.ietf.org/html/rfc3023",
+    "href": "https://tools.ietf.org/html/rfc3023",
     "authors": ["M. Murata", "S. St. Laurent", "D. Kohn"],
     "publisher": "IETF"
   },
@@ -509,7 +501,7 @@
   },
   "TLS": {
     "title": "The Transport Layer Security (TLS) Protocol Version 1.2",
-    "href": "http://tools.ietf.org/html/rfc5246",
+    "href": "https://tools.ietf.org/html/rfc5246",
     "authors": ["T. Dierks", "E. Rescorla"],
     "publisher": "IETF"
   },
@@ -532,7 +524,7 @@
   },
   "URI" :
   {
-    "href" : "http://tools.ietf.org/html/rfc3986",
+    "href" : "https://tools.ietf.org/html/rfc3986",
     "title" : "Uniform Resource Identifier (URI): Generic Syntax",
     "authors" : ["Tim Berners-Lee", "Roy Fielding", "Larry Masinter"],
     "publisher" : "IETF"
@@ -553,7 +545,7 @@
   },
   "WEBIDL" :
   {
-    "href" : "http://heycam.github.io/webidl/",
+    "href" : "https://heycam.github.io/webidl/",
     "title" : "Web IDL",
     "authors" : ["Cameron McCormack"],
     "publisher" : "W3C"

@@ -1,0 +1,7 @@
+{
+  "url": "https://people.mozilla.org/~jorendorff/es6-draft.html#",
+  "definitions":
+    {
+      "promise-objects": "sec-promise-objects"
+    }
+}

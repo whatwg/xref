@@ -1,0 +1,8 @@
+{
+  "url": "http://www.khronos.org/registry/typedarray/specs/latest/#",
+  "definitions":
+    {
+      "arraybuffer": "5",
+      "arraybufferview": "6"
+    }
+}

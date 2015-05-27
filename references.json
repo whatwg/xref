@@ -266,6 +266,12 @@
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"
   },
+  "ES6" :
+  {
+    "href" : "http://people.mozilla.org/~jorendorff/es6-draft.html",
+    "title" : "ECMA-262 6th Edition / Draft",
+    "publisher" : "ECMA / Jason Orendorff"
+  },
   "FILEAPI" :
   {
      "href" : "http://dev.w3.org/2006/webapi/FileAPI/",
@@ -429,6 +435,13 @@
     "authors" : ["Adam Barth"],
     "publisher" : "IETF"
   },
+  "PROMGUIDE" :
+  {
+    "href" : "http://www.w3.org/2001/tag/doc/promises-guide",
+    "title" : "Writing Promise-Using Specifications",
+    "authors" : [ "Domenic Denicola" ],
+    "publisher" : "W3C"
+  },
   "PSL" : {
     "href" : "https://publicsuffix.org/",
     "title" : "Public Suffix List",
@@ -504,6 +517,12 @@
     "href": "https://tools.ietf.org/html/rfc5246",
     "authors": ["T. Dierks", "E. Rescorla"],
     "publisher": "IETF"
+  },
+  "TYPEDARRAY" : {
+      "title": "Typed Array",
+      "href": "http://www.khronos.org/registry/typedarray/specs/latest/",
+      "authors": ["David Herman", "Kenneth Russel"],
+      "publisher": "Khronos"
   },
   "UIEVENTS" : {
     "href" : "https://dvcs.w3.org/hg/d4e/raw-file/tip/source_respec.htm",

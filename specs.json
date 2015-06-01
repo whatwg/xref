@@ -18,7 +18,6 @@
   "promguide": "js/promisesguide.json",
   "selectors": "css/selectors.json",
   "sw": "dom/serviceworkers.json",
-  "typedarray": "js/typedarray.json",
   "url" : "network/url.json",
   "vibration" : "dom/vibration.json",
   "webidl": "dom/webidl.json",

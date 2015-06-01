@@ -519,10 +519,10 @@
     "publisher": "IETF"
   },
   "TYPEDARRAY" : {
-      "title": "Typed Array",
-      "href": "http://www.khronos.org/registry/typedarray/specs/latest/",
-      "authors": ["David Herman", "Kenneth Russel"],
-      "publisher": "Khronos"
+    "title": "Typed Array",
+    "href": "http://www.khronos.org/registry/typedarray/specs/latest/",
+    "authors": ["David Herman", "Kenneth Russel"],
+    "publisher": "Khronos"
   },
   "UIEVENTS" : {
     "href" : "https://dvcs.w3.org/hg/d4e/raw-file/tip/source_respec.htm",

@@ -1,8 +1,0 @@
-{
-  "url": "https://people.mozilla.org/~jorendorff/es6-draft.html#",
-  "definitions":
-    {
-      "arraybuffer": "sec-arraybuffer-objects",
-      "promise-objects": "sec-promise-objects"
-    }
-}

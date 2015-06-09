@@ -429,6 +429,13 @@
     "authors" : ["Adam Barth"],
     "publisher" : "IETF"
   },
+  "PROMGUIDE" :
+  {
+    "href" : "http://www.w3.org/2001/tag/doc/promises-guide",
+    "title" : "Writing Promise-Using Specifications",
+    "authors" : [ "Domenic Denicola" ],
+    "publisher" : "W3C"
+  },
   "PSL" : {
     "href" : "https://publicsuffix.org/",
     "title" : "Public Suffix List",

@@ -1,5 +1,8 @@
 {
   "definitions": {
+    "arraybuffer": "idl-ArrayBuffer",
+    "arraybufferview": "common-ArrayBufferView",
+    "buffersource": "common-BufferSource",
     "callback this value" : "dfn-callback-this-value",
     "code unit" : "dfn-code-unit",
     "convert a domstring to a sequence of unicode characters" : "dfn-obtain-unicode",
@@ -14,6 +17,7 @@
     "message": "dfn-exception-message",
     "name": "dfn-exception-name",
     "object": "idl-object",
+    "promise": "idl-promise",
     "read only array": "dfn-read-only-array",
     "regular attribute": "dfn-regular-attribute",
     "supported property indices": "dfn-supported-property-indices",

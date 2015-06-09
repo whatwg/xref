@@ -1,0 +1,7 @@
+{
+  "url": "http://www.w3.org/2001/tag/doc/promises-guide#",
+  "definitions":
+    {
+      "resolve-reject": "shorthand-manipulating"
+    }
+}

@@ -13,7 +13,6 @@
   "http": "network/http.json",
   "idna": "network/idna.json",
   "mime": "network/mime.json",
-  "origin": "network/origin.json",
   "promguide": "js/promisesguide.json",
   "selectors": "css/selectors.json",
   "sw": "dom/serviceworkers.json",

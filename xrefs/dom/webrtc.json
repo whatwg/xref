@@ -1,0 +1,6 @@
+{
+  "url": "http://w3c.github.io/webrtc-pc/#",
+  "definitions": {
+    "rtcdatachannel" : "idl-def-RTCDataChannel"
+  }
+}

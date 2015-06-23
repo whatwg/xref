@@ -557,6 +557,13 @@
     "authors" : ["Cameron McCormack"],
     "publisher" : "W3C"
   },
+  "WEBRTC" :
+  {
+    "href" : "https://w3c.github.io/webrtc-pc/",
+    "title" : "WebRTC",
+    "authors" : ["Ian Hickson", "Adam Bergkvist", "Daniel C. Burnett", "Cullen Jennings", "Anant Narayanan"],
+    "publisher" : "W3C"
+  },
   "XBL" :
   {
     "href" : "http://dev.w3.org/2006/xbl2/",

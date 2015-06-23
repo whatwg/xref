@@ -19,6 +19,7 @@
   "url" : "network/url.json",
   "vibration" : "dom/vibration.json",
   "webidl": "dom/webidl.json",
+  "webrtc": "dom/webrtc.json",
   "xhr": "dom/xhr.json",
   "xml": "dom/xml.json",
   "xmlns": "dom/xmlns.json",

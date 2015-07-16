@@ -2,9 +2,8 @@
   "definitions": {
     "characteristics": "characteristics",
     "collect ancestors": "collect-ancestors",
-    "concept-fullscreen-add": "concept-fullscreen-add",
-    "concept-fullscreen-empty": "concept-fullscreen-empty",
-    "concept-fullscreen-remove": "concept-fullscreen-remove",
+    "concept-top-layer-add": "concept-top-layer-add",
+    "concept-top-layer-remove": "concept-top-layer-remove",
     "context object": "context-object",
     "css-pc-fullscreen": "css-pc-fullscreen",
     "css-pe-backdrop": "css-pe-backdrop",
@@ -13,14 +12,19 @@
     "dom-document-fullscreenelement": "dom-document-fullscreenelement",
     "dom-document-fullscreenenabled": "dom-document-fullscreenenabled",
     "dom-element-requestfullscreen": "dom-element-requestfullscreen",
+    "exit fullscreen": "exit-fullscreen",
+    "fullscreen an element": "fullscreen-an-element",
+    "fullscreen element": "fullscreen-element",
     "fullscreen element ready check": "fullscreen-element-ready-check",
-    "fullscreen element stack": "fullscreen-element-stack",
     "fullscreen enabled flag": "fullscreen-enabled-flag",
+    "fullscreen flag": "fullscreen-flag",
     "fullscreen is supported": "fullscreen-is-supported",
     "fully exit fullscreen": "fully-exit-fullscreen",
     "handler-document-onfullscreenchange": "handler-document-onfullscreenchange",
     "handler-document-onfullscreenerror": "handler-document-onfullscreenerror",
-    "top layer": "top-layer"
+    "top layer": "top-layer",
+    "unfullscreen a document": "unfullscreen-a-document",
+    "unfullscreen an element": "unfullscreen-an-element"
   },
   "url": "https://fullscreen.spec.whatwg.org/#"
 }

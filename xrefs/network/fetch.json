@@ -76,6 +76,7 @@
     "concept-request-credentials-mode": "concept-request-credentials-mode",
     "concept-request-current-url": "concept-request-current-url",
     "concept-request-header-list": "concept-request-header-list",
+    "concept-request-integrity-metadata": "concept-request-integrity-metadata",
     "concept-request-method": "concept-request-method",
     "concept-request-mode": "concept-request-mode",
     "concept-request-origin": "concept-request-origin",
@@ -200,6 +201,7 @@
     "skip-service-worker flag": "skip-service-worker-flag",
     "synchronous flag": "synchronous-flag",
     "unsafe-request flag": "unsafe-request-flag",
+    "wait for a response": "wait-for-a-response",
     "worker request-context": "worker-request-context"
   },
   "url": "https://fetch.spec.whatwg.org/#"

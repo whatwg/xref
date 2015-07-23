@@ -489,6 +489,12 @@
     "authors" : ["Lachlan Hunt"],
     "publisher" : "W3C"
   },
+  "SRI" : {
+    "href" : "https://w3c.github.io/webappsec/specs/subresourceintegrity/",
+    "title" : "Subresource Integrity",
+    "authors" : ["Devdatta Akhawe", "Francois Marier", "Frederik Braun", "Joel Weinberger"],
+    "publisher" : "W3C"
+  },
   "SW" : {
     "href" : "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/",
     "title" : "Service Workers",

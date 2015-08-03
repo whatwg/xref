@@ -22,6 +22,7 @@
     "fully exit fullscreen": "fully-exit-fullscreen",
     "handler-document-onfullscreenchange": "handler-document-onfullscreenchange",
     "handler-document-onfullscreenerror": "handler-document-onfullscreenerror",
+    "iframe fullscreen flag": "iframe-fullscreen-flag",
     "top layer": "top-layer",
     "unfullscreen a document": "unfullscreen-a-document",
     "unfullscreen an element": "unfullscreen-an-element"

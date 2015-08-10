@@ -1,15 +1,15 @@
 {
-  "url": "http://tools.ietf.org/html/rfc2616/#",
+  "url": "https://tools.ietf.org/html/rfc7230#",
   "definitions": {
-    "delta-seconds" : "section-3.3.2",
-    "entity body" : "section-7.2",
-    "field-name" : "section-4.2",
-    "field-value" : "section-4.2",
-    "http-content-length" : "section-14.13",
+    "message body" : "section-3.3",
+    "field-content" : "section-3.2",
+    "field-name" : "section-3.2",
+    "field-value" : "section-3.2",
+    "http-content-length" : "section-3.3.2",
     "media-type" : "section-3.7",
-    "method" : "section-5.1.1",
+    "method" : "section-3.1.1",
     "parameter" : "section-3.7",
-    "reason-phrase" : "section-6.1.1",
+    "reason-phrase" : "section-3.1.2",
     "subtype" : "section-3.7",
     "type" : "section-3.7"
   }

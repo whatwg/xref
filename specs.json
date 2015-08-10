@@ -11,6 +11,8 @@
   "fileapi": "dom/fileapi.json",
   "html": "dom/html-generated.json",
   "http": "network/http.json",
+  "http-caching": "network/http-caching.json",
+  "http-semantics": "network/http-semantics.json",
   "idna": "network/idna.json",
   "mime": "network/mime.json",
   "promguide": "js/promisesguide.json",

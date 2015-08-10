@@ -317,12 +317,24 @@
     "publisher" : "W3C"
   },
   "HTTP" :
-  {
-    "href" : "https://tools.ietf.org/html/rfc2616",
-    "title" : "Hypertext Transfer Protocol -- HTTP/1.1",
-    "authors" : ["Roy Fielding", "James Gettys", "Jeffrey Mogul", "Henrik Frystyk", "Larry Masinter", "Paul Leach", "Tim Berners-Lee"],
+  [{
+    "href" : "https://tools.ietf.org/html/rfc7230",
+    "title" : "Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
+    "authors" : ["Roy Fielding", "Julian Reschke"],
     "publisher" : "IETF"
   },
+  {
+    "href" : "https://tools.ietf.org/html/rfc7231",
+    "title" : "Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
+    "authors" : ["Roy Fielding", "Julian Reschke"],
+    "publisher" : "IETF"
+  },
+  {
+    "href" : "https://tools.ietf.org/html/rfc7234",
+    "title" : "Hypertext Transfer Protocol (HTTP/1.1): Caching",
+    "authors" : ["Roy Fielding", "Julian Reschke"],
+    "publisher" : "IETF"
+  }],
   "HTTPAUTH" :
   {
     "href" : "https://tools.ietf.org/html/rfc2617",

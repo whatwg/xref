@@ -1,0 +1,10 @@
+{
+  "url": "https://tools.ietf.org/html/rfc7231#",
+  "definitions": {
+    "http-content-type" : "section-3.1.1.5",
+    "media-type" : "section-3.1.1.1",
+    "parameter" : "section-3.1.1.1",
+    "subtype" : "section-3.1.1.1",
+    "type" : "section-3.1.1.1"
+  }
+}

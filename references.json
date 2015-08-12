@@ -64,31 +64,31 @@
   },
   "CSSBGB" :
   {
-    "href" : "http://dev.w3.org/csswg/css-backgrounds/",
+    "href" : "https://drafts.csswg.org/css-backgrounds/",
     "title" : "CSS Backgrounds and Borders Module",
     "authors" : ["Bert Bos", "Elika J. Etemad", "Brad Kemper"],
     "publisher" : "W3C"
   },
   "CSSBOX" : {
-    "href" : "http://dev.w3.org/csswg/css-box/",
+    "href" : "https://drafts.csswg.org/css-box/",
     "title" : "CSS basic box model",
     "authors" : ["Bert Bos", "Anton Prowse"],
     "publisher" : "W3C"
   },
   "CSSCASCADE" : {
-    "href" : "http://dev.w3.org/csswg/css-cascade/",
+    "href" : "https://drafts.csswg.org/css-cascade/",
     "title" : "CSS Cascading and Inheritance",
-    "authors" : ["Håkon Wium Lie", "fantasai", "Tab Atkins Jr."]
+    "authors" : ["fantasai", "Tab Atkins Jr."]
   },
   "CSSCONDITIONAL" : {
-    "href" : "http://dev.w3.org/csswg/css-conditional/",
+    "href" : "https://drafts.csswg.org/css-conditional/",
     "title" : "CSS Conditional Rules Module",
     "authors" : ["L. David Baron"]
   },
   "CSSDEVICEADAPT" : {
-    "href" : "http://dev.w3.org/csswg/css-device-adapt/",
+    "href" : "https://drafts.csswg.org/css-device-adapt/",
     "title" : "CSS Device Adaptation",
-    "authors" : ["Rune Lillesveen", "Øyvind Stenhaug", "Florian Rivoal"]
+    "authors" : ["Rune Lillesveen", "Florian Rivoal"]
   },
   "CSSINTRINSIC" : {
     "href" : "http://dbaron.org/css/intrinsic/",
@@ -96,92 +96,92 @@
     "authors" : ["L. David Baron"]
   },
   "CSSMULTICOL" : {
-    "href" : "http://dev.w3.org/csswg/css-multicol/",
+    "href" : "https://drafts.csswg.org/css-multicol/",
     "title" : "CSS Multi-column Layout Module",
     "authors" : ["Håkon Wium Lie"],
     "publisher" : "W3C"
   },
   "CSSNAMESPACES" :
   {
-    "href" : "http://dev.w3.org/csswg/css-namespaces/",
+    "href" : "https://drafts.csswg.org/css-namespaces/",
     "title" : "CSS Namespaces Module",
     "authors" : ["Elika J. Etemad", "Anne van Kesteren"],
     "publisher" : "W3C"
   },
   "CSSOM" :
   {
-    "href" : "http://dev.w3.org/csswg/cssom/",
+    "href" : "https://drafts.csswg.org/cssom/",
     "title" : "CSS Object Model (CSSOM)",
     "authors" : ["Simon Pieters", "Glenn Adams"],
     "publisher" : "W3C"
   },
   "CSSOMVIEW" :
   {
-    "href" : "http://dev.w3.org/csswg/cssom-view/",
+    "href" : "https://drafts.csswg.org/cssom-view/",
     "title" : "CSSOM View Module",
     "authors" : ["Simon Pieters", "Glenn Adams"],
     "publisher" : "W3C"
   },
   "CSSOMVALUES" :
   {
-    "href" : "http://dev.w3.org/csswg/cssom-values/",
+    "href" : "https://drafts.csswg.org/cssom-values/",
     "title" : "CSSOM Values Module",
     "authors" : ["Simon Pieters", "Glenn Adams"],
     "publisher" : "W3C"
   },
   "CSSOVERFLOW" :
   {
-    "href" : "http://dev.w3.org/csswg/css-overflow/",
+    "href" : "https://drafts.csswg.org/css-overflow/",
     "title" : "CSS Overflow Module",
     "authors" : ["L. David Baron"],
     "publisher" : "W3C"
   },
   "CSSPAGE" :
   {
-    "href" : "http://dev.w3.org/csswg/css-page/",
+    "href" : "https://drafts.csswg.org/css-page/",
     "title" : "CSS Paged Media Module",
     "authors" : ["Melinda Grant", "Håkon Wium Lie", "Elika J. Etemad", "Simon Sapin"],
     "publisher" : "W3C"
   },
   "CSSSYNTAX" : {
-    "href" : "http://dev.w3.org/csswg/css-syntax/",
+    "href" : "https://drafts.csswg.org/css-syntax/",
     "title" : "CSS Syntax Module",
     "authors" : ["Tab Atkins Jr."],
     "publisher" : "W3C"
   },
   "CSSLIST" : {
-    "href" : "http://dev.w3.org/csswg/css-lists/",
+    "href" : "https://drafts.csswg.org/css-lists/",
     "title" : "CSS Lists and Counters Module",
     "authors" : ["Tab Atkins Jr."],
     "publisher" : "W3C"
   },
   "CSSTRANSFORMS" : {
-    "href" : "http://dev.w3.org/csswg/css-transforms/",
+    "href" : "https://drafts.csswg.org/css-transforms/",
     "title" : "CSS Transforms",
-    "authors" : ["Simon Fraser", "Dean Jackson", "Edward O'Connor", "Dirk Schulze", "Aryeh Gregor"],
+    "authors" : ["Simon Fraser", "Dean Jackson", "Edward O'Connor", "Dirk Schulze"],
     "publisher" : "W3C"
   },
   "CSSUI" : {
-    "href" : "http://dev.w3.org/csswg/css-ui/",
+    "href" : "https://drafts.csswg.org/css-ui/",
     "title" : "CSS Basic User Interface Module",
     "authors" : ["Tantek Çelik"],
     "publisher" : "W3C"
   },
   "CSSVALUES" : {
-    "href" : "http://dev.w3.org/csswg/css-values/",
+    "href" : "https://drafts.csswg.org/css-values/",
     "title" : "CSS Values and Units Module",
     "authors" : ["Håkon Wium Lie", "Tab Atkins Jr.", "Elika J. Etemad"],
     "publisher" : "W3C"
   },
   "CSSVARIABLES" : {
-    "href" : "http://dev.w3.org/csswg/css-variables/",
+    "href" : "https://drafts.csswg.org/css-variables/",
     "title" : "CSS Custom Properties for Cascading Variables Module",
     "authors" : ["Tab Atkins Jr."],
     "publisher" : "W3C"
   },
   "CSSWRITINGMODES" :
   {
-    "href" : "http://dev.w3.org/csswg/css-writing-modes/",
+    "href" : "https://drafts.csswg.org/css-writing-modes/",
     "title" : "CSS Writing Modes Module",
     "authors" : ["Elika J. Etemad", "Koji Ishii"],
     "publisher" : "W3C"
@@ -268,7 +268,7 @@
   },
   "FILEAPI" :
   {
-     "href" : "http://dev.w3.org/2006/webapi/FileAPI/",
+     "href" : "https://w3c.github.io/FileAPI/",
      "title" : "File API",
      "authors" : ["Arun Ranganathan", "Jonas Sicking"],
      "publisher" : "W3C"
@@ -281,7 +281,7 @@
   },
   "GEOMETRY": {
     "title": "Geometry Interfaces Module",
-    "href": "http://dev.w3.org/fxtf/geometry/",
+    "href": "https://drafts.fxtf.org/geometry/",
     "authors": ["Simon Pieters", "Dirk Schulze", "Rik Cabanier"],
     "publisher": "W3C"
   },
@@ -344,17 +344,17 @@
   },
   "HTTPVERBSEC":
   [{
-    "href": "http://www.kb.cert.org/vuls/id/867593",
+    "href": "https://www.kb.cert.org/vuls/id/867593",
     "title": "Multiple vendors' web servers enable HTTP TRACE method by default",
     "publisher": "US-CERT"
   },
   {
-    "href": "http://www.kb.cert.org/vuls/id/288308",
+    "href": "https://www.kb.cert.org/vuls/id/288308",
     "title": "Microsoft Internet Information Server (IIS) vulnerable to cross-site scripting via HTTP TRACK method",
     "publisher": "US-CERT"
   },
   {
-    "href": "http://www.kb.cert.org/vuls/id/150227",
+    "href": "https://www.kb.cert.org/vuls/id/150227",
     "title": "HTTP proxy default configurations allow arbitrary TCP connections",
     "publisher": "US-CERT"
   }],
@@ -490,7 +490,7 @@
     "authors" : ["Adam Barth", "Juan Caballero", "Dawn Song"]
   },
   "SELECTORS" : {
-    "href" : "http://dev.w3.org/csswg/selectors/",
+    "href" : "https://drafts.csswg.org/selectors/",
     "title" : "Selectors",
     "authors" : ["Elika J. Etemad", "Tab Atkins Jr."],
     "publisher" : "W3C"

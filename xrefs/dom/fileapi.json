@@ -1,5 +1,5 @@
 {
-  "url": "http://dev.w3.org/2006/webapi/FileAPI/#",
+  "url": "https://w3c.github.io/FileAPI/#",
   "definitions": {
     "blob" : "blob",
     "blob url store" : "BlobURLStore",

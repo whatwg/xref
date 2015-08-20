@@ -1,6 +1,8 @@
 {
   "definitions": {
+    "ascii byte": "ascii-byte",
     "ascii case-insensitive": "ascii-case-insensitive",
+    "ascii code point": "ascii-code-point",
     "ascii digits": "ascii-digits",
     "ascii whitespace": "ascii-whitespace",
     "big5": "big5",
@@ -60,6 +62,7 @@
     "ibm866": "ibm866",
     "index": "index",
     "index big5": "index-big5",
+    "index big5 pointer": "index-big5-pointer",
     "index code point": "index-code-point",
     "index euc-kr": "index-euc-kr",
     "index gb18030": "index-gb18030",

@@ -183,6 +183,7 @@
     "queue a fetch task": "queue-a-fetch-task",
     "queue a fetch-done task": "queue-a-fetch-done-task",
     "read a request": "read-a-request",
+    "redirect status": "redirect-status",
     "referrerpolicy": "referrerpolicy",
     "request": "request",
     "requestcache": "requestcache",

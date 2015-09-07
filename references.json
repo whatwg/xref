@@ -507,6 +507,12 @@
     "authors" : ["Devdatta Akhawe", "Francois Marier", "Frederik Braun", "Joel Weinberger"],
     "publisher" : "W3C"
   },
+  "STREAMS" : {
+    "href" : "https://streams.spec.whatwg.org/",
+    "title" : "Streams",
+    "authors" : ["Domenic Denicola", "Takeshi Yoshino"],
+    "publisher" : "WHATWG"
+  },
   "SW" : {
     "href" : "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/",
     "title" : "Service Workers",

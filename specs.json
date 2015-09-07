@@ -17,6 +17,7 @@
   "mime": "network/mime.json",
   "promguide": "js/promisesguide.json",
   "selectors": "css/selectors.json",
+  "streams": "dom/streams.json",
   "sw": "dom/serviceworkers.json",
   "url" : "network/url.json",
   "vibration" : "dom/vibration.json",

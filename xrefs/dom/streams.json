@@ -1,0 +1,14 @@
+{
+  "definitions": {
+    "readablestream" : "rs-class",
+    "enqueueinreadablestream" : "enqueue-in-readable-stream",
+    "closereadablestream" : "close-readable-stream",
+    "readfromreadablestreamreader" : "read-from-readable-stream-reader",
+    "teereadablestream" : "tee-readable-stream",
+    "isreadablestreamlocked" : "is-readable-stream-locked",
+    "getreadablestreamdesiredsize" : "get-readable-stream-desired-size",
+    "isreadablestreamdisturbed" : "is-readable-stream-disturbed",
+    "acquirereadablestreamreader" : "acquire-readable-stream-reader"
+  },
+  "url": "https://streams.spec.whatwg.org/#"
+}

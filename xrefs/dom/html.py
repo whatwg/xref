@@ -7,7 +7,7 @@ except ImportError:
 
 # HAHAHA HACK (Reads out the first line)
 
-to = - (len(",};var fragid = window.location.hash.substr(1);if (!fragid) {var m = window.location.pathname.match(/\/(?:section-)?([\w\-]+)\.html/);if (m) fragid = m[1];}var page = fragment_links[fragid];if (page) {window.location.replace(page+'.html#'+fragid);}") + 1)
+to = - (len(",};var fragid = window.location.hash.substr(1);if ((!fragid) || !(fragid in fragment_links)) {var m = window.location.pathname.match(/\/(?:section-)?([\w\-]+)\.html/);if (m) fragid = m[1];}var page = fragment_links[fragid];if (page) {window.location.replace(page+'.html#'+fragid);}") + 1)
 
 multipageData = json.loads(urllib2.urlopen("https://html.spec.whatwg.org/multipage/fragment-links.js").readline()[21:to] + "}")
 

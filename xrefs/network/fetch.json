@@ -41,6 +41,8 @@
     "concept-fetch-record": "concept-fetch-record",
     "concept-fetch-record-fetch": "concept-fetch-record-fetch",
     "concept-fetch-record-request": "concept-fetch-record-request",
+    "concept-fetch-resume": "concept-fetch-resume",
+    "concept-fetch-suspend": "concept-fetch-suspend",
     "concept-fetch-terminate": "concept-fetch-terminate",
     "concept-filtered-response": "concept-filtered-response",
     "concept-filtered-response-basic": "concept-filtered-response-basic",

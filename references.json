@@ -1,4 +1,11 @@
 {
+  "ABNF":
+  {
+    "href": "http://tools.ietf.org/html/rfc5234",
+    "title": "Augmented BNF for Syntax Specifications: ABNF",
+    "authors": ["D. Crocker", "P. Overell"],
+    "publisher": "IETF"
+  },
   "ABOUT" :
   {
     "href" : "https://tools.ietf.org/html/draft-ietf-appsawg-about-uri-scheme",

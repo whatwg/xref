@@ -341,14 +341,13 @@
     "title" : "Hypertext Transfer Protocol (HTTP/1.1): Caching",
     "authors" : ["Roy Fielding", "Julian Reschke"],
     "publisher" : "IETF"
-  }],
-  "HTTPAUTH" :
-  {
-    "href" : "https://tools.ietf.org/html/rfc2617",
-    "title" : "HTTP Authentication: Basic and Digest Access Authentication",
-    "authors" : ["J. Franks", "Phillip Hallam-Baker", "J. Hostetler", "S. Lawrence", "Paul Leach", "A. Luotonen", "L. Stewart"],
-    "publisher" : "IETF"
   },
+  {
+    "href" : "https://tools.ietf.org/html/rfc7235",
+    "title" : "Hypertext Transfer Protocol (HTTP/1.1): Authentication",
+    "authors" : ["Roy Fielding", "Julian Reschke"],
+    "publisher" : "IETF"
+  }],
   "HTTPVERBSEC":
   [{
     "href": "https://www.kb.cert.org/vuls/id/867593",

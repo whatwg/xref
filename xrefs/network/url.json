@@ -92,7 +92,7 @@
     "include credentials": "include-credentials",
     "is local": "is-local",
     "no scheme state": "no-scheme-state",
-    "non-relative flag" : "non_relative-flag",
+    "non-relative flag" : "non-relative-flag",
     "parse error": "parse-error",
     "password encode set": "password-encode-set",
     "path segment": "path-segment",

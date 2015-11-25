@@ -235,6 +235,7 @@
     "subresource request": "subresource-request",
     "synchronous flag": "synchronous-flag",
     "unsafe-request flag": "unsafe-request-flag",
+    "use-cors-preflight flag": "use-cors-preflight-flag",
     "wait for a response": "wait-for-a-response"
   },
   "url": "https://fetch.spec.whatwg.org/#"

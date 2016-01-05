@@ -52,7 +52,7 @@
     "publisher" : "WHATWG"
   },
   "CSP" : {
-    "href" : "https://w3c.github.io/webappsec/specs/content-security-policy/",
+    "href" : "https://w3c.github.io/webappsec-csp/",
     "title" : "Content Security Policy",
     "authors": ["Mike West", "Adam Barth", "Dan Veditz"],
     "publisher" : "W3C"
@@ -429,7 +429,7 @@
     "publisher" : "IETF"
   },
   "MIX" : {
-    "href" : "https://w3c.github.io/webappsec/specs/mixedcontent/",
+    "href" : "https://w3c.github.io/webappsec-mixed-content/",
     "title" : "Mixed Content",
     "authors" : ["Mike West"],
     "publisher" : "W3C"
@@ -460,7 +460,7 @@
     "publisher" : "Mozilla"
   },
   "REFERRER" : {
-    "href" : "https://w3c.github.io/webappsec/specs/referrer-policy/",
+    "href" : "https://w3c.github.io/webappsec-referrer-policy/",
     "title" : "Referrer Policy",
     "authors" : ["Jochen Eisinger", "Mike West"],
     "publisher" : "W3C"
@@ -508,7 +508,7 @@
     "publisher" : "W3C"
   },
   "SRI" : {
-    "href" : "https://w3c.github.io/webappsec/specs/subresourceintegrity/",
+    "href" : "https://w3c.github.io/webappsec-subresource-integrity/",
     "title" : "Subresource Integrity",
     "authors" : ["Devdatta Akhawe", "Francois Marier", "Frederik Braun", "Joel Weinberger"],
     "publisher" : "W3C"
@@ -554,7 +554,7 @@
     "publisher" : "Unicode Consortium"
   },
   "UPGRADE" : {
-    "href" : "https://w3c.github.io/webappsec/specs/upgrade/",
+    "href" : "https://w3c.github.io/webappsec-upgrade-insecure-requests/",
     "title" : "Upgrade Insecure Requests",
     "authors" : ["Mike West"],
     "publisher" : "W3C"

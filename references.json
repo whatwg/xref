@@ -337,6 +337,12 @@
     "publisher" : "IETF"
   },
   {
+    "href" : "https://tools.ietf.org/html/rfc7232",
+    "title" : "Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
+    "authors" : ["Roy Fielding", "Julian Reschke"],
+    "publisher" : "IETF"
+  },
+  {
     "href" : "https://tools.ietf.org/html/rfc7234",
     "title" : "Hypertext Transfer Protocol (HTTP/1.1): Caching",
     "authors" : ["Roy Fielding", "Julian Reschke"],

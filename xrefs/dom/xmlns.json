@@ -1,5 +1,5 @@
 {
-  "url" : "http://www.w3.org/TR/xml-names/#",
+  "url" : "https://www.w3.org/TR/xml-names/#",
   "definitions" :
     {
       "ncname" : "NT-NCName",

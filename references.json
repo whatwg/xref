@@ -39,7 +39,7 @@
     "publisher" : "IETF"
   },
   "CORS" : {
-    "href" : "http://www.w3.org/TR/cors/",
+    "href" : "https://www.w3.org/TR/cors/",
     "title" : "CORS (obsolete)",
     "authors" : ["Anne van Kesteren"],
     "publisher" : "W3C"
@@ -64,7 +64,7 @@
     "authors": ["Peter Watkins"]
   },
   "CSS" : {
-    "href" : "http://www.w3.org/TR/CSS2/",
+    "href" : "https://www.w3.org/TR/CSS2/",
     "title" : "CSS",
     "authors" : ["Bert Bos", "Tantek Çelik", "Ian Hickson", "Håkon Wium Lie"],
     "publisher" : "W3C"
@@ -204,26 +204,26 @@
     "authors" : ["Henri Sivonen"]
   },
   "DOM2HTML" : {
-    "href" : "http://www.w3.org/TR/DOM-Level-2-HTML/",
+    "href" : "https://www.w3.org/TR/DOM-Level-2-HTML/",
     "title" : "Document Object Model (DOM) Level 2 HTML Specification",
     "authors" : ["Johnny Stenback", "Philippe Le Hégaret", "Arnaud Le Hors"],
     "publisher" : "W3C"
   },
   "DOM2STYLE" : {
-    "href" : "http://www.w3.org/TR/DOM-Level-2-Style/",
+    "href" : "https://www.w3.org/TR/DOM-Level-2-Style/",
     "title" : "Document Object Model (DOM) Level 2 Style Specification",
     "authors" : ["Chris Wilson", "Philippe Le Hégaret", "Vidur Apparao"],
     "publisher" : "W3C"
   },
   "DOM2TR" : {
-    "href" : "http://www.w3.org/TR/DOM-Level-2-Traversal-Range/",
+    "href" : "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/",
     "title" : "Document Object Model (DOM) Level 2 Traversal and Range Specification",
     "authors" : ["Joe Kesselman", "Jonathan Robie", "Mike Champion", "Peter Sharpe", "Vidur Apparao", "Lauren Wood"],
     "publisher" : "W3C"
   },
   "DOM3CORE" :
   {
-    "href" : "http://www.w3.org/TR/DOM-Level-3-Core/",
+    "href" : "https://www.w3.org/TR/DOM-Level-3-Core/",
     "title" : "Document Object Model (DOM) Level 3 Core Specification",
     "authors" : ["Arnaud Le Hors", "Philippe Le Hégaret", "Lauren Wood", "Gavin Nicol", "Jonathan Robie", "Mike Champion", "Steve Byrne"],
     "publisher" : "W3C"
@@ -262,7 +262,7 @@
     "authors" : ["Aryeh Gregor"]
   },
   "ELEMENTTRAVERSAL" : {
-    "href" : "http://www.w3.org/TR/ElementTraversal/",
+    "href" : "https://www.w3.org/TR/ElementTraversal/",
     "title" : "Element Traversal Specification",
     "authors" : ["Doug Schepers"],
     "publisher" : "W3C"
@@ -306,19 +306,19 @@
     "publisher" : "WHATWG"
   },
   "HTML4" : {
-    "href" : "http://www.w3.org/TR/html4/",
+    "href" : "https://www.w3.org/TR/html4/",
     "title" : "HTML 4.01 Specification",
     "authors" : ["Dave Raggett", "Arnaud Le Hors", "Ian Jacobs"],
     "publisher" : "W3C"
   },
   "HTML5" : {
-    "href" : "http://www.w3.org/html/wg/drafts/html/CR/",
+    "href" : "https://www.w3.org/html/wg/drafts/html/CR/",
     "title" : "HTML5",
     "authors" : ["Robin Berjon", "Steve Faulkner", "Travis Leithead", "Erika Doyle Navara", "Edward O'Connor", "Silvia Pfeiffer"],
     "publisher" : "W3C"
   },
   "HTML5NIGHTLY" : {
-    "href" : "http://www.w3.org/html/wg/drafts/html/master/",
+    "href" : "https://www.w3.org/html/wg/drafts/html/master/",
     "title" : "HTML 5.1 Nightly",
     "authors" : ["Robin Berjon", "Steve Faulkner", "Travis Leithead", "Erika Doyle Navara", "Edward O'Connor", "Silvia Pfeiffer"],
     "publisher" : "W3C"
@@ -409,7 +409,7 @@
   },
   "MATHML" :
   {
-    "href" : "http://www.w3.org/TR/MathML/",
+    "href" : "https://www.w3.org/TR/MathML/",
     "title" : "Mathematical Markup Language (MathML)",
     "authors" : ["David Carlisle", "Patrick Ion", "Robert Miner"],
     "publisher" : "W3C"
@@ -449,7 +449,7 @@
   },
   "PROMGUIDE" :
   {
-    "href" : "http://www.w3.org/2001/tag/doc/promises-guide",
+    "href" : "https://www.w3.org/2001/tag/doc/promises-guide",
     "title" : "Writing Promise-Using Specifications",
     "authors" : [ "Domenic Denicola" ],
     "publisher" : "W3C"
@@ -527,7 +527,7 @@
   },
   "SVG" :
   {
-    "href" : "http://www.w3.org/TR/SVG/",
+    "href" : "https://www.w3.org/TR/SVG/",
     "title" : "Scalable Vector Graphics (SVG)",
     "authors" : ["O. Andersson", "R. Berjon", "E. Dahlström", "A. Emmons",
                  "J. Ferraiolo", "A. Grasso", "V. Hardy", "S. Hayman",
@@ -609,34 +609,34 @@
     "publisher" : "WHATWG"
   },
   "XHTML1" : {
-    "href" : "http://www.w3.org/TR/xhtml11/",
+    "href" : "https://www.w3.org/TR/xhtml11/",
     "title" : "XHTML™ 1.1 - Module-based XHTML - Second Edition",
     "authors" : ["Murray Altheim", "Shane McCarron"]
   },
   "XML" :
   {
-    "href" : "http://www.w3.org/TR/xml/",
+    "href" : "https://www.w3.org/TR/xml/",
     "title" : "Extensible Markup Language",
     "authors" : ["Tim Bray", "Jean Paoli", "C. M. Sperberg-McQueen", "Eve Maler", "François Yergeau"],
     "publisher" : "W3C"
   },
   "XMLID" :
   {
-    "href" : "http://www.w3.org/TR/xml-id/",
+    "href" : "https://www.w3.org/TR/xml-id/",
     "title" : "xml:id",
     "authors" : ["Jonathan Marsh", "Daniel Veillard", "Norman Walsh"],
     "publisher" : "W3C"
   },
   "XMLNS" :
   {
-    "href" : "http://www.w3.org/TR/xml-names/",
+    "href" : "https://www.w3.org/TR/xml-names/",
     "title" : "Namespaces in XML",
     "authors" : ["Tim Bray", "Dave Hollander", "Andrew Layman", "Richard  Tobin", "Henry S. Thompson"],
     "publisher" : "W3C"
   },
   "XMLSS" :
   {
-    "href" : "http://www.w3.org/TR/xml-stylesheet/",
+    "href" : "https://www.w3.org/TR/xml-stylesheet/",
     "title" : "Associating Style Sheets with XML documents 1.0 (Second Edition)",
     "authors" : ["James Clark", "Simon Pieters", "Henry S. Thompson"],
     "publisher" : "W3C"

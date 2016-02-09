@@ -73,6 +73,7 @@
     "concept-http-fetch": "concept-http-fetch",
     "concept-http-network-fetch": "concept-http-network-fetch",
     "concept-http-network-or-cache-fetch": "concept-http-network-or-cache-fetch",
+    "concept-http-redirect-fetch": "concept-http-redirect-fetch",
     "concept-internal-response": "concept-internal-response",
     "concept-main-fetch": "concept-main-fetch",
     "concept-method": "concept-method",

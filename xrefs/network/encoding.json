@@ -4,6 +4,7 @@
     "ascii case-insensitive": "ascii-case-insensitive",
     "ascii code point": "ascii-code-point",
     "ascii digits": "ascii-digits",
+    "ascii lowercase": "ascii-lowercase",
     "ascii whitespace": "ascii-whitespace",
     "big5": "big5",
     "big5 decoder": "big5-decoder",

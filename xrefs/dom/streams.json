@@ -3,6 +3,7 @@
     "readablestream" : "rs-class",
     "enqueueinreadablestream" : "enqueue-in-readable-stream",
     "closereadablestream" : "close-readable-stream",
+    "errorreadablestream" : "error-readable-stream",
     "readfromreadablestreamreader" : "read-from-readable-stream-reader",
     "teereadablestream" : "tee-readable-stream",
     "isreadablestreamlocked" : "is-readable-stream-locked",

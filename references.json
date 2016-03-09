@@ -51,6 +51,13 @@
     "authors" : ["Anne van Kesteren"],
     "publisher" : "WHATWG"
   },
+  "CREDENTIAL":
+  {
+    "href": "https://w3c.github.io/webappsec-credential-management/",
+    "title": "Credential Management",
+    "authors": ["Mike West"],
+    "publisher": "W3C"
+  },
   "CSP" : {
     "href" : "https://w3c.github.io/webappsec-csp/",
     "title" : "Content Security Policy",

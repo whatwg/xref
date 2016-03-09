@@ -138,6 +138,7 @@
     "cors-preflight fetch": "cors-preflight-fetch-0",
     "cors-preflight request": "cors-preflight-request",
     "cors-safelisted response-header name": "cors-safelisted-response-header-name",
+    "default `user-agent` value": "default-user-agent-value",
     "dom-body-arraybuffer": "dom-body-arraybuffer",
     "dom-body-blob": "dom-body-blob",
     "dom-body-bodyused": "dom-body-bodyused",

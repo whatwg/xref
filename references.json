@@ -503,6 +503,12 @@
     "authors": ["M. Murata", "S. St. Laurent", "D. Kohn"],
     "publisher": "IETF"
   },
+  "RFC4648": {
+    "title": "The Base16, Base32, and Base64 Data Encodings",
+    "href": "https://tools.ietf.org/html/rfc4648",
+    "authors": ["S. Josefsson"],
+    "publisher": "IETF"
+  },
   "SECCONTSNIFF" : {
     "href" : "http://www.adambarth.com/papers/2009/barth-caballero-song.pdf",
     "title" : "Secure Content Sniffing for Web Browsers, or How to Stop Papers from Reviewing Themselves",
@@ -599,6 +605,12 @@
     "title" : "Web IDL",
     "authors" : ["Cameron McCormack"],
     "publisher" : "W3C"
+  },
+  "WSP" : {
+    "title" : "The WebSocket Protocol",
+    "href" : "https://tools.ietf.org/html/rfc6455",
+    "authors" : ["I. Fette", "A. Melnikov"],
+    "publisher": "IETF"
   },
   "WEBRTC" :
   {

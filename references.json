@@ -606,12 +606,17 @@
     "authors" : ["Cameron McCormack"],
     "publisher" : "W3C"
   },
-  "WSP" : {
+  "WSP" : [{
     "title" : "The WebSocket Protocol",
     "href" : "https://tools.ietf.org/html/rfc6455",
     "authors" : ["I. Fette", "A. Melnikov"],
     "publisher": "IETF"
-  },
+  },{
+    "title" : "Compression Extensions for WebSocket",
+    "href" : "https://tools.ietf.org/html/rfc7692",
+    "authors" : ["T. Yoshino"],
+    "publisher": "IETF"
+  }],
   "WEBRTC" :
   {
     "href" : "https://w3c.github.io/webrtc-pc/",

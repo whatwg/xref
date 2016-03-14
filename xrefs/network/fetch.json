@@ -2,6 +2,8 @@
   "definitions": {
     "atomic http redirect handling": "atomic-http-redirect-handling",
     "authentication entry": "authentication-entry",
+    "bad port": "bad-port",
+    "block bad port": "block-bad-port",
     "body": "body",
     "bodyinit": "bodyinit",
     "byte-case-insensitive": "byte-case-insensitive",
@@ -133,6 +135,8 @@
     "concept-response-url": "concept-response-url",
     "concept-response-url-list": "concept-response-url-list",
     "concept-tee-readablestream": "concept-tee-readablestream",
+    "concept-websocket-connection-obtain": "concept-websocket-connection-obtain",
+    "concept-websocket-establish": "concept-websocket-establish",
     "cors protocol": "cors-protocol",
     "cors request": "cors-request",
     "cors-preflight fetch": "cors-preflight-fetch-0",
@@ -179,6 +183,7 @@
     "dom-response-type": "dom-response-type",
     "dom-response-url": "dom-response-url",
     "done flag": "done-flag",
+    "fail the websocket connection": "fail-the-websocket-connection",
     "fetch url": "fetch-url",
     "forbidden header name": "forbidden-header-name",
     "forbidden method": "forbidden-method",
@@ -239,6 +244,7 @@
     "status": "concept-status",
     "subresource request": "subresource-request",
     "synchronous flag": "synchronous-flag",
+    "the websocket connection is established": "the-websocket-connection-is-established",
     "unsafe-request flag": "unsafe-request-flag",
     "use-cors-preflight flag": "use-cors-preflight-flag",
     "wait for a response": "wait-for-a-response"

@@ -16,12 +16,14 @@
     "concept-body-clone": "concept-body-clone",
     "concept-body-consume-body": "concept-body-consume-body",
     "concept-body-disturbed": "concept-body-disturbed",
+    "concept-body-done": "concept-body-done",
     "concept-body-locked": "concept-body-locked",
     "concept-body-mime-type": "concept-body-mime-type",
     "concept-body-package-data": "concept-body-package-data",
     "concept-body-stream": "concept-body-stream",
     "concept-body-total-bytes": "concept-body-total-bytes",
     "concept-body-transmitted": "concept-body-transmitted",
+    "concept-body-wait": "concept-body-wait",
     "concept-bodyinit-extract": "concept-bodyinit-extract",
     "concept-cache": "concept-cache",
     "concept-cache-clear": "concept-cache-clear",
@@ -219,7 +221,7 @@
     "process response end-of-file": "process-response-end-of-file",
     "proxy-authentication entry": "proxy-authentication-entry",
     "queue a fetch task": "queue-a-fetch-task",
-    "queue a fetch-done task": "queue-a-fetch-done-task",
+    "queue a fetch-request-done task": "queue-a-fetch-request-done-task",
     "read a request": "read-a-request",
     "redirect status": "redirect-status",
     "referrerpolicy": "referrerpolicy",
@@ -237,6 +239,7 @@
     "responsetype": "responsetype",
     "same-origin data-url flag": "same-origin-data-url-flag",
     "sandboxed-storage-area-urls flag": "sandboxed-storage-area-urls-flag",
+    "should response to request be blocked due to mime type": "should-response-to-request-be-blocked-due-to-mime-type?",
     "should response to request be blocked due to nosniff": "should-response-to-request-be-blocked-due-to-nosniff?",
     "simple header": "simple-header",
     "simple method": "simple-method",
@@ -246,8 +249,7 @@
     "synchronous flag": "synchronous-flag",
     "the websocket connection is established": "the-websocket-connection-is-established",
     "unsafe-request flag": "unsafe-request-flag",
-    "use-cors-preflight flag": "use-cors-preflight-flag",
-    "wait for a response": "wait-for-a-response"
+    "use-cors-preflight flag": "use-cors-preflight-flag"
   },
   "url": "https://fetch.spec.whatwg.org/#"
 }

@@ -71,6 +71,7 @@
     "override mime type": "override-mime-type",
     "progressevent": "progressevent",
     "progresseventinit": "progresseventinit",
+    "received bytes": "received-bytes",
     "request body": "request-body",
     "request error steps": "request-error-steps",
     "request method": "request-method",

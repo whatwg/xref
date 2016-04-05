@@ -58,6 +58,12 @@
     "authors": ["Mike West"],
     "publisher": "W3C"
   },
+  "CLIENT-HINTS" : {
+    "href" : "https://tools.ietf.org/html/draft-ietf-httpbis-client-hints",
+    "title" : "HTTP Client Hints",
+    "authors": ["Ilya Grigorik"],
+    "publisher" : "IETF"
+  },
   "CSP" : {
     "href" : "https://w3c.github.io/webappsec-csp/",
     "title" : "Content Security Policy",

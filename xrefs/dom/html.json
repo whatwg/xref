@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "windoworworkerglobalscope" : "windoworworkerglobalscope",
     "a": "the-a-element",
     "a known definite encoding": "a-known-definite-encoding",
     "a style sheet that is blocking scripts": "a-style-sheet-that-is-blocking-scripts",
@@ -352,10 +353,10 @@
     "dom-translate": "dom-translate",
     "dom-window-focus": "dom-window-focus",
     "dom-window-postmessage": "dom-window-postmessage",
-    "dom-windowbase64-atob": "dom-windowbase64-atob",
-    "dom-windowbase64-btoa": "dom-windowbase64-btoa",
-    "dom-windowtimers-setinterval": "dom-windowtimers-setinterval",
-    "dom-windowtimers-settimeout": "dom-windowtimers-settimeout",
+    "dom-atob": "dom-atob",
+    "dom-btoa": "dom-btoa",
+    "dom-setinterval": "dom-setinterval",
+    "dom-settimeout": "dom-settimeout",
     "dom-xmldocument-load": "dom-xmldocument-load",
     "embed": "the-embed-element",
     "entry settings object": "entry-settings-object",

@@ -481,7 +481,7 @@
   "REFERRER" : {
     "href" : "https://w3c.github.io/webappsec-referrer-policy/",
     "title" : "Referrer Policy",
-    "authors" : ["Jochen Eisinger", "Mike West"],
+    "authors" : ["Jochen Eisinger", "Emily Stark"],
     "publisher" : "W3C"
   },
   "RFC2119" :

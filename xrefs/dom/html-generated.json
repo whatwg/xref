@@ -487,7 +487,7 @@
     "queue a microtask": "webappapis.html#queue-a-microtask",
     "queue a task": "webappapis.html#queue-a-task",
     "rel-icon": "semantics.html#rel-icon",
-    "relevant settings object for a global object": "webappapis.html#relevant-settings-object-for-a-global-object",
+    "relevant settings object": "webappapis.html#relevant-settings-object",
     "report the error": "webappapis.html#report-the-error",
     "report the exception": "webappapis.html#report-the-exception",
     "resolve a url": "infrastructure.html#resolve-a-url",

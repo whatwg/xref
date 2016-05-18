@@ -488,7 +488,7 @@
     "queue a microtask": "queue-a-microtask",
     "queue a task": "queue-a-task",
     "rel-icon": "rel-icon",
-    "relevant settings object for a global object": "relevant-settings-object-for-a-global-object",
+    "relevant settings object": "relevant-settings-object",
     "report the error": "report-the-error",
     "report the exception": "report-the-exception",
     "resolve a url": "resolve-a-url",

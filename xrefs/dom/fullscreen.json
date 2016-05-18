@@ -8,6 +8,7 @@
     "css-pe-backdrop": "css-pe-backdrop",
     "descendant browsing context": "descendant-browsing-context",
     "dom-document-exitfullscreen": "dom-document-exitfullscreen",
+    "dom-document-fullscreen": "dom-document-fullscreen",
     "dom-document-fullscreenelement": "dom-document-fullscreenelement",
     "dom-document-fullscreenenabled": "dom-document-fullscreenenabled",
     "dom-element-requestfullscreen": "dom-element-requestfullscreen",

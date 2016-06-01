@@ -91,6 +91,8 @@
     "hostname state": "hostname-state",
     "include credentials": "include-credentials",
     "is local": "is-local",
+    "http(s) scheme": "http-scheme",
+    "network scheme": "network-scheme",
     "no scheme state": "no-scheme-state",
     "non-relative flag" : "non-relative-flag",
     "parse error": "parse-error",

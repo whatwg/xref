@@ -16,6 +16,7 @@
   "idna": "network/idna.json",
   "mime": "network/mime.json",
   "promguide": "js/promisesguide.json",
+  "screen-orientation": "dom/screen-orientation.json",
   "selectors": "css/selectors.json",
   "streams": "dom/streams.json",
   "sw": "dom/serviceworkers.json",

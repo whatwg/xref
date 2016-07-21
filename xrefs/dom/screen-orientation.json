@@ -1,0 +1,6 @@
+{
+  "url": "https://w3c.github.io/screen-orientation/#",
+  "definitions": {
+    "triggered by a user generated orientation change": "dfn-triggered-by-a-user-generated-orientation-change"
+  }
+}

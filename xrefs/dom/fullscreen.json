@@ -1,5 +1,6 @@
 {
   "definitions": {
+    "allowed to request fullscreen": "allowed-to-request-fullscreen",
     "collect documents to unfullscreen": "collect-documents-to-unfullscreen",
     "concept-top-layer-add": "concept-top-layer-add",
     "concept-top-layer-remove": "concept-top-layer-remove",

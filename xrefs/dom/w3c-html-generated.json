@@ -223,6 +223,7 @@
     "concept-events-trusted": "infrastructure.html#concept-events-trusted",
     "concept-frag-parse-context": "syntax.html#concept-frag-parse-context",
     "concept-script": "webappapis.html#concept-script",
+    "concept-settings-object-global": "webappapis.html#concept-settings-object-global",
     "concept-task": "webappapis.html#concept-task",
     "constructing the form data set": "forms.html#constructing-form-data-set",
     "content categories": "dom.html#content-categories",

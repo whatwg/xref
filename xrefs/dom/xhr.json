@@ -57,7 +57,7 @@
     "formdata": "formdata",
     "formdataentryvalue": "formdataentryvalue",
     "handle errors": "handle-errors",
-    "handle response end-of-file": "handle-response-end-of-file",
+    "handle response end-of-body": "handle-response-end-of-body",
     "handler-xhr-onabort": "handler-xhr-onabort",
     "handler-xhr-onerror": "handler-xhr-onerror",
     "handler-xhr-onload": "handler-xhr-onload",

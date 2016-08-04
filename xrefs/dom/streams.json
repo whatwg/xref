@@ -9,7 +9,8 @@
     "isreadablestreamlocked" : "is-readable-stream-locked",
     "getreadablestreamdesiredsize" : "get-readable-stream-desired-size",
     "isreadablestreamdisturbed" : "is-readable-stream-disturbed",
-    "acquirereadablestreamreader" : "acquire-readable-stream-reader"
+    "acquirereadablestreamreader" : "acquire-readable-stream-reader",
+    "readablestreamreadergenericcancel" : "readable-stream-reader-cancel"
   },
   "url": "https://streams.spec.whatwg.org/#"
 }

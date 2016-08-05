@@ -4,6 +4,7 @@
     "extendableevent" : "extendable-event-interface",
     "extendableeventinit" : "extendable-event-init-dictionary",
     "handle fetch": "on-fetch-request-algorithm",
+    "handle foreign fetch": "on-foreign-fetch-request-algorithm",
     "handle functional event" : "handle-functional-event-algorithm",
     "service worker" : "dfn-service-worker",
     "serviceworkerglobalscope" : "service-worker-global-scope-interface",

@@ -230,6 +230,7 @@
     "content models": "dom.html#content-models",
     "content-type metadata": "infrastructure.html#content-type",
     "converted to ascii lowercase": "infrastructure.html#converted-to-ascii-lowercase",
+    "current settings object": "webappapis.html#current-settings-object",
     "data": "semantics.html#the-data-element",
     "data-protocol": "infrastructure.html#data-protocol",
     "datalist": "forms.html#the-datalist-element",

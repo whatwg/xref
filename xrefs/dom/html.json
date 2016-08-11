@@ -230,6 +230,7 @@
     "content models": "content-models",
     "content-type metadata": "content-type",
     "converted to ascii lowercase": "converted-to-ascii-lowercase",
+    "current settings object": "current-settings-object",
     "data": "the-data-element",
     "data-protocol": "data-protocol",
     "datalist": "the-datalist-element",

@@ -9,6 +9,7 @@
     "active document": "browsers.html#active-document",
     "address": "semantics.html#the-address-element",
     "allowed to show a popup": "interaction.html#allowed-to-show-a-popup",
+    "allowed to use": "embedded-content.html#allowed-to-use",
     "allowfullscreen": "embedded-content.html#attr-iframe-allowfullscreen",
     "already started": "scripting.html#already-started",
     "an iframe srcdoc document": "embedded-content.html#an-iframe-srcdoc-document",

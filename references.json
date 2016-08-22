@@ -178,7 +178,7 @@
   "CSSTRANSFORMS" : {
     "href" : "https://drafts.csswg.org/css-transforms/",
     "title" : "CSS Transforms",
-    "authors" : ["Simon Fraser", "Dean Jackson", "Edward O'Connor", "Dirk Schulze"],
+    "authors" : ["Simon Fraser", "Dean Jackson", "Theresa O'Connor", "Dirk Schulze"],
     "publisher" : "W3C"
   },
   "CSSUI" : {
@@ -327,13 +327,13 @@
   "HTML5" : {
     "href" : "https://www.w3.org/html/wg/drafts/html/CR/",
     "title" : "HTML5",
-    "authors" : ["Robin Berjon", "Steve Faulkner", "Travis Leithead", "Erika Doyle Navara", "Edward O'Connor", "Silvia Pfeiffer"],
+    "authors" : ["Robin Berjon", "Steve Faulkner", "Travis Leithead", "Erika Doyle Navara", "Theresa O'Connor", "Silvia Pfeiffer"],
     "publisher" : "W3C"
   },
   "HTML5NIGHTLY" : {
     "href" : "https://www.w3.org/html/wg/drafts/html/master/",
     "title" : "HTML 5.1 Nightly",
-    "authors" : ["Robin Berjon", "Steve Faulkner", "Travis Leithead", "Erika Doyle Navara", "Edward O'Connor", "Silvia Pfeiffer"],
+    "authors" : ["Robin Berjon", "Steve Faulkner", "Travis Leithead", "Erika Doyle Navara", "Theresa O'Connor", "Silvia Pfeiffer"],
     "publisher" : "W3C"
   },
   "HTTP" :

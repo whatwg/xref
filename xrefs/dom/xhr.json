@@ -89,6 +89,7 @@
     "terminate the request": "terminate-the-request",
     "text response": "text-response",
     "upload complete flag": "upload-complete-flag",
+    "upload listener flag": "upload-listener-flag",
     "user credentials": "user-credentials",
     "xmlhttprequest": "xmlhttprequest",
     "xmlhttprequesteventtarget": "xmlhttprequesteventtarget",

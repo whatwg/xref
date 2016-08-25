@@ -1,16 +1,18 @@
 {
   "definitions": {
     "readablestream" : "rs-class",
-    "enqueueinreadablestream" : "enqueue-in-readable-stream",
-    "closereadablestream" : "close-readable-stream",
-    "errorreadablestream" : "error-readable-stream",
-    "readfromreadablestreamreader" : "read-from-readable-stream-reader",
-    "teereadablestream" : "tee-readable-stream",
+    "readablestreamcancel" : "readable-stream-cancel",
+    "readablestreamtee" : "readable-stream-tee",
     "isreadablestreamlocked" : "is-readable-stream-locked",
-    "getreadablestreamdesiredsize" : "get-readable-stream-desired-size",
     "isreadablestreamdisturbed" : "is-readable-stream-disturbed",
-    "acquirereadablestreamreader" : "acquire-readable-stream-reader",
-    "readablestreamreadergenericcancel" : "readable-stream-reader-cancel"
+
+    "readablestreamdefaultcontrollerenqueue" : "readable-stream-default-controller-enqueue",
+    "readablestreamdefaultcontrollerclose" : "readable-stream-default-controller-close",
+    "readablestreamdefaultcontrollererror" : "readable-stream-default-controller-error",
+    "readablestreamdefaultcontrollergetdesiredsize" : "readable-stream-default-controller-get-desired-size",
+
+    "acquirereadablestreamdefaultreader" : "acquire-readable-stream-reader",
+    "readablestreamdefaultreaderread" : "readable-stream-default-reader-read"
   },
   "url": "https://streams.spec.whatwg.org/#"
 }

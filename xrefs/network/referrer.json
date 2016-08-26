@@ -1,0 +1,9 @@
+{
+  "definitions": {
+    "determine request's referrer": "determine-requests-referrer",
+    "referrer policy": "referrer-policy",
+    "referrerpolicy": "enumdef-referrerpolicy",
+    "set request's referrer policy on redirect": "set-requests-referrer-policy-on-redirect"
+  },
+  "url": "https://w3c.github.io/webappsec-referrer-policy/#"
+}

@@ -5,11 +5,7 @@ try:
 except ImportError:
     import simplejson as json
 
-# HAHAHA HACK (Reads out the first line)
-
-to = - (len(",};var fragid = window.location.hash.substr(1);if ((!fragid) || !(fragid in fragment_links)) {var m = window.location.pathname.match(/\/(?:section-)?([\w\-]+)\.html/);if (m) fragid = m[1];}var page = fragment_links[fragid];if (page) {window.location.replace(page+'.html#'+fragid);}") + 1)
-
-multipageData = json.loads(urllib2.urlopen("https://html.spec.whatwg.org/multipage/fragment-links.js").readline()[21:to] + "}")
+multipageData = json.loads(urllib2.urlopen("https://html.spec.whatwg.org/multipage/fragment-links.json").read())
 
 localData = json.loads(open("html.json", "r").read())
 
@@ -29,9 +25,7 @@ handle = open("html-generated.json", "w")
 handle.write(json.dumps(localData, sort_keys=True, allow_nan=False, indent=2, separators=(',', ': ')))
 handle.write("\n")
 
-# Write a copy for W3C HTML
-localData["url"] = "https://www.w3.org/html/wg/drafts/html/master/"
-
+# Anolis depends on this for some reason
 handle = open("w3c-html-generated.json", "w")
 handle.write(json.dumps(localData, sort_keys=True, allow_nan=False, indent=2, separators=(',', ': ')))
 handle.write("\n")

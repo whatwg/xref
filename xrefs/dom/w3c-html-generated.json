@@ -466,6 +466,7 @@
     "noscript": "scripting.html#the-noscript-element",
     "object": "embedded-content.html#the-object-element",
     "ol": "semantics.html#the-ol-element",
+    "opaque origin": "browsers.html#concept-origin-opaque",
     "optgroup": "forms.html#the-optgroup-element",
     "option": "forms.html#the-option-element",
     "origin": "browsers.html#origin",
@@ -596,5 +597,5 @@
     "xml parser": "xhtml.html#xml-parser",
     "xml scripting support disabled": "xhtml.html#xml-scripting-support-disabled"
   },
-  "url": "https://www.w3.org/html/wg/drafts/html/master/"
+  "url": "https://html.spec.whatwg.org/multipage/"
 }

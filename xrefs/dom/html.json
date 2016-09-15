@@ -466,6 +466,7 @@
     "noscript": "the-noscript-element",
     "object": "the-object-element",
     "ol": "the-ol-element",
+    "opaque origin": "concept-origin-opaque",
     "optgroup": "the-optgroup-element",
     "option": "the-option-element",
     "origin": "origin",

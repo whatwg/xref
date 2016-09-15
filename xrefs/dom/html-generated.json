@@ -466,6 +466,7 @@
     "noscript": "scripting.html#the-noscript-element",
     "object": "embedded-content.html#the-object-element",
     "ol": "semantics.html#the-ol-element",
+    "opaque origin": "browsers.html#concept-origin-opaque",
     "optgroup": "forms.html#the-optgroup-element",
     "option": "forms.html#the-option-element",
     "origin": "browsers.html#origin",
